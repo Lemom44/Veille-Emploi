@@ -23,12 +23,15 @@ JSEARCH_KEY     = os.environ["JSEARCH_API_KEY"]  # RapidAPI key
 SCORE_MINIMUM   = 6   # n'envoyer que les offres scorées >= à cette valeur
 
 POSTES_CIBLES = [
-    "Directeur Général industrie",
+    "Directeur Général",
+    "Directeur de Site",
     "Directeur d'Usine",
-    "Directeur de Site industriel",
-    "Directeur Business Unit industrie",
+    "Directeur de Site Industriel",
+    "Directeur Business Unit",
     "Directeur des Opérations",
-    "Directeur de Programmes industrie",
+    "Directeur de Programmes",
+    "Chief of Staff",
+
 ]
 
 PROFIL = """
