@@ -1,0 +1,41 @@
+name: Veille Emploi Quotidienne
+
+on:
+  # Déclenchement automatique tous les jours à 7h00 (heure de Paris)
+  # GitHub Actions tourne en UTC → 7h Paris = 5h UTC (heure d'été) / 6h UTC (hiver)
+  schedule:
+    - cron: "0 5 * * 1-5"   # Lundi–Vendredi à 7h (heure d'été)
+    # Remplace par "0 6 * * 1-5" en heure d'hiver (octobre→mars)
+
+  # Déclenchement manuel depuis l'interface GitHub (pour tester)
+  workflow_dispatch:
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # 1. Récupérer le code du dépôt
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Installer Python 3.11
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Installer les dépendances
+      - name: Install dependencies
+        run: pip install requests
+
+      # 4. Lancer le script de veille
+      - name: Run veille emploi
+        env:
+          GMAIL_FROM:        ${{ secrets.GMAIL_FROM }}
+          GMAIL_TO:          ${{ secrets.GMAIL_TO }}
+          GMAIL_APP_PWD:     ${{ secrets.GMAIL_APP_PWD }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          JSEARCH_API_KEY:   ${{ secrets.JSEARCH_API_KEY }}
+        run: python veille_emploi.py
