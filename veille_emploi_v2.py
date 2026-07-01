@@ -82,8 +82,6 @@ APEC_REQUETES = [
     "directeur+business+unit",
     "directeur+operations",
     "directeur+programmes",
-    "directeur+filiale",
-    "directeur+industriel",
     "Chief+of+staff",
     "COO",
     "Directeur+operations",
@@ -117,15 +115,17 @@ def fetch_apec():
 # ══════════════════════════════════════════════════════════════════════════
 
 INDEED_REQUETES = [
-    "directeur general industrie",
+    "directeur general",
     "directeur usine",
-    "directeur site industrie",
+    "directeur site industriel",
     "directeur business unit",
     "directeur operations",
     "directeur programmes",
-    "DG industrie PME ETI",
+    "chief of staff",
+    "DG PME ETI",
     "plant director france",
-    "general manager industrie france",
+    "Chief of staff",
+    "general manager france",
 ]
 
 def fetch_indeed_fr():
@@ -159,11 +159,13 @@ def fetch_indeed_fr():
 # ══════════════════════════════════════════════════════════════════════════
 
 CADREMPLOI_REQUETES = [
-    "directeur-general-industrie",
+    "directeur-general",
     "directeur-usine",
+    "directeur-site-industriel",
     "directeur-business-unit",
     "directeur-operations",
-    "directeur-site",
+    "coo",
+    "chief-of-staff",
     "directeur-programmes",
 ]
 
@@ -197,13 +199,14 @@ def fetch_cadremploi():
 # ══════════════════════════════════════════════════════════════════════════
 
 ADZUNA_REQUETES = [
-    "directeur general industrie",
+    "directeur general",
     "directeur usine",
+    "directeur site industriel",
     "directeur business unit",
     "directeur operations",
+    "directeur programmes",
     "plant director",
     "general manager France",
-    "directeur filiale",
     "chief operating officer France",
 ]
 
