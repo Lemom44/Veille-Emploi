@@ -33,4 +33,4 @@ jobs:
           # Adzuna optionnel — ajouter le secret si configuré
           ADZUNA_APP_ID:     ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY:    ${{ secrets.ADZUNA_APP_KEY }}
-        run: python veille_emploi_v2.py
+        run: python veille_emploi_v3.py
