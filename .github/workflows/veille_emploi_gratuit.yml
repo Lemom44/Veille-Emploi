@@ -1,1 +1,35 @@
 
+name: Veille Emploi Gratuite
+
+on:
+  schedule:
+    - cron: "0 5 * * 1-5"   # Lundi-Vendredi 7h00 Paris (heure d'été)
+    # Heure d'hiver (nov-mars) : remplacer par "0 6 * * 1-5"
+
+  workflow_dispatch:          # Déclenchement manuel depuis GitHub
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.6.0
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Run veille emploi
+        env:
+          GMAIL_FROM:        ${{ secrets.GMAIL_FROM }}
+          GMAIL_TO:          ${{ secrets.GMAIL_TO }}
+          GMAIL_APP_PWD:     ${{ secrets.GMAIL_APP_PWD }}
+          ADZUNA_APP_ID:     ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY:    ${{ secrets.ADZUNA_APP_KEY }}
+        run: python veille_emploi_gratuit.py
