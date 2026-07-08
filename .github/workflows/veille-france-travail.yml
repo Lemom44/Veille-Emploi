@@ -1,0 +1,35 @@
+name: Veille France Travail
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # tous les jours à 6h UTC — ajuster selon besoin
+  workflow_dispatch: {}   # permet aussi un lancement manuel depuis GitHub
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install requests
+
+      - name: Interroger France Travail
+        env:
+          FT_CLIENT_ID: ${{ secrets.FT_CLIENT_ID }}
+          FT_CLIENT_SECRET: ${{ secrets.FT_CLIENT_SECRET }}
+        run: python3 fetch_france_travail.py --output ft_offers.json
+
+      - name: Committer le résultat si changement
+        run: |
+          git config user.name "agon-veille-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add ft_offers.json
+          git diff --cached --quiet || git commit -m "Mise à jour veille France Travail"
+          git push
