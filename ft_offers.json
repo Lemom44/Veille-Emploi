@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T07:49:32.203534+00:00",
+  "generated_at": "2026-07-09T09:46:31.052229+00:00",
   "queries": [
     "directeur général",
     "directeur de business unit",
@@ -8,6 +8,356 @@
     "COO"
   ],
   "results": [
+    {
+      "id": "210ZCCH",
+      "intitule": "Directeur général adjoint, finances, juridique, administration (H/F)",
+      "description": "Sous l'autorité de la Directrice Générale des Services vous aurez pour missions : \n Participation au pilotage stratégique de la collectivité:\n- Participe à la définition des priorités administratives et financières de la collectivité ; \n- Conseille la DGS et les élus sur la faisabilité juridique, budgétaire et organisationnelle de projets ; \n- Contribue à la préparation des arbitrages stratégiques ; \n- Assure une veille sur les risques financiers, juridiques, contractuels et organisationnels ; \n- Participe aux réunions de direction et aux réunions de coordination avec les élus ; \n- Propose des outils d'aide à la décision : tableaux de bord, notes d'analyse, simulations financières, alertes juridiques ; \n- Veille à la cohérence des actions des services placés sous sa responsabilité avec les orientations de la direction générale. \n Pilotage financier et budgétaire / Commande publique :\n- Préparer la stratégie budgétaire annuelle et pluriannuelle ; \n- Coordonner l'élaboration du budget primitif, des décisions modificatives, du budget supplémentaire et des CFU (1 budget, 8 budgets annexes) ; \n- Participer à la préparation du débat d'orientation budgétaire ; \n- Superviser l'exécution budgétaire et sécuriser les procédures budgétaires et comptables ; \n- Suivre la trésorerie, l'endettement, les engagements financiers et les marges de manœuvre ; \n- Élaborer ou consolider la prospective financière pluriannuelle ; \n- Suivre les autorisations de programme et crédits de paiement, le cas échéant ; \n- Accompagner les services dans la préparation et le suivi de leurs budgets ; \n- Mettre en place des outils de contrôle de gestion ; \n- Identifier les pistes d'optimisation des dépenses et de sécurisation des recettes ; \n- Suivre les subventions, participations, dotations et cofinancements ; \n- Assurer le lien avec et les partenaires financiers ; \n- Être garant(e) du respect des procédures à appliquer dans le cadre de commandes/marchés publics\n- Produire des notes financières à destination de la DGS, du Maire et des élus. \n Sécurisation juridique et administrative :\n- La veille juridique générale applicable aux collectivités territoriales ; \n- L'analyse juridique des projets municipaux ; \n- La sécurisation des arrêtés, conventions, décisions et contrats ; \n- L'appui aux services dans la rédaction d'actes administratifs ; \n- Le suivi des contentieux et précontentieux en lien avec les avocats, assureurs et services concernés ; \n- La gestion des demandes complexes liées au droit administratif, au domaine public, à la responsabilité de la collectivité ou aux pouvoirs de police administrative du maire ; \n- le suivi des procédures de contrôle de légalité ; \n- L'organisation et la formalisation des procédures internes ; \n- La sécurisation des circuits de validation ; \n- La diffusion d'une culture juridique commune auprès des services. \nIl/elle alerte la DGS sur les risques juridiques, propose des solutions opérationnelles et veille à concilier sécurité juridique, efficacité administrative et continuité du service public.\n Management et coordination des services rattachés :\n- Fixer les priorités opérationnelles des services rattachés ; \n- Organiser la répartition des missions et la continuité de service ; \n- Assurer le suivi de l'activité, des indicateurs et des projets ; \n- Conduire les réunions de coordination du pôle ; \n- Contribuer à l'évaluation professionnelle des agents relevant de son périmètre ; \n- Identifier les besoins de formation, d'accompagnement ou de montée en compétence ; \n- Améliorer la qualité du service rendu aux usagers et aux services internes. \n- Contribuer à la recherche de financements externes ; \n- Piloter les tableaux de bord financiers. \nMissions transversales: Modernisation des services publics locaux (contribue à l'amélioration continue de l'organisation administrative en proposant des mesures pour optimiser les process)",
+      "dateCreation": "2026-07-09T10:51:21.251Z",
+      "dateActualisation": "2026-07-09T10:54:18.643Z",
+      "lieuTravail": {
+        "libelle": "85 - L ILE D YEU",
+        "latitude": 46.724462,
+        "longitude": -2.348599,
+        "codePostal": "85350",
+        "commune": "85113"
+      },
+      "romeCode": "M1223",
+      "romeLibelle": "Chef / Cheffe des services administratifs et financiers",
+      "appellationlibelle": "Adjoint / Adjointe à la DAF",
+      "entreprise": {
+        "nom": "MAIRIE",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "2 An(s)",
+      "formations": [
+        {
+          "codeFormation": "13121",
+          "domaineLibelle": "Gestion publique",
+          "niveauLibelle": "Bac+3, Bac+4 ou équivalents",
+          "exigence": "S"
+        }
+      ],
+      "competences": [
+        {
+          "code": "300323",
+          "libelle": "Elaborer, suivre et piloter un budget",
+          "exigence": "S"
+        },
+        {
+          "code": "109420",
+          "libelle": "Superviser la gestion financière",
+          "exigence": "S"
+        },
+        {
+          "code": "120713",
+          "libelle": "Améliorer des procédures administratives",
+          "exigence": "S"
+        },
+        {
+          "code": "506894",
+          "libelle": "Analyser les écarts de budget, des coûts et proposer des ajustements",
+          "exigence": "S"
+        },
+        {
+          "code": "124377",
+          "libelle": "Assurer la gestion administrative d'une activité",
+          "exigence": "S"
+        },
+        {
+          "code": "491798",
+          "libelle": "Concevoir et mettre en œuvre les procédures de gestion administrative interne",
+          "exigence": "S"
+        },
+        {
+          "code": "117015",
+          "libelle": "Contrôler la régularité des états financiers",
+          "exigence": "S"
+        },
+        {
+          "code": "511537",
+          "libelle": "Coordonner et superviser les opérations quotidiennes du service administratif et financier",
+          "exigence": "S"
+        },
+        {
+          "code": "500795",
+          "libelle": "Coordonner les activités entre différents départements",
+          "exigence": "S"
+        },
+        {
+          "code": "491799",
+          "libelle": "Définir et suivre l'activité des collaborateurs",
+          "exigence": "S"
+        },
+        {
+          "code": "504091",
+          "libelle": "Développer des stratégies d'amélioration continue",
+          "exigence": "S"
+        },
+        {
+          "code": "484006",
+          "libelle": "Elaborer des prévisions budgétaires",
+          "exigence": "S"
+        },
+        {
+          "code": "123044",
+          "libelle": "Evaluer des risques financiers",
+          "exigence": "S"
+        },
+        {
+          "code": "502118",
+          "libelle": "Faciliter la collaboration entre les équipes",
+          "exigence": "S"
+        },
+        {
+          "code": "503285",
+          "libelle": "Optimiser les processus administratifs",
+          "exigence": "S"
+        },
+        {
+          "code": "403399",
+          "libelle": "Préparer les dossiers et vérifier les risques potentiels tels que la non-conformité réglementaire",
+          "exigence": "S"
+        },
+        {
+          "code": "400119",
+          "libelle": "Suivre le budget de fonctionnement du périmètre confié",
+          "exigence": "S"
+        },
+        {
+          "code": "506828",
+          "libelle": "Superviser le respect des procédures internes",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "commentaire": "Traitement indiciaire + RI + prime annuelle + Tickets restaurant + CE",
+        "complement1": "Primes",
+        "complement2": "Titres restaurant / Prime de panier",
+        "listeComplements": [
+          {
+            "code": "1",
+            "libelle": "Primes"
+          },
+          {
+            "code": "6",
+            "libelle": "Titres restaurant / Prime de panier"
+          }
+        ]
+      },
+      "dureeTravailLibelle": "36H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "MAIRIE - M. Patrice BERNARD",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210ZCCH",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210ZCCH"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "84.11Z",
+      "secteurActivite": "84",
+      "secteurActiviteLibelle": "Administration publique générale",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Faire preuve de leadership",
+          "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        },
+        {
+          "libelle": "Avoir l'esprit d'équipe",
+          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
+        }
+      ],
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210ZCCH"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "36H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "210YPHY",
+      "intitule": "Directeur(trice) Général(e) Adjoint(e) (H/F)",
+      "description": "CV et Lettre de motivation Exigés \n\nRejoignez une association engagée au service des personnes les plus vulnérables\n\nAssociation reconnue du secteur médico-social, employant près de 200 salariés, nous accompagnons des personnes en situation de vulnérabilité à travers plusieurs établissements et services. Fidèles à nos valeurs de primauté de l'éducatif comme acte structurant, de l'intérêt supérieur de l'enfant, de la dignité et de la reconnaissance des personnes, de l'émancipation et la responsabilité partagée, de l'indépendance associative, l'engagement dans le territoire comme la fiabilité institutionnelle, nous plaçons la qualité de l'accompagnement au cœur de notre projet associatif en cours de refonte.\nDans le cadre du renforcement de notre gouvernance, nous recrutons notre futur(e) Directeur(trice) Général(e) Adjoint(e).\nVos missions\n\nRattaché(e) à la Directrice Générale, que vous assistez dans la définition, la mise en œuvre et le pilotage de la stratégie associative, vous participez activement à la conduite de l'ensemble des activités de l'association. Vous contribuez à la coordination des établissements et services et assurez la continuité de la direction générale en son absence ou par délégation.\nÀ ce titre, vous êtes notamment chargé(e) de :\nPilotage stratégique et gouvernance\n- Participer à l'élaboration et à la mise en œuvre du projet associatif et des orientations définies par le Conseil d'Administration.\n- Assister la Directrice Générale dans le pilotage stratégique de l'Association et contribuer au développement de nouveaux projets.\n- Préparer les dossiers stratégiques présentés aux instances associatives et assurer le suivi des décisions.\n- Participer à la veille stratégique afin d'anticiper les évolutions réglementaires, financières et des politiques publiques.\nManagement et coordination\n- Animer, coordonner et accompagner les Directeurs d'établissements et Chefs de services dans la conduite de leurs missions.\n- Favoriser la coopération entre les établissements, développer les démarches transversales et promouvoir une culture managériale commune.\n- Accompagner les transformations organisationnelles et les projets d'amélioration continue.\n- Participer à l'animation du Comité de Direction.\nPilotage opérationnel\n- Contribuer au suivi de l'activité des établissements et à la qualité des accompagnements.\n- Veiller à la bonne application des obligations réglementaires, des recommandations de bonnes pratiques professionnelles et des procédures internes.\n- Participer au suivi des budgets, des investissements et des indicateurs de gestion, en lien avec les fonctions support.\n- Superviser ou piloter directement certains projets structurants confiés par la Directrice Générale.\nRessources humaines et dialogue social\n- Contribuer à la définition et au déploiement de la politique RH.\n- Participer au développement des compétences, à l'accompagnement des équipes de Direction et à l'évolution des pratiques managériales.\n- Représenter la Direction Générale dans certaines instances internes ou externes et contribuer à la qualité du dialogue social.\nDéveloppement des partenariats\n- Représenter l'Association auprès des partenaires institutionnels, des autorités de contrôle et de financement, des réseaux professionnels et des acteurs du territoire.\n- Participer au développement des coopérations, à la recherche de nouvelles opportunités et au rayonnement de l'Association.",
+      "dateCreation": "2026-07-08T17:52:55.637Z",
+      "dateActualisation": "2026-07-09T11:00:34.934Z",
+      "lieuTravail": {
+        "libelle": "63 - CLERMONT FERRAND",
+        "latitude": 45.791423,
+        "longitude": 3.113126,
+        "codePostal": "63000",
+        "commune": "63113"
+      },
+      "romeCode": "K1424",
+      "romeLibelle": "Directeur / Directrice d'association",
+      "appellationlibelle": "Directeur / Directrice d'association",
+      "entreprise": {
+        "nom": "ASS DEPART SAUVEGARDE ENFANCE ADOLESCE",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDD",
+      "typeContratLibelle": "CDD - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "5 An(s)",
+      "formations": [
+        {
+          "niveauLibelle": "Bac+5 et plus ou équivalents",
+          "commentaire": "CAFDES",
+          "exigence": "E"
+        },
+        {
+          "codeFormation": "44047",
+          "domaineLibelle": "Direction établissement médico-social",
+          "niveauLibelle": "Bac+5 et plus ou équivalents",
+          "commentaire": "MASTER 2",
+          "exigence": "E"
+        }
+      ],
+      "permis": [
+        {
+          "libelle": "B mention 79.06 (= EB)",
+          "exigence": "S"
+        }
+      ],
+      "competences": [
+        {
+          "code": "516040",
+          "libelle": "Connaissance du secteur non lucratif",
+          "exigence": "S"
+        },
+        {
+          "code": "516038",
+          "libelle": "Gestion de projets associatifs",
+          "exigence": "S"
+        },
+        {
+          "code": "476782",
+          "libelle": "Leadership d'équipe",
+          "exigence": "S"
+        },
+        {
+          "code": "482627",
+          "libelle": "Communiquer efficacement avec les parties prenantes internes et externes",
+          "exigence": "S"
+        },
+        {
+          "code": "483653",
+          "libelle": "Encourager l'innovation et la créativité au sein de l'équipe",
+          "exigence": "S"
+        },
+        {
+          "code": "482977",
+          "libelle": "Gérer les conflits internes",
+          "exigence": "S"
+        },
+        {
+          "code": "517212",
+          "libelle": "Maintenir la conformité réglementaire",
+          "exigence": "S"
+        },
+        {
+          "code": "122509",
+          "libelle": "Mettre en place des partenariats stratégiques",
+          "exigence": "S"
+        },
+        {
+          "code": "499896",
+          "libelle": "Optimiser l'utilisation des ressources disponibles",
+          "exigence": "S"
+        },
+        {
+          "code": "508897",
+          "libelle": "Soutenir le développement professionnel des collaborateurs",
+          "exigence": "S"
+        },
+        {
+          "code": "517208",
+          "libelle": "Superviser les projets en cours",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 45000.0 Euros à 54000.0 Euros sur 12 mois",
+        "commentaire": "hors indemnités avenant 265",
+        "complement1": "CSE",
+        "complement2": "Primes",
+        "listeComplements": [
+          {
+            "code": "9",
+            "libelle": "CSE"
+          },
+          {
+            "code": "1",
+            "libelle": "Primes"
+          }
+        ]
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée...",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "Agence France Travail CLERMONT FLAUBERT",
+        "coordonnees1": "184 BOULEVARD GUSTAVE FLAUBERT",
+        "coordonnees2": "63000 Clermont-Ferrand",
+        "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210YPHY"
+      },
+      "agence": {
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210YPHY"
+      },
+      "nombrePostes": 1,
+      "deplacementCode": "2",
+      "deplacementLibelle": "Ponctuels Zone départementale",
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "88.99B",
+      "secteurActivite": "88",
+      "secteurActiviteLibelle": "Action sociale sans hébergement n.c.a.",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Faire preuve de leadership",
+          "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        },
+        {
+          "libelle": "Faire preuve de sens des responsabilités",
+          "description": "Capacité à engager sa responsabilité pour atteindre un objectif clairement exprimé et à signaler les éventuels freins à lever pour atteindre l'objectif."
+        }
+      ],
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210YPHY"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée",
+          " Horaires annuels"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
     {
       "id": "210YGCF",
       "intitule": "Directeur général, Ardèche (07) (H/F)",
@@ -66,6 +416,125 @@
       "origineOffre": {
         "origine": "1",
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210YGCF"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "210XKVD",
+      "intitule": "DIRECTEUR GENERAL (H/F)",
+      "description": "Le Comité National d'Accueil et d'Actions pour les Réunionnais en Mobilité (CNARM) est une association reconnue d'utilité publique qui œuvre depuis plus de 60 ans pour favoriser l'insertion professionnelle et sociale des Réunionnais. Présent à La Réunion et en Métropole, le CNARM accompagne chaque année plusieurs milliers de bénéficiaires dans leurs projets de mobilité, en leur offrant un soutien adapté : information, orientation, préparation au départ, prise en charge logistique et suivi sur site. Forte de ses équipes pluridisciplinaires réparties sur différents sites, elle contribue activement à l'insertion durable des Réunionnais, en veillant à la qualité des accompagnements et à la bonne gestion des fonds publics qui lui sont confiés.\nDans ce cadre, le recrutement d'un Directeur Général revêt une importance stratégique pour l'association. En effet, ce poste assure le pilotage opérationnel et la mise en œuvre du projet associatif. Son rôle est déterminant pour consolider les acquis, répondre aux exigences des institutions et impulser une dynamique nouvelle de développement et de modernisation au service des bénéficiaires et du territoire.\nMissions principales\nLe Directeur Général assure la direction opérationnelle de l'association, dans le respect des orientations définies par le Président, le Bureau et le Conseil d'Administration. Il pilote la mise en œuvre du projet associatif, coordonne l'ensemble des services et garantit la bonne gestion humaine, financière et administrative de la structure.\nResponsabilités et activités\n1. Gouvernance et pilotage stratégique\n- Mettre en œuvre les décisions du Président, du Bureau et du Conseil d'Administration.\n- Contribuer à la définition et à l'évolution de la stratégie associative.\n- Assurer une veille réglementaire et institutionnelle.\n2. Management et organisation\n- Encadrer et animer l'équipe de direction (DGA, responsables de services).\n- Garantir la cohésion et la transversalité entre les différents pôles (administratif, financier, RH, technique, opérationnel).\n- Définir les objectifs annuels et suivre les résultats.\n- Favoriser la communication interne et la qualité de vie au travail.\n3. Gestion financière et administrative\n- Superviser la préparation et l'exécution budgétaire.\n- Garantir la conformité des procédures financières et administratives.\n- Assurer la recherche et le suivi des financements (subventions, marchés publics, partenariats).\n- Superviser les relations avec les commissaires aux comptes, les experts-comptables et les partenaires institutionnels.\n4. Développement et partenariats\n- Développer et entretenir des relations avec les partenaires locaux, nationaux et internationaux.\n- Rechercher de nouvelles opportunités de financement et de développement.\n- Valoriser l'image et les actions de l'association auprès des acteurs externes.\n5. Gestion des ressources humaines\n- Superviser la gestion RH (recrutement, formation, dialogue social, gestion des carrières).\n- Assurer le respect du droit du travail et des obligations légales.\n- Animer le dialogue social en lien avec les instances représentatives du personnel (CSE).\nCompétences requises\n- Savoir-faire :\no Pilotage stratégique et opérationnel\no Maîtrise des finances associatives et des marchés publics\no Capacité à fédérer et à manager des équipes pluridisciplinaires\no Négociation et représentation institutionnelle\no Connaissance approfondie du droit du travail et du secteur associatif\n- Savoir-être :\no Leadership et sens des responsabilités\no Intégrité, rigueur et loyauté\no Excellentes qualités relationnelles et communicationnelles\no Vision stratégique alliée à une capacité opérationnelle\no Résistance au stress et sens de l'arbitrage",
+      "dateCreation": "2026-07-08T09:02:19.846Z",
+      "dateActualisation": "2026-07-09T10:04:46.683Z",
+      "lieuTravail": {
+        "libelle": "974 - ST DENIS",
+        "latitude": -20.893343,
+        "longitude": 55.466415,
+        "codePostal": "97400",
+        "commune": "97411"
+      },
+      "romeCode": "K1422",
+      "romeLibelle": "Directeur général / Directrice générale d'établissement public",
+      "appellationlibelle": "Directeur(trice) général(e) fonction publique et assimilé",
+      "entreprise": {
+        "nom": "CTE NAT ACCUEIL ACTIONS REUN EN MOBILITE",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "2 An(s) - Et/ou Formation BAC+5",
+      "experienceCommentaire": "Et/ou Formation BAC+5",
+      "formations": [
+        {
+          "niveauLibelle": "Bac+5 et plus ou équivalents",
+          "exigence": "S"
+        }
+      ],
+      "competences": [
+        {
+          "code": "119313",
+          "libelle": "Gestion de crise",
+          "exigence": "S"
+        },
+        {
+          "code": "495652",
+          "libelle": "Innovation managériale",
+          "exigence": "S"
+        },
+        {
+          "code": "300009",
+          "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
+          "exigence": "E"
+        },
+        {
+          "code": "300337",
+          "libelle": "Définir la stratégie financière d'une structure",
+          "exigence": "E"
+        },
+        {
+          "code": "403620",
+          "libelle": "Fédérer et stimuler les équipes",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "commentaire": "A négocier ",
+        "complement1": "Titres restaurant / Prime de panier",
+        "complement2": "Complémentaire santé",
+        "listeComplements": [
+          {
+            "code": "6",
+            "libelle": "Titres restaurant / Prime de panier"
+          },
+          {
+            "code": "7",
+            "libelle": "Complémentaire santé"
+          }
+        ]
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "CTE NAT ACCUEIL ACTIONS REUN EN MOBILITE - M. BERNARD PICARDO",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210XKVD",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210XKVD"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "deplacementCode": "2",
+      "deplacementLibelle": "Ponctuels",
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "88.99B",
+      "secteurActivite": "88",
+      "secteurActiviteLibelle": "Action sociale sans hébergement n.c.a.",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Etre ouvert aux changements",
+          "description": "Capacité à s'adapter à des situations variées, à réagir à l'imprévu, gérer l'incertitude pour s'ajuster à des organisations, des collectifs de travail, des habitudes, des valeurs propres à l'entreprise."
+        },
+        {
+          "libelle": "Faire preuve de leadership",
+          "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        }
+      ],
+      "trancheEffectifEtab": "10 à 19 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210XKVD"
       },
       "offresManqueCandidats": false,
       "contexteTravail": {
@@ -2306,7 +2775,7 @@
       "intitule": "DIRECTEUR(TRICE) GÉNÉRAL(E) DES SERVICES (H/F)",
       "description": "LA VILLE DE PAMIERS RECHERCHE SON/SA DIRECTEUR(TRICE) GÉNÉRAL(E) DES SERVICES.\n\nPlacé sous l'autorité de Monsieur le Marie et en lien direct avec les élus, vous pilotez la stratégie, l'action de la collectivité, ainsi que la mise en œuvre des projets politiques déclinés par la nouvelle municipalité.\n\nMissions principales :\n- Stratégie territoriale : conseil à Monsieur le Maire et aux élus, pilotage des projets, sécurisation des décisions \n- Pilotage des ressources : optimisation de la gestion financière, des moyens, des ressources humaines et  performance des services \n- Conduite de projets : impulsion, coordination et suivi des projets structurants \n- Sécurisation et évaluation : contrôle des risques, évaluation des politiques publiques \n- Représentation : développement des partenariats et coopérations territoriales \n- Veille stratégique : anticipation des évolutions réglementaires et territoriales\n- Conseil municipal : préparation, coordination et suivi des conseils municipaux, avec sécurisation administrative et mise en œuvre des décisions prises\n- Défense des intérêts de la commune auprès de l'intercommunalité et des syndicats : suivi des partenariats et coordination des dossiers stratégiques du territoire\n- Assurer une bonne collaboration avec les partenaires institutionnels de la commune : gestion des relations avec les partenaires Etat, Région, Département\n\nMissions managériales et organisationnelles :\n- Porter et conduire le changement dans une logique d'efficacité et de performance.\n- Manager de façon opérationnelle et transversale l'équipe de direction et les services municipaux (340 agents).\n- Définir des objectifs collectifs et individuels.\n- Veiller à la bonne organisation et à la qualité de vie au travail.\n- Veiller à maintenir un bon climat social, basé sur le dialogue et la résolution de conflits.\n\nCompétences et aptitudes : \nCadre expérimenté de la fonction publique territoriale, vous possédez :\n- Une expérience confirmée sur un poste de direction générale des services dans une collectivité de même strate\n- Une expertise reconnue en collectivités territoriales, politiques publiques, finances publiques et droit public\n- Une expertise confirmée à piloter des projets complexes et à conduire le changement \n- De solides compétences managériales (vous managerez 11 personnes dont 9 directeurs)\n- Un sens stratégique affirmé, du leadership et d'excellentes qualités relationnelles \n- Capacité à travailler en liens étroits avec le Maire, les élus municipaux et le directeur de cabinet\n- Engagé/e, motivé/e, grand sens de l'initiative et des responsabilités.\n- Capacité à maitriser la conduite de projets, intéressé/e par la mesure de l'efficacité des politiques publiques.\n- Forte capacité à porter des dossiers et les faire aboutir dans la durée.\n- Le goût de la rigueur, de la réactivité et un fort engagement au service de l'intérêt général\n\nQualités requises : \n- Qualités relationnelles permettant de fédérer et d'embarquer\n- Esprit synthétique, bonne organisation\n- Rigueur et fiabilité\n- Loyauté envers l'équipe municipale\n-  Capacité d'anticipation et réactivité\n- Aisance rédactionnelle\n- Grande disponibilité\n\nCONDITIONS D'EXERCICE\n- Temps de travail avec amplitude variable en fonction des nécessités de service \n- Disponibilité importante liée aux obligations du poste et à l'agenda de l'exécutif \n- Rythme soutenu avec des pics d'activité liés aux projets et échéances de la collectivité \n\nCONDITIONS DE RECRUTEMENT \n- Recrutement titulaire sur le cadre d'emplois des attachés territoriaux \n- Temps de travail : temps complet - 38h/semaine + 18 RTT\n- Possibilité de télétravail\n- Rémunération statutaire + régime indemnitaire + prestations d'action sociale (CNAS)\n\n\nCANDIDATURE (à drh@ville-pamiers.fr ou par courrier postal - Avant le 25/06/2026 17h)\n- CV + LM \n- Dernier arrêté de situation admin.",
       "dateCreation": "2026-05-19T12:13:08.407Z",
-      "dateActualisation": "2026-07-03T12:16:43.417Z",
+      "dateActualisation": "2026-07-09T10:57:40.180Z",
       "lieuTravail": {
         "libelle": "09 - PAMIERS",
         "latitude": 43.114747,
@@ -4051,7 +4520,7 @@
       "intitule": "Directeur/directrice d'Agence (H/F)",
       "description": "Dans le cadre de notre croissance, nous recrutons :\nPoste : Directeur / Directrice d'Agence \nLocalisations : Saint-Nazaire (France) \nType de contrat : CDI - Temps plein\nSecteur : Construction de charpentes métalliques (bâtiment industriel, centre commercial, hangar)\nPrise de poste : Dès que possible\n\nMissions principales :\n- Déployer localement la stratégie de développement définie par la Direction Générale\n- Structurer, organiser et encadrer une équipe opérationnelle (profils techniques, commerciaux, administratifs)\n- Superviser les projets (maisons, extensions, surélévations) dans le respect des délais, budgets et standards qualité\n- Gérer l'activité de l'agence : planification, coordination, suivi et reporting\n- Développer un réseau de clients, prescripteurs et partenaires stratégiques\n- Représenter l'entreprise auprès des acteurs institutionnels, professionnels et économiques locaux\n- Participer aux comités stratégiques du groupe et assurer le reporting à la Direction\n- Déploiement de l'offre sur le marché français \n- Développement du portefeuille clients BtoB au niveau local et national\n\nProfil recherché\n- Expérience significative (2 ans minimum) en gestion de centre de profit, direction d'agence ou direction de projet dans les secteurs du bâtiment, de la construction ou de l'ingénierie\n- Compétences confirmées en pilotage d'équipe, développement commercial et gestion de projet\n- Forte sensibilité technique dans la construction légère ou industrialisée\n- Capacité à structurer une activité, à la développer et à en assurer la rentabilité\n- Leadership, autonomie, rigueur, esprit entrepreneurial\n- Maîtrise du français (oral et écrit) exigée\n- Maîtrise de l'anglais apprécié, espagnol est un plus\n\nConditions proposées\n- Contrat à durée indéterminée\n- Statut cadre\n- Poste basé à Saint-Nazaire\n- Rémunération attractive selon profil et expérience + primes de performance\n- Déplacements ponctuels à prévoir \n- Environnement de travail dynamique, en lien direct avec une direction réactive et visionnaire\n\nPour postuler\nMerci d'envoyer votre CV et lettre de motivation par mail",
       "dateCreation": "2026-06-17T01:01:31.252Z",
-      "dateActualisation": "2026-06-24T12:55:20.997Z",
+      "dateActualisation": "2026-07-09T11:41:29.062Z",
       "lieuTravail": {
         "libelle": "44 - ST NAZAIRE",
         "latitude": 47.241002,
@@ -4180,6 +4649,7 @@
       "contact": {},
       "agence": {},
       "nombrePostes": 1,
+      "accessibleTH": false,
       "deplacementCode": "2",
       "deplacementLibelle": "Ponctuels",
       "qualificationCode": "9",
@@ -5004,269 +5474,6 @@
       "contexteTravail": {
         "horaires": [
           "35H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "210JFBN",
-      "intitule": "CHARGE DE LA COMMANDE PUBLIQUE (H/F)",
-      "description": "L'équipe « commande publique » est un service support qui contribue à la mise en œuvre des politiques publiques de la collectivité en assurant des missions transversales d'appui et d'expertise.\n\n \n\nLes chargés de la commande publique élaborent et mettent en œuvre les procédures d'achats.\n\nSous l'impulsion du gestionnaire de la commande publique, l'agent est chargé, avec ses collègues, en lien avec les services prescripteurs et, le cas échéant, les maîtres d'œuvre, de l'élaboration des dossiers de consultations des entreprises, du suivi des procédures engagées, de l'instruction des demandes d'agréement des sous-traitant et des avenants.\n\n \n\n \n\nCadre d'emploi et rémunération :  \n\nCadre C ou B de la fonction publique territoriale. \n\nGroupe fonction IFSE : poste catégorisé B3\n\nCIA annuel\n\nFilière administrative :  Adjoint administratif, adjoint administratif principal, rédacteur, rédacteur principal.\n\nPoste ouvert aux contractuels.\n\n \n\nMissions :\n\nAu sein d'une équipe composée de 4 agents et en lien avec la responsable d'équipe commande publique, vos missions consisteront à :\n\n \n\n-       Participer, au sein de l'équipe :\n\nÀ la programmation de la commande publique ;\nÀ l'aide à la rédaction, au suivi, et à la mise à jour du guide interne de la commande publique ;\n \n\nMise en œuvre des procédures d'achat :\n\n-       Conseil et information des services sur les procédures d'achat ;\n\n-       Participation à la définition des principales caractéristiques des consultations à lancer (forme des marchés, introduction de variantes, options, forme des prix, définition des critères de jugement des offres.) ;\n\n-       Rédiger les pièces administratives des dossiers de consultation des entreprises (règlement de consultation, cahiers des clauses administratives particulières), le cas échéant, contrôler les pièces administratives rédigées par les maîtres d'œuvre.\n\n-       S'assurer de la complétude des dossiers de Consultation des Entreprises (DCE) ;\n\n-       Assurer la gestion administrative et juridique des procédures de commande publique (de l'envoi de la publicité à la notification du marché)\n\n-       Être garant du respect du planning des procédures établi dans le cadre de la programmation de la commande publique ;\n\n-       Contrôler les rapports d'analyse des offres faits par les services (respect du règlement de consultation) ;\n\n-       Participation et mise en œuvre des négociations ou auditions, participation à la mise au point des marchés ;\n\n-       Préparer et participer avec les services concernés, aux commissions d'appel d'offres ou commissions spéciales pour l'attribution des marchés à procédure adaptée ;\n\n \n\nLes tâches administratives après le déroulement de la CAO :\n\n-       Rédiger, avec l'appui des services, les délibérations ou arrêtés d'attribution des marchés ;\n\n-       Vérifier le contenu de la candidature et de l'offre de l'attributaire ;\n\n-       Assurer les correspondances avec les candidats évincés et les attributaires ;\n\n-       Gestion des précontentieux dans le cadre des réponses aux demandes d'informations des entreprises évincées ;\n\n-       Rédiger les rapports de présentation et préparer la transmission des pièces de marché au contrôle de légalité ;\n\n-       Notifier les marchés ;\n\n-       Rédiger les avis d'attribution et les données essentielles ;\n\n \n\nL'exécution administrative des contrats en relation avec les services opérationnels :\n\n-       Organiser les réunions de transmission des marchés à l'équipe comptable et au service opérationnel en charge de leur suivi d'exécution.\n\n-       Assurer le suivi administratif de la vie des marchés :\n\nEtude des demandes d'agrément des sous-traitants : contrôle des pièces ;\nRédaction avec les services concernés, validation juridique et notification des avenants.\n-       Aide à l'application des mesures coercitives / pénalités\n\n-       Tenir à jour des outils de reporting",
-      "dateCreation": "2026-06-25T16:09:26.071Z",
-      "dateActualisation": "2026-06-25T16:09:26.498Z",
-      "lieuTravail": {
-        "libelle": "49 - BEAUPREAU EN MAUGES",
-        "latitude": 47.227039,
-        "longitude": -0.896894,
-        "codePostal": "49600",
-        "commune": "49023"
-      },
-      "romeCode": "K1422",
-      "romeLibelle": "Directeur général / Directrice générale d'établissement public",
-      "appellationlibelle": "Dirigeant / Dirigeante d'entreprise publique",
-      "entreprise": {
-        "nom": "START PEOPLE",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 15 Mois",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "competences": [
-        {
-          "code": "124377",
-          "libelle": "Assurer la gestion administrative d'une activité",
-          "exigence": "S"
-        },
-        {
-          "code": "300009",
-          "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
-          "exigence": "S"
-        },
-        {
-          "code": "300337",
-          "libelle": "Définir la stratégie financière d'une structure",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "libelle": "Mensuel de 2100.0 Euros à 2300.0 Euros sur 12.0 mois"
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "START PEOPLE - Mme LUDIVINE BREBION",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210JFBN",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210JFBN"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "1",
-      "deplacementLibelle": "Jamais Zone départementale",
-      "qualificationCode": "6",
-      "qualificationLibelle": "Employé qualifié",
-      "codeNAF": "78.20Z",
-      "secteurActivite": "78",
-      "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-      "trancheEffectifEtab": "50 à 99 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210JFBN"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "210DFHP",
-      "intitule": "Cadre de direction éducatif (H/F)",
-      "description": "Nous recherchons un/une Cadre de Direction Educatif, pour intégrer l'équipe de direction et piloter 3 unités d'accompagnement de la Maison d'accueil spécialisée accompagnant au total 30 personnes poly et pluri handicapées dans tous les actes de la vie quotidienne, en hébergement ou en accueil de jour.\n\nMissions et fonctions :\nDans le cadre du projet d'établissement et sous la responsabilité du directeur auquel il (elle) doit rendre compte, le/la Cadre de Direction Educatif :\n Garantit la qualité de l'accompagnement des habitants et personnes accompagnées dans le respect de leurs droits, besoins et attentes, sécurité et leur projet d'accompagnement personnalisé.\n Assure la gestion globale des unités (Ressources Humaines, matérielles, financières, développement.)\n Coordonne des activités des unités ainsi que la cohésion des professionnels dans la mise en oeuvre des différents projets en mobilisant les ressources nécessaires et le travail en réseau.\n En lien avec les autres Cadres de Direction Educatifs, garantit l'harmonisation des pratiques d'organisation et d'accompagnement sur l'ensemble de l'établissement.\nIl/Elle est un(e) véritable manager facilitateur(rice) des équipes qu'il/elle anime dans une démarche de coopération.\n\nVous serez notamment amené(e) à :\nPILOTER LES UNITES ET EQUIPES D'ACCOMPAGNEMENT\n Participer à la conception et la mise en oeuvre du projet d'établissement et du service\n Mettre en oeuvre les projets de service et projets personnalisés, en favorisant l'autodétermination\n S'assurer de l'évaluation des besoins des personnes accompagnées et de l'adéquation de la réponse apportée\npar l'équipe pluridisciplinaire\n Garantir le respect du droit et des libertés des personnes accompagnées\n Garantir le respect de la confidentialité et la gestion des dossiers des personnes accompagnées\n Garantir la sécurité des personnes accompagnées et professionnels du service\n En s'appuyant sur l'intelligence collective, proposer et développer des projets pour le service\n Représenter le service et développer des partenariats avec les institutions et services extérieurs\n S'inscrire pleinement dans la démarche d'amélioration de la qualité et porter la philosophie de l'humanitu",
-      "dateCreation": "2026-06-22T17:56:27.144Z",
-      "dateActualisation": "2026-07-08T11:45:07.060Z",
-      "lieuTravail": {
-        "libelle": "59 - LE QUESNOY",
-        "latitude": 50.224844,
-        "longitude": 3.64057,
-        "codePostal": "59530",
-        "commune": "59481"
-      },
-      "romeCode": "K1422",
-      "romeLibelle": "Directeur général / Directrice générale d'établissement public",
-      "appellationlibelle": "Cadre dirigeant / Cadre dirigeante d'un service territorial",
-      "entreprise": {
-        "nom": "ass pour adultes et jeunes handicapes",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "3 An(s) - Dans le management d'équipe",
-      "experienceCommentaire": "Dans le management d'équipe",
-      "formations": [
-        {
-          "codeFormation": "44054",
-          "domaineLibelle": "Action sociale",
-          "niveauLibelle": "Bac+5 et plus ou équivalents",
-          "commentaire": "CAFERUIS OU MASTER 1",
-          "exigence": "E"
-        }
-      ],
-      "permis": [
-        {
-          "libelle": "B - Véhicule léger",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "code": "102216",
-          "libelle": "Gestion budgétaire",
-          "exigence": "S"
-        },
-        {
-          "code": "117762",
-          "libelle": "Politiques publiques",
-          "exigence": "S"
-        },
-        {
-          "code": "100541",
-          "libelle": "Techniques de communication orales, écrites et numériques",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "libelle": "Annuel de 45000.00 Euros à 51000.00 Euros sur 12 mois",
-        "commentaire": "Selon expérience et ancienneté",
-        "complement1": "Primes",
-        "complement2": "Complémentaire santé",
-        "listeComplements": [
-          {
-            "code": "1",
-            "libelle": "Primes"
-          },
-          {
-            "code": "7",
-            "libelle": "Complémentaire santé"
-          }
-        ]
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en horaires variables",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "Agence France Travail LE QUESNOY",
-        "coordonnees1": "139 BIS ROUTE DE VALENCIENNES",
-        "coordonnees2": "59530 Quesnoy",
-        "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210DFHP"
-      },
-      "agence": {
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210DFHP"
-      },
-      "nombrePostes": 1,
-      "accessibleTH": true,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels Zone départementale",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "87.20A",
-      "secteurActivite": "87",
-      "secteurActiviteLibelle": "Hébergement social pour handicapés mentaux et malades mentaux",
-      "trancheEffectifEtab": "100 à 199 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210DFHP"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en horaires variables"
-        ],
-        "conditionsExercice": [
-          "Travail en mode projet"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": true
-    },
-    {
-      "id": "209SYPC",
-      "intitule": "Gestionnaire commande publique (H/F)",
-      "description": "La Communauté de communes des Vallées du Haut-Anjou recrute un Gestionnaire commande publique.\n\nAu sein de la Communauté de communes, placé sous l'autorité directe de directeur des affaires juridiques et de l'administration générale et en relation étroite avec les autres collaborateurs, vous assurerez notamment les missions suivantes :\n\nMissions\n- Accompagnement et conseil auprès des élus, de la direction et des services de la Communauté de communes ainsi qu'auprès des communes adhérentes au schéma de mutualisation, en matière de politique de commande publique, dans un objectif de sécurisation juridique des procédures de passation. \n- Préparation, instruction et gestion des procédures de passation de marchés publics et de concessions de services publics :\no aide au recensement et à la définition des besoins ; accompagnement, conseil et appui aux élus et aux services sur le choix des procédures ainsi que tout au long des différentes phases de passation ;\no pilotage des différentes phases de passation (publicité, réception et analyse des offres, négociation, attribution et notification) ; rédaction de l'ensemble des pièces et documents administratifs (pièces du dossier de consultation des entreprises, tableaux d'analyse, courriers et notes, procès-verbaux et comptes-rendus, etc.) ; accompagnement des services dans la rédaction des cahiers des charges techniques, puis dans la rédaction du rapport d'analyse des offres ; préparation, organisation et tenue des commissions ; suivi de la transmission des documents au contrôle de légalité.\n- Gestion et suivi de l'exécution des marchés publics et concessions de services publics : \no suivi administratif et financier de l'exécution des marchés publics et concessions de services publics : rédaction de l'ensemble des pièces et documents administratifs et contractuels (courriers, ordres de service, avenants, etc.) ; vérification des factures, décomptes, situations et autres pièces ; contrôle et suivi des clauses de révisions des prix, de reconduction, etc. ; gestion et suivi des levées de caution, paiements des sûretés ; \no enregistrement dans le logiciel de comptabilité de l'ensemble des marchés publics (Communauté de communes et communes adhérentes au schéma de mutualisation) ;\no réalisation des engagements comptables des dépenses dans le cadre des marchés de travaux et de maîtrise d'œuvre.\n\nProfil \n- Formation supérieure en droit public, en administration publique ou en gestion des collectivités territoriales ;\n- Expérience sur un poste similaire souhaitée ;\n\nCompétences \n- Maîtrise de la réglementation relative à la commande publique ;\n- Connaissances de la réglementation et de l'environnement institutionnel des collectivités territoriales ;\n- Connaissances en comptabilité publique seraient un plus ;\n- Réelles capacités de synthèse et qualités rédactionnelles ;\n- Qualités relationnelles et facultés d'adaptation ;\n- Capacité à travailler en équipe et en réseau, dans un esprit de collaboration et de recherche de solutions ;\n- Appétence et curiosité intellectuelle pour l'analyse des problématiques relatives à la passation et à l'exécution des marchés publics ;\n- Rigueur et méthode pour assurer la sécurité des procédures ;\n- Bonnes capacités d'organisation et de gestion des priorités ;\n- Autonomie pour gérer les missions quotidiennes ;\n- Maîtrise des outils bureautiques et informatiques.",
-      "dateCreation": "2026-06-15T12:33:06.664Z",
-      "dateActualisation": "2026-07-09T09:20:46.886Z",
-      "lieuTravail": {
-        "libelle": "49 - LE LION D ANGERS",
-        "latitude": 47.665086,
-        "longitude": -0.779951,
-        "codePostal": "49220",
-        "commune": "49176"
-      },
-      "romeCode": "K1422",
-      "romeLibelle": "Directeur général / Directrice générale d'établissement public",
-      "appellationlibelle": "Dirigeant / Dirigeante d'entreprise publique",
-      "entreprise": {
-        "nom": "CC DES VALLEES DU HAUT-ANJOU",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "24 Mois",
-      "competences": [
-        {
-          "code": "300009",
-          "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
-          "exigence": "S"
-        },
-        {
-          "code": "300337",
-          "libelle": "Définir la stratégie financière d'une structure",
-          "exigence": "S"
-        },
-        {
-          "code": "124377",
-          "libelle": "Assurer la gestion administrative d'une activité",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "commentaire": "Rémunération statutaire + régime indemnitaire + adhésion CNAS + contrat de prévoyance collective + participation à la mutuelle sur des contrats labellisés"
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {},
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels",
-      "qualificationCode": "6",
-      "qualificationLibelle": "Employé qualifié",
-      "codeNAF": "84.11Z",
-      "secteurActivite": "84",
-      "secteurActiviteLibelle": "Administration publique générale",
-      "trancheEffectifEtab": "250 à 499 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/209SYPC"
-      },
-      "offresManqueCandidats": true,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
-        ],
-        "conditionsExercice": [
-          "Possibilité de télétravail"
         ]
       },
       "entrepriseAdaptee": false,
@@ -13074,7 +13281,7 @@
       "intitule": "Responsable d'équipe Maintenance Industrielle - H/F (H/F)",
       "description": "Implantée dans les Hautes-Pyrénées depuis plus de 35 ans, Sud Maintenance Industrie est un acteur reconnu dans les domaines de l'ingénierie et de la maintenance industrielle. \nChez SMI, l'humain est au cœur de notre réussite : esprit d'équipe, respect et engagement sont nos valeurs.\n\nPour accompagner notre croissance, nous recrutons un(e) Directeur(trice) de Production.\n\nVos missions :\nSous la responsabilité de la Direction Générale, vous organisez et pilotez toute l'activité de maintenance et les réalisations industrielles. Vous êtes le lien entre le promoteur de l'offre commerciale et les équipes de réalisation en atelier et de montage sur site. \n\nVos principales responsabilités sont notamment : \n- Organiser les plannings d'intervention \n- Manager et accompagner une équipe de techniciens\n- Suivre les coûts, la facturation et les indicateurs de performance\n- Superviser l'atelier, les stocks, les outils et les véhicules\n- Co-participer à l'élaboration des offres commerciales\n- Garantir la sécurité (EPI, habilitations, formations...) et la qualité des interventions\n\nLe profil :\n- Formation technique en maintenance industrielle, électromécanique ou équivalent.\n- Expérience en encadrement d'équipe technique appréciée\n- Bonnes capacités d'organisation, de communication et sens du service client.\n- Esprit d'équipe, autonomie et rigueur.\n- Valeur humaine\n- Permis B \n\nCe que nous offrons :\n- Un poste clé avec des responsabilités variées\n- Un accompagnement à la prise de poste et des formations régulières\n- Une rémunération attractive selon profil et expérience : CCN métallurgie et primes d'intéressement\n- Une mutuelle 100% employeur\n- Un véhicule et téléphone portable de service\n\nType d'emploi : Temps plein 36 heures, CDI\nLieu du poste : Lourdes (65)\n\nEnvoyez nous votre CV et votre lettre de motivation à l'adresse suivante :\nContact : compta.smi65@orange.fr - 05 62 42 02 02\n\nRejoignez une entreprise à taille humaine, solide et en développement constant, où votre valeur ajoutée sera reconnue et récompensée.",
       "dateCreation": "2026-01-21T09:51:15.780Z",
-      "dateActualisation": "2026-07-08T11:25:25.132Z",
+      "dateActualisation": "2026-07-09T10:32:04.688Z",
       "lieuTravail": {
         "libelle": "65 - LOURDES",
         "latitude": 43.091651,
@@ -13128,7 +13335,7 @@
         }
       ],
       "salaire": {
-        "libelle": "Annuel de 35000.0 Euros à 42000.0 Euros sur 12.0 mois",
+        "libelle": "Annuel de 35000.0 Euros à 42000.0 Euros sur 12 mois",
         "complement1": "Intéressement / participation",
         "complement2": "Primes",
         "listeComplements": [
