@@ -1,0 +1,35 @@
+name: Veille Adzuna
+
+on:
+  schedule:
+    - cron: "30 5 * * *"   # tous les jours à 5h30 UTC — décalé de la veille France Travail
+  workflow_dispatch: {}
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install requests
+
+      - name: Interroger Adzuna
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python3 fetch_adzuna.py --output adzuna_offers.json
+
+      - name: Committer le résultat si changement
+        run: |
+          git config user.name "agon-veille-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add adzuna_offers.json
+          git diff --cached --quiet || git commit -m "Mise à jour veille Adzuna"
+          git push
