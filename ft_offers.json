@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:07:08.829066+00:00",
+  "generated_at": "2026-07-15T08:12:17.125239+00:00",
   "queries": [
     "directeur général",
     "directeur de business unit",
@@ -8,6 +8,88 @@
     "COO"
   ],
   "results": [
+    {
+      "id": "211DSRK",
+      "intitule": "DIRECTEUR GÉNÉRAL OPÉRATIONNEL ADJOINT (H/F)",
+      "description": "Dans le cadre du développement de la société POK, vous serez en charge d'assister le directeur général opérationnel dans les divers aspects de son activité.  \n\nPoste à pourvoir dès que possible\n\nVos Missions :\nAssistance au directeur général opérationnel dans ses missions au quotidien\nSuivi de projets au moyen ou long terme (renouvellement du parc machine, gestion des stocks, création de nouveaux ateliers ou de postes etc)\nRéorganisation de la supply chain afin de réduire coûts et des délais\nAugmentation de la productivité\nRéorganisation du travail\nMise en place d'objectifs par équipe\n\nVotre Profil :\nBonne communication\nLecture de plans\nBonnes connaissances en logistique\nIntérêt des techniques de montage et bonnes connaissances en mécanique\nCapacités managériales, savoir s'imposer\nOrganisé et précis\nPlanificateur\n\nVos avantages :\nPrimes (sur objectif si applicable, à la signature si applicable, présence, cooptation)\nWelcome pack\nAccord de participation aux bénéfices\nComité d'entreprise - achats à prix réduit\nParticipation à la complémentaire santé\nParticipation au transport domicile/travail à partir de 10km jusqu'à 55km pour un trajet par jour\nPrise en charge du transport en commun domicile/travail à 100% jusqu'à 55km pour un trajet par jour\nChargement gratuit à des bornes pour vélo électrique, moto électrique et voiture électrique\nConvention de la métallurgie (prime d'ancienneté, jours d'ancienneté)\nUne prévoyance dont 43% de la cotisation est prise en charge par l'employeur\nEpargne salariale\nAide à la mobilité (action logement)\nProcessus d'intégration\nFormation interne et externe, continue\nAccompagnement vers la polyvalence\nInteraction avec de nombreux services\nPromotion interne\nPossibilité d'évolution (direction)\nUne voiture est à disposition pour les déplacements entre bâtiments et visites fournisseurs\n\nAutres informations :\nDépartement : Production et logistique\nType de contrat : Contrat à durée indéterminée (CDI), Temps plein\nDurée du contrat : indéterminée\nDate de début : dès que possible\nDéplacement : à Nogent-sur-Seine et ponctuellement clients, fournisseurs et partenaires\nTélétravail : non\nPoste ouvert aux personnes en situation de handicap",
+      "dateCreation": "2026-07-15T08:38:26.012Z",
+      "dateActualisation": "2026-07-15T08:38:26.428Z",
+      "lieuTravail": {
+        "libelle": "10 - NOGENT SUR SEINE",
+        "latitude": 48.492518,
+        "longitude": 3.498124,
+        "codePostal": "10400",
+        "commune": "10268"
+      },
+      "romeCode": "M1301",
+      "romeLibelle": "Dirigeant / Dirigeante d'entreprise privée",
+      "appellationlibelle": "Directeur(trice) général(e) adjoint(e) grande entreprise",
+      "entreprise": {
+        "nom": "POK",
+        "description": "POK est l'un des leaders europens dans la fabrication de matriels de lutte contre l'incendie. Rejoignez-nous pour accompagner notre croissance, relever de grands dfis et dcouvrir une structure internationale. Nous sommes engags et nous soutenons l'galit. Nous respectons les diffrences et nous sommes en faveur de la diversit. Toutes les mesures d'hygine et de scurit prconises par le gouvernement sont mises en place et values rgulirement.",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "2 An(s)",
+      "langues": [
+        {
+          "libelle": "Anglais",
+          "exigence": "E"
+        }
+      ],
+      "permis": [
+        {
+          "libelle": "B - Véhicule léger",
+          "exigence": "E"
+        }
+      ],
+      "competences": [
+        {
+          "libelle": "Maîtrise d'Excel",
+          "exigence": "E"
+        },
+        {
+          "libelle": "Compétences mécaniques",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "commentaire": "à négocier selon le profil"
+      },
+      "dureeTravailLibelle": "39H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "POK - Mme Alexandra GRANDPIERRE",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211DSRK",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/211DSRK"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "deplacementCode": "2",
+      "deplacementLibelle": "Ponctuels",
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "28.14Z",
+      "secteurActivite": "28",
+      "secteurActiviteLibelle": "Fabrication d'autres articles de robinetterie",
+      "trancheEffectifEtab": "50 à 99 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211DSRK"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "39H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
     {
       "id": "211CRQV",
       "intitule": "Directeur Général des Services (H/F)",
@@ -263,7 +345,7 @@
       "intitule": "Directeur Général Adjoint Transition écologique, Aménagement (H/F)",
       "description": "Rejoignez Mond'Arverne Communauté et incarnez la transition de demain\n \nVotre mission : transformer durablement un territoire vivant.\n\nÀ Mond'Arverne Communauté, nous croyons en un territoire audacieux, solidaire et responsable. Aux côtés de la Direction Générale, membre du CODIR, vous serez un acteur clé de la transformation écologique et territoriale, en pilotant un pôle stratégique au cœur des transitions.\nVotre impact sera concret : paysages et biodiversité préservés, mobilités repensées, sobriété foncière engagée, territoire adapté, politiques publiques innovantes.\n\n Vos défis :\n- Donner une vision\n- Porter une stratégie globale de transition écologique, d'aménagement et de mobilités\n- Articuler les démarches territoriales de transition écologique, énergétique et sociales\n- Anticiper les évolutions réglementaires et territoriales\n- Faire émerger des projets à fort impact (Stratégie mobilités en lien avec le SMTC, pilotage du PLUi ZAN compatible, élaboration d'une nouvelle ZA à forte valeur ajoutée) \n- Piloter et transformer\n- Superviser l'ensemble des politiques publiques du pôle\n- Suivre la performance et évaluer les actions engagées\n- Garantir la robustesse administrative, juridique et financière du pôle\n- Innover\n- Impulser des démarches nouvelles : sobriété foncière, data territoriale, expérimentations, démonstrateurs territoriaux\n- Mobiliser partenaires, élus et équipes autour d'une culture de projet\n- Aller chercher des financements (appels à projets, subventions, partenariats)\n- Assurer le suivi des compétences déléguées telles que l'eau et l'assainissement.\n\nVotre terrain de jeu : Une intercommunalité dynamique et engagée, Des équipes pluridisciplinaires à fédérer, Des projets concrets et visibles, Un cadre naturel exceptionnel (aux portes de Clermont-Ferrand)\n\nVous êtes :\n\n Stratège et visionnaire, capable de projeter un territoire dans l'avenir\n Manager fédérateur, à l'aise avec le pilotage transversal\n Expert des politiques publiques locales, notamment en aménagement, Habitat et urbanisme\n À l'aise avec le pilotage budgétaire et les leviers de financement\n Curieux-se et innovant-e, avec une réelle appétence pour les transformations\n\nCadre d'emplois : Ingénieur territorial (catégorie A) ou ingénieur en chef (A+) \n\nRémunération : Grille statutaire + 1046.33€ d'IFSE + 600€ de CIA (prime annuelle) + CNAS + participation employeur à la protection sociale et prévoyance \n+ forfait mobilité durable.\nTemps de travail : 39 heures hebdomadaires (23 jours RTT) - Télétravail possible",
       "dateCreation": "2026-07-10T16:11:10.838Z",
-      "dateActualisation": "2026-07-10T16:11:11.295Z",
+      "dateActualisation": "2026-07-15T08:41:47.740Z",
       "lieuTravail": {
         "libelle": "63 - VEYRE MONTON",
         "latitude": 45.67696,
@@ -2155,87 +2237,6 @@
       "contexteTravail": {
         "horaires": [
           "35H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "210FYVF",
-      "intitule": "DIRECTEUR GÉNÉRAL OPÉRATIONNEL ADJOINT (H/F)",
-      "description": "Dans le cadre du développement de la société POK, vous serez en charge d'assister le directeur général opérationnel dans les divers aspects de son activité.  \n\nPoste à pourvoir dès que possible\n\nVos Missions :\nAssistance au directeur général opérationnel dans ses missions au quotidien\nSuivi de projets au moyen ou long terme (renouvellement du parc machine, gestion des stocks, création de nouveaux ateliers ou de postes etc)\nRéorganisation de la supply chain afin de réduire coûts et des délais\nAugmentation de la productivité\nRéorganisation du travail\nMise en place d'objectifs par équipe\n\nVotre Profil :\nBonne communication\nLecture de plans\nBonnes connaissances en logistique\nIntérêt des techniques de montage et bonnes connaissances en mécanique\nCapacités managériales, savoir s'imposer\nOrganisé et précis\nPlanificateur\n\nVos avantages :\nPrimes (sur objectif si applicable, à la signature si applicable, présence, cooptation)\nWelcome pack\nAccord de participation aux bénéfices\nComité d'entreprise - achats à prix réduit\nParticipation à la complémentaire santé\nParticipation au transport domicile/travail à partir de 10km jusqu'à 55km pour un trajet par jour\nPrise en charge du transport en commun domicile/travail à 100% jusqu'à 55km pour un trajet par jour\nChargement gratuit à des bornes pour vélo électrique, moto électrique et voiture électrique\nConvention de la métallurgie (prime d'ancienneté, jours d'ancienneté)\nUne prévoyance dont 43% de la cotisation est prise en charge par l'employeur\nEpargne salariale\nAide à la mobilité (action logement)\nProcessus d'intégration\nFormation interne et externe, continue\nAccompagnement vers la polyvalence\nInteraction avec de nombreux services\nPromotion interne\nPossibilité d'évolution (direction)\nUne voiture est à disposition pour les déplacements entre bâtiments et visites fournisseurs\n\nAutres informations :\nDépartement : Production et logistique\nType de contrat : Contrat à durée indéterminée (CDI), Temps plein\nDurée du contrat : indéterminée\nDate de début : dès que possible\nDéplacement : à Nogent-sur-Seine et ponctuellement clients, fournisseurs et partenaires\nTélétravail : non\nPoste ouvert aux personnes en situation de handicap",
-      "dateCreation": "2026-06-24T08:53:03.964Z",
-      "dateActualisation": "2026-07-10T22:48:00.476Z",
-      "lieuTravail": {
-        "libelle": "10 - NOGENT SUR SEINE",
-        "latitude": 48.492518,
-        "longitude": 3.498124,
-        "codePostal": "10400",
-        "commune": "10268"
-      },
-      "romeCode": "M1301",
-      "romeLibelle": "Dirigeant / Dirigeante d'entreprise privée",
-      "appellationlibelle": "Directeur(trice) général(e) adjoint(e) grande entreprise",
-      "entreprise": {
-        "nom": "POK",
-        "description": "POK est l'un des leaders europens dans la fabrication de matriels de lutte contre l'incendie. Rejoignez-nous pour accompagner notre croissance, relever de grands dfis et dcouvrir une structure internationale. Nous sommes engags et nous soutenons l'galit. Nous respectons les diffrences et nous sommes en faveur de la diversit. Toutes les mesures d'hygine et de scurit prconises par le gouvernement sont mises en place et values rgulirement."
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "2 An(s)",
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "E"
-        }
-      ],
-      "permis": [
-        {
-          "libelle": "B - Véhicule léger",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "libelle": "Maîtrise d'Excel",
-          "exigence": "E"
-        },
-        {
-          "libelle": "Compétences mécaniques",
-          "exigence": "E"
-        }
-      ],
-      "salaire": {
-        "commentaire": "à négocier selon le profil"
-      },
-      "dureeTravailLibelle": "39H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "POK - Mme Alexandra GRANDPIERRE",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210FYVF",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210FYVF"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels",
-      "qualificationCode": "6",
-      "qualificationLibelle": "Employé qualifié",
-      "codeNAF": "28.14Z",
-      "secteurActivite": "28",
-      "secteurActiviteLibelle": "Fabrication d'autres articles de robinetterie",
-      "trancheEffectifEtab": "50 à 99 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210FYVF"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "39H/semaine\nTravail en journée"
         ]
       },
       "entrepriseAdaptee": false,
@@ -4419,62 +4420,6 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "210CQWH",
-      "intitule": "Directeur centre de profits (H/F)",
-      "description": "Lynx rh, cabinet de recrutement de profils qualifiés et/ ou diplômés recherche pour un de ses clients : \"Un Directeur de centre de profits\" H/F\n\n\nVos missions:\nSociété en pleine expansion depuis plusieurs années, notre client recherche son futur Directeur de site. Vous vous demandez quelles seront vos missions ? Le projet autour de ce recrutement?\n\nEt bien voici : Vous pilotez l'ensemble des activités de votre site et êtes responsable de ses résultats commerciaux, opérationnels et financiers.\nVous supervisez vos équipes au quotidien, assurez la qualité et la sécurité des opérations, et déployez les bonnes pratiques du groupe pour maximiser la performance.\n\nCe poste vous offre l'opportunité de jouer un rôle clé dans le développement stratégique du groupe, tout en accompagnant vos collaborateurs dans leur montée en compétences et en garantissant la satisfaction des clients.\n\nMISSIONS\n- Assurer le pilotage et le développement du site en encadrant et accompagnant les équipes, en organisant les rituels managériaux, en identifiant les besoins en recrutement et en veillant à la montée en compétences des collaborateurs afin de garantir la performance collective.\n- Développer la performance commerciale en déclinant et en mettant en oeuvre au niveau de l'agence la stratégie définie par le Directeur Commercial BU, en accompagnant les équipes commerciales et en suivant les indicateurs clés afin d'atteindre les objectifs fixés par la Direction de la BU.\n- Piloter la performance économique en analysant les comptes de résultats, en identifiant les leviers d'optimisation et en mettant en place les actions nécessaires pour assurer la rentabilité et l'atteinte des objectifs de chiffre d'affaires et de marge.\n- Optimiser l'organisation opérationnelle en améliorant la planification des chantiers, l'efficacité des processus et l'utilisation des ressources, en suivant les KPI de production (qualité, SAV, sécurité, rentabilité) et en garantissant le respect des standards  Votre profil:\nTitulaire d'un Bac +2/3 en gestion ou commerce, vous avez une expérience réussie d'au moins 8 ans dans le pilotage d'agence, ou dans un poste à responsabilités managériales.\nUne expérience confirmée dans l'environnement du BTP est souhaitée afin de bien appréhender les spécificités métiers et les enjeux propres à ce secteur.\n\nPersonne moteur, vous souhaitez apporter vos idées d'amélioration au quotidien. Vous restez néanmoins une personne de terrain souhaitant rester proche de ses équipes.\n\n\n\nDoté(e) d'un véritable esprit d'initiative et d'une forte capacité de créativité, vous savez identifier les opportunités de développement et mettre en oeuvre des actions concrètes pour dynamiser l'activité du site et en accroître la performance.\n\nDôté d'un fort leadership, d'un tempérament de meneur, vous souhaitez créer une réelle dynamique positive dans la société et fédérer les équipes autour d'objectifs communs.\n\nVous disposez d'un excellent sens du relationnel, vous permettant d'interagir efficacement avec les clients et les fournisseurs.",
-      "dateCreation": "2026-06-22T14:20:50.954Z",
-      "dateActualisation": "2026-07-08T22:47:05.266Z",
-      "lieuTravail": {
-        "libelle": "39 - Lons-le-Saunier",
-        "latitude": 46.671683,
-        "longitude": 5.558622,
-        "codePostal": "39000",
-        "commune": "39300"
-      },
-      "romeCode": "M1301",
-      "romeLibelle": "Dirigeant / Dirigeante d'entreprise privée",
-      "appellationlibelle": "Directeur général / Directrice générale de grande entreprise",
-      "entreprise": {
-        "nom": "LYNX RH SERVICES DEV",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "1 An(s)",
-      "salaire": {
-        "libelle": "Annuel de 55000.0 Euros à 70000.0 Euros sur 12.0 mois"
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "coordonnees1": "https://app.mytalentplug.com/redirection.aspx?ojid=pu3Yy+ycIKSBZptO7BFLFw==",
-        "urlPostulation": "https://app.mytalentplug.com/redirection.aspx?ojid=pu3Yy+ycIKSBZptO7BFLFw=="
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "qualificationCode": "6",
-      "qualificationLibelle": "Employé qualifié",
-      "codeNAF": "78.20Z",
-      "secteurActivite": "78",
-      "secteurActiviteLibelle": "Activités des agences de travail temporaire",
-      "trancheEffectifEtab": "10 à 19 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210CQWH"
-      },
-      "offresManqueCandidats": true,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "210CPSV",
       "intitule": "Directeur opérationnel (H/F)",
       "description": "Manpower CABINET EXPERTS CONSTRUCTION LYON recherche pour son client, un acteur du secteur du BTP, un Directeur opérationnel (H/F) à Lyon 9.\nDans un contexte de développement, nous recherchons un(e) Directeur(trice) Opérationnel(le) pour structurer, piloter et faire évoluer notre activité technique. \n Mission : \nManager et fédérer les équipes techniques \nStructurer et optimiser l'organisation du service pour gagner en productivité et en expertise \nAccompagner la montée en compétences et la performance opérationnelle \nPorter la vision opérationnelle dans un environnement technique exigeant \nIntervenir avec une forte présence terrain, avec des déplacements sur l'ensemble du territoire français \nFormation Bac3/4 ou ingénieur \nExpérience confirmée en management d'équipes techniques \nCapacité à structurer, faire évoluer et professionnaliser un service \nLeadership, pragmatisme et sens du résultat \nÀ l'aise dans les environnements électricité et informatique digitale \n Localisation : poste basé à Lyon, déplacements France entière \n Pourquoi nous rejoindre ? \nUn rôle stratégique, une vraie marge de manœuvre, des enjeux concrets et la possibilité de construire et faire grandir une organisation technique ambitieuse.",
@@ -5564,81 +5509,73 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "210LWKT",
-      "intitule": "Expert-Comptable Directeur Business Unit Fiscalité (H/F)",
-      "description": "En pleine croissance et forte d'une récente levée de fonds, cette start-up est spécialisée dans l'accompagnement et la gestion de patrimoine des investisseurs immobiliers. Afin de poursuivre son développement, cette entreprise dynamique recherche son futur Responsable Fiscalité Immo. Passionnés et impliqués à la réussite de leur entreprise, les associés proposent un cadre épanouissant et enrichissant : ambiance décontractée avec une équipe d'une soixantaine de personnes, forte autonomie avec un poste 100% télétravail, belles perspectives d'évolutions internes et environnement de travail fortement digitalisé.\n\nEn tant que référent en fiscalité, vous conseillez au quotidien des investisseurs immobiliers sur leur stratégie patrimoniale, les pistes d'optimisation possibles et les nouveaux leviers à leur disposition.\n\nEn totale autonomie, vous serez garant des missions suivantes :\n\nAccompagner les investisseurs en leur expliquant toutes les options qui s'offrent à eux et en mettant en avant le montage le plus adapté à leur besoin\nFormer régulièrement les équipes en interne pour les faire monter en compétences\nSoutenir les équipes informatiques pour les aider à développer les outils adaptés à votre métier\nDévelopper votre team de conseillers avec le recrutement de nouvelles recrues et leur mise à niveau technique\nAssurer une veille règlementaire pour être à jour des évolutions législatives et des nouveaux supports d'investissement\nA quelles conditions ?\n\nRémunération selon profil : 55 000 à 70 000 €\n\nContrat : Statut cadre\n\nPoste 100% Télétravail",
-      "dateCreation": "2026-06-29T15:21:00.205Z",
-      "dateActualisation": "2026-06-29T17:01:48.727Z",
+      "id": "210HCFN",
+      "intitule": "Responsable Technique Maintenance et Entretien Général (H/F) ",
+      "description": "Nous recherchons un(e) Responsable Technique Maintenance des Bâtiments et Entretien Général chargé(e) de garantir le bon état de fonctionnement, la sécurité et la qualité des infrastructures, des équipements et des espaces extérieurs de nos propriétés.\nSous la responsabilité de la direction générale du pôle viticole et immobilier, au service des différentes sociétés, vous assurez la planification, l'organisation et le suivi des opérations de maintenance préventives et curatives , d'entretien et des travaux d'amélioration du patrimoine immobilier et pouvez être amené à réaliser vous même avec votre équipe des petits travaux  \n\nMissions principales\n\nMaintenance et entretien des bâtiments\n- Assurer le suivi technique et l'entretien courant des bâtiments et de certains équipements.\n- Organiser et superviser les interventions de maintenance préventive et corrective.\n- Veiller au bon fonctionnement des installations techniques (électricité, plomberie, chauffage, ventilation, climatisation, serrurerie, menuiserie, etc.).\n- Réaliser ou coordonner les réparations nécessaires.\nGestion des travaux\n- Identifier les besoins de rénovation, de réhabilitation et d'amélioration des bâtiments.\n- Préparer les cahiers des charges et consulter les entreprises prestataires.\n- Assurer le suivi technique et financier des travaux.\n- Contrôler la qualité des réalisations et la conformité des interventions.\nEntretien des abords et espaces extérieurs\n- Superviser l'entretien des espaces verts, voiries, parkings et cheminements.\n- Garantir la propreté, la sécurité et l'accessibilité des abords.\n- Veiller à la maintenance du mobilier extérieur et des équipements associés.\n\nGestion et conformité\n- Assurer le respect des normes de sécurité et des obligations réglementaires applicables aux bâtiments.\n- Participer aux contrôles périodiques réglementaires et au suivi des actions correctives.\n- Gérer les contrats de maintenance et les relations avec les prestataires.\n- Élaborer et suivre les budgets d'entretien et de travaux.\n\nManagement et coordination\n- Encadrer les agents techniques et les prestataires intervenant sur site.\n- Organiser les plannings d'intervention.\n- Développer une démarche d'amélioration continue de la maintenance du patrimoine.\n\nProfil recherché\n- Formation technique de niveau Bac+2 à Bac+5 dans les domaines du bâtiment, de la maintenance ou des services techniques.\n- Expérience dans la gestion technique de bâtiments et le suivi de travaux.\n- Connaissances pluridisciplinaires en second œuvre, maintenance des équipements et entretien des infrastructures.\n- Maîtrise de la réglementation relative à la sécurité des bâtiments.\n- Capacités d'organisation, d'anticipation et de management.\n- Sens du service, autonomie et réactivité.\n\nConditions\n- Contrat : CDI\n- Statut :  Employé qualifié \n- Temps de travail : Temps plein 35h\n- Rémunération : Selon expérience\n- Prise de fonction : Dès que possible",
+      "dateCreation": "2026-06-24T18:23:52.616Z",
+      "dateActualisation": "2026-06-25T09:12:16.848Z",
       "lieuTravail": {
-        "libelle": "75 - PARIS 02",
-        "codePostal": "75002",
-        "commune": "75102"
+        "libelle": "84 - PERTUIS",
+        "latitude": 43.694674,
+        "longitude": 5.503075,
+        "codePostal": "84120",
+        "commune": "84089"
       },
-      "romeCode": "M1211",
-      "romeLibelle": "Expert-comptable / Experte-comptable",
-      "appellationlibelle": "Expert-comptable / Experte-comptable",
+      "romeCode": "I1101",
+      "romeLibelle": "Directeur / Directrice de la gestion technique des bâtiments",
+      "appellationlibelle": "Responsable maintenance bâtiment",
       "entreprise": {
-        "nom": "APACHE RECRUTEMENT",
-        "description": "Apache Recrutement, bas  Aix en Provence, est un cabinet de recrutement entirement ddi aux profils financiers. Nous proposons aux clients comme aux candidats une exprience unique dans le monde du recrutement  travers un accompagnement sur mesure. Cette proximit nous permet d'offrir la ractivit, la flexibilit et la transparence ncessaires  une vraie relation privilgie.",
+        "nom": "SAMENA",
         "entrepriseAdaptee": false
       },
       "typeContrat": "CDI",
       "typeContratLibelle": "CDI",
       "natureContrat": "Contrat travail",
       "experienceExige": "E",
-      "experienceLibelle": "5 An(s)",
+      "experienceLibelle": "12 Mois",
       "competences": [
         {
-          "code": "117019",
-          "libelle": "Méthodes et procédures de contrôle comptable",
+          "code": "300148",
+          "libelle": "Elaborer des actions ou des règles de prévention",
           "exigence": "S"
         },
         {
-          "code": "119405",
-          "libelle": "Procédures de contrôle comptable",
+          "code": "123083",
+          "libelle": "Evaluer les besoins et les impératifs d'exploitation d'une infrastructure",
           "exigence": "S"
         },
         {
-          "code": "300449",
-          "libelle": "Expliquer et faire respecter les règles et procédures",
+          "code": "300435",
+          "libelle": "Optimiser les effectifs, l'adéquation et l'allocation des ressources",
           "exigence": "S"
         }
       ],
       "salaire": {
-        "libelle": "Annuel de 55000.0 Euros à 70000.0 Euros sur 12.0 mois",
-        "complement1": "Primes",
-        "complement2": "Titres restaurant / Prime de panier",
-        "listeComplements": [
-          {
-            "code": "1",
-            "libelle": "Primes"
-          },
-          {
-            "code": "6",
-            "libelle": "Titres restaurant / Prime de panier"
-          }
-        ]
+        "commentaire": "Selon expérience"
       },
       "dureeTravailLibelle": "35H/semaine\nTravail en journée",
       "dureeTravailLibelleConverti": "Temps plein",
       "alternance": false,
       "contact": {
-        "nom": "APACHE RECRUTEMENT - M. Jeremy GUERREIRO",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210LWKT",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210LWKT"
+        "nom": "Agence France Travail PERTUIS",
+        "coordonnees1": "CS 80083 182 ALLEE DES PRES VERTS",
+        "coordonnees2": "84122 Pertuis",
+        "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210HCFN"
       },
-      "agence": {},
+      "agence": {
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210HCFN"
+      },
       "nombrePostes": 1,
       "accessibleTH": false,
-      "qualificationCode": "8",
-      "qualificationLibelle": "Agent de maîtrise",
-      "codeNAF": "78.10Z",
-      "secteurActivite": "78",
-      "secteurActiviteLibelle": "Activités des agences de placement de main-d'œuvre",
-      "trancheEffectifEtab": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "01.61Z",
+      "secteurActivite": "01",
+      "secteurActiviteLibelle": "Activités de soutien aux cultures",
+      "trancheEffectifEtab": "10 à 19 salariés",
       "origineOffre": {
         "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210LWKT"
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210HCFN"
       },
       "offresManqueCandidats": false,
       "contexteTravail": {
@@ -5702,7 +5639,7 @@
       "intitule": "Directeur de Business Unit Transverse - Ingénierie & Infrastructures (F/H) (H/F)",
       "description": "Mon client est un acteur reconnu de l'ingénierie et des services techniques appliqués aux infrastructures.\nIl intervient sur des ouvrages complexes en environnement urbain dense ainsi que sur des réseaux d'infrastructures publics et privés.\nSon activité repose sur un ensemble d'expertises complémentaires couvrant le diagnostic, l'inspection et les interventions techniques spécialisées,Vous prenez la direction d'une Business Unit régionale à dominante technique, structurée autour d'activités diversifiées liées aux infrastructures et à l'ingénierie d'ouvrages.\nVous pilotez un périmètre transverse mêlant activités locales et activités structurées à l'échelle nationale, dans un environnement en transformation.\nManagement des équipes multi-sites et responsables d'activités ;\nStructuration et harmonisation de l'organisation régionale ;\nSuivi de la performance opérationnelle des activités (diagnostic, inspection, instrumentation, etc.) ;\nPilotage de portefeuilles d'activités et de leur bonne exécution via les responsables opérationnels ;\nPilotage du chiffre d'affaires, de la marge et des budgets ;\nSuivi des indicateurs de production et de rentabilité ;\nCoordination avec les autres directions régionales ;\nIntégration et structuration des activités issues de croissance externe ;\nDéveloppement des offres techniques et des marchés ;\nAppui au développement commercial et à la conquête de nouveaux contrats ;\nContribution à la transformation et à la stratégie du groupe.\nLes avantages sur ce poste sont :\nMembre du CODIR et rattaché à la Direction Générale ;\nDirection d'une Business Unit autonome à dimension stratégique ;\nPilotage complet de la performance économique (CA, marge, rentabilité) ;\nPérimètre multi-sites et multi-expertises infrastructures ;\nGroupe de référence dans l'ingénierie et les infrastructures\nRémunération attractive selon profil ;\nVéhicule de fonction, actionnariat, intéressement et participation.",
       "dateCreation": "2026-07-09T18:30:42.000Z",
-      "dateActualisation": "2026-07-11T16:32:55.000Z",
+      "dateActualisation": "2026-07-14T14:30:36.000Z",
       "lieuTravail": {
         "libelle": "78 - Élancourt",
         "latitude": 48.768309,
@@ -5742,63 +5679,11 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "4119356",
-      "intitule": "Directeur de Business Unit Transverse - Ingénierie & Infrastructures H/F",
-      "description": "POSTE : Directeur de Business Unit Transverse - Ingénierie & Infrastructures H/F\nDESCRIPTION : Vous prenez la direction d'une Business Unit régionale à dominante technique, structurée autour d'activités diversifiées liées aux infrastructures et à l'ingénierie d'ouvrages.\n \nVous pilotez un périmètre transverse mêlant activités locales et activités structurées à l'échelle nationale, dans un environnement en transformation. \n \n * Management des équipes multi-sites et responsables d'activités ;\n * Structuration et harmonisation de l'organisation régionale ;\n * Suivi de la performance opérationnelle des activités (diagnostic, inspection, instrumentation, etc.) ;\n * Pilotage de portefeuilles d'activités et de leur bonne exécution via les responsables opérationnels ;\n * Pilotage du chiffre d'affaires, de la marge et des budgets ;\n * Suivi des indicateurs de production et de rentabilité ;\n * Coordination avec les autres directions régionales ;\n * Intégration et structuration des activités issues de croissance externe ;\n * Développement des offres techniques et des marchés ;\n * Appui au développement commercial et à la conquête de nouveaux contrats ;\n * Contribution à la transformation et à la stratégie du groupe.\n \nLes avantages sur ce poste sont : \n \n * Membre du CODIR et rattaché à la Direction Générale ;\n * Direction d'une Business Unit autonome à dimension stratégique ;\n * Pilotage complet de la performance économique (CA, marge, rentabilité) ;\n * Périmètre multi-sites et multi-expertises infrastructures ;\n * Groupe de référence dans l'ingénierie et les infrastructures\n * Rémunération attractive selon profil ;\n * Véhicule de fonction, actionnariat, intéressement et participation.\nPROFIL : Le profil recherché : \n \n * Formation ingénieur ou équivalent ;\n * Expérience confirmée en direction de centre de profit ou de Business Unit dans des environnements multi-expertises liés aux infrastructures (ingénierie, diagnostic, inspection, instrumentation, travaux spécialisés) ;\n * Bonne compréhension des environnements marchés publics et infrastructures (collectivités, État, concessionnaires) ;\n * Capacité à piloter des organisations multi-sites et à structurer des activités hétérogènes dans un contexte de transformation ;\n * Leadership, vision business, sens de la performance et culture opérationnelle terrain sont essentiels.",
-      "dateCreation": "2026-06-23T03:40:17.000Z",
-      "dateActualisation": "2026-06-25T10:41:07.000Z",
-      "lieuTravail": {
-        "libelle": "78 - Élancourt",
-        "latitude": 48.768309,
-        "longitude": 1.949364,
-        "codePostal": "78990",
-        "commune": "78208"
-      },
-      "romeCode": "D1417",
-      "romeLibelle": "Chef / Cheffe des ventes",
-      "appellationlibelle": "Chef / Cheffe des ventes",
-      "entreprise": {
-        "nom": "Michael Page",
-        "description": "Mon client est un acteur reconnu de l'ingénierie et des services techniques appliqués aux infrastructures.\n \nIl intervient sur des ouvrages complexes en environnement urbain dense ainsi que sur des réseaux d'infrastructures publics et privés.\n \nSon activité repose sur un ensemble d'expertises complémentaires couvrant le diagnostic, l'inspection et les interventions techniques spécialisées,",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {
-        "libelle": "Annuel de 90000.0 Euros à 100000.0 Euros"
-      },
-      "alternance": false,
-      "nombrePostes": 1,
-      "accessibleTH": false,
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "78.10Z",
-      "secteurActivite": "78",
-      "secteurActiviteLibelle": "Activités des agences de placement de main-d'œuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4119356",
-        "partenaires": [
-          {
-            "nom": "METEOJOB",
-            "url": "https://www.meteojob.com/jobs/54200365?utm_source=pole-emploi&utm_medium=aggregator-free",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/meteojob80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "9354151",
       "intitule": "DIRECTEUR BUSINESS UNIT EQUIPEMENT H/F - Dakar",
       "description": "Diriger les activités de distribution de Véhicules Industriels (véhicules neufs et pièces détachées, Services, Maintenance, Contrats), Equipement LiuGong (engins/chariots, pièces détachées, Services, Contrats), et pneumatiques de Rimco Motors.\nDéfinir et proposer au Comité une politique de développement de ces activités \nMise en oeuvre de cette politique \nParticiper à la définition et à la mise en oeuvre de la politique commerciale du matériel et des pièces détachées pour votre zone avec la Direction Générale de l'entreprise, soutien et émulation de l'équipe commerciale, gestion et suivi des clients grands comptes, mise en place des actions de prospection\nReporter fonctionnellement à la direction Mobilité, en ce qui concerne l'application de politiques produits (gamme, tarifs promotion, niveau de marge, etc.).\nContribuer au développement régional des métiers et cartes sous sa responsabilité.\nAssurer la cohérence de la politique commerciale auprès des clients communs du Groupe\n \nDEVELOPPEMENT COMMERCIAL \nDéfinit la stratégie de développement commerciale de la filiale sur son territoire et la met en oeuvre dans le respect des procédures du Groupe, en s'assurant de l'optimisation de la marge consolidée de chaque marque/produit.\nContribue et met en oeuvre des plans et des actions Marketing avec le Resp Mkg, d'animation et de publicité.\nAssure la veille concurrentielle afin de permettre à la Direction Mobilité de définir les politiques tarifaires et les politiques d'achat.\nAssure et développe les relations grands comptes/administrations/ et acteurs politiques et économiques locaux.\nAlerte le groupe sur les opportunités de développement dans le pays dans lequel il opère.\nParticipe, au côté de sa hiérarchie, à la définition de la stratégie de développement de l'entrepriseFINANCE / GESTIONElabore le Budget de la Business Unit et assure la gestion économique et budgétaire de chaque entité, être garant du Chiffre d'Affaires et de la marge\nGarantit l'atteinte de l'objectif de résultat d'exploitation, de par notamment le suivi rigoureux des charges\nApplique les normes de gestion mises en place par la Direction Financière \nManage et anime son Personnel avec le concours de la RH dans le respect de la réglementation sociale et des règes Groupe. S'assure du bon suivi de la politique de commissionnement des Commerciaux\nMaitrise des stocks et des débiteurs\n \nMANAGEMENTDéfinit et propose à la Direction Générale une organisation adéquate des équipes.\nDéfinit et met en place des méthodes de travail et des processus afin d'accompagner la BU dans son développement.\nDéfinit les objectifs et des actions de stimulation managériale et apporte son soutien technique aux équipes.\nFait connaître la politique du groupe aux équipes et les bonnes pratiques.\nAssure et propose des actions de formation produits / technique / Management.\nEvalue la qualité des équipes et s'assure de leur continuelle adaptabilité et développement en proposant des actions de formationCOMPETENCES REQUISES :\nSavoir Être (comportement) + (qualité indispensable) = (qualité souhaitable) ; \nAutonomieEntrepreneurCourage d'agirCapacité́ d'analyse  \nCapacité́ de synthèseRigueurCapacits'imposer et leadershipEcoute - Sens du service - DisponibilitLoyautRésistance au stressHabileté RelationnellesSens des Responsabilités \nCapacité à gérer et optimiser son tempsVision GlobaleCompétences Managériales + (qualité indispensable) = (qualité souhaitable)\nAnimer des équipes\nAnticiper\nEntreprendre\nGérer\nOrganiser\nNégocier - Convaincre - Vendre\nPiloter et fédérerbr>Pour en savoir plus cliquez ici : Cliquez ici",
       "dateCreation": "2025-07-10T10:45:24.000Z",
-      "dateActualisation": "2026-07-12T06:29:24.000Z",
+      "dateActualisation": "2026-07-14T18:48:29.000Z",
       "lieuTravail": {
         "libelle": "France"
       },
@@ -5940,15 +5825,150 @@
       "employeurHandiEngage": false
     },
     {
+      "id": "4971466",
+      "intitule": "Responsable de Business Unit - Expertise Comptable (F/H) (H/F)",
+      "description": "Notre client est un cabinet qui accompagne aujourd'hui plus de  clients (dont  avocats principalement collaborateurs) partout en France. Le cabinet, situé à Paris 8ème, est composé de 5 collaborateurs. \nDirectement rattaché à l'associé fondateur, voici vos principales responsabilités :Relation clientstre l'interlocuteur privilégié d'un portefeuille de professions libérales.\nOrganiser l'intégration des nouveaux clients.\nRéaliser les rendez-vous de suivi.\nRépondre aux questions techniques et fiscales.\nManagement :\nEncadrer une équipe de collaborateurs.\nAccompagner leur montée en compétences.\nOrganiser la charge de travail.\nParticiper à l'intégration des nouveaux collaborateurs.\nPilotage de la production :\nSuperviser les travaux réalisés par notre centre de production.\nCoordonner les échanges avec les équipes de production.\nGarantir le respect des délais.\nExpertise technique :\nRéaliser la révision des dossiers complexes.\nPréparer les arbitrages techniques soumis à l'expert-comptable.\nAssurer une veille permanente des évolutions fiscales et comptables.\nDéveloppement :\nIdentifier les besoins complémentaires des clients.\nOrienter les clients vers les spécialistes du groupe.\nParticiper à l'amélioration continue des procédures et des outils du cabinet.\nCDI.\nPoste basé à Paris 8ème.\nRémunération fixe comprise entre  € et  € brut annuel selon profil. \nPrime annuelle\nTickets restaurant.\nMutuelle.\nTélétravail ponctuel jusqu'à deux jours par semaine.\nOutils digitaux performants.\nFormation continue.\nPerspectives d'évolution vers un poste de Directeur de Business Unit.",
+      "dateCreation": "2026-07-15T05:42:29.000Z",
+      "dateActualisation": "2026-07-15T05:42:29.000Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris",
+        "commune": "75056"
+      },
+      "romeCode": "M1211",
+      "romeLibelle": "Expert-comptable / Experte-comptable",
+      "appellationlibelle": "Collaborateur / Collaboratrice d'expertise comptable",
+      "entreprise": {
+        "description": "Nos missions : Michael Page recrute des cadres confirm&eacute;s en CDI et CDD gr&acirc;ce &agrave; l&rsquo;expertise de consultants r&eacute;partis au sein de 17 divisions sp&eacute;cialis&eacute;es : Achats &amp; Logistique, Assurance, Audit, Conseil &amp; Expertise, Banque, Commercial, Digital, M&eacute;dias &amp; Communication, Distribution &amp; Commerce, Finance &amp; Comptabilit&eacute;, H&ocirc;tellerie &amp; Tourisme, Immobilier &amp; Construction, Ing&eacute;nieurs, Juridique &amp; ...",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4971466",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/55667392?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "4949627",
+      "intitule": "Senior Business Unit Manager - Industrie - Toulouse, France (H/F)",
+      "description": "Et si vous rejoigniez la communauté Astek ? Acteur mondial de lingénierie et du conseil technologique depuis , le Groupe Astek accompagne les plus grands acteurs industriels et tertiaires dans leur transformation digitale. Porté par une forte culture dinnovation et par ses  talents, le Groupe poursuit sa croissance en France et à linternational (705 M de CA en ) et cherche aujourdhui à renforcer son leadership sur la région toulousaine :  Nous recrutons notre prochain Senior Business Unit Manager à Toulouse !   Votre mission (... si vous lacceptezstrong> Rattaché à la Direction du Groupe Astek, vous définissez et mettez en uvre la stratégie opérationnelle, commerciale et managériale du périmètre toulousain d'Astek.  Membre de la de Direction élargi d'Astek, vous contribuez à la vision, au rayonnement et à la performance globale de la filiale, tout en incarnant ses valeurs dexcellence, dexigence et de développement humain.  Votre quotidien sera rythmé par : Stratégie & développement commercial  Définir et déployer la stratégie de développement du périmètre toulousain, en cohérence avec les ambitions nationales du Groupe Astek. Identifier,prioriser et exploiter les opportunités de croissance sur les marchés clés : construction, industrie, énergie, ferroviaire, défense, etc. Piloter lactivité commerciale : performance business, qualité des prestations, rentabilité et satisfaction client. Contribuer activement aux grands comptes stratégiques en coordination avec la Direction Commerciale Groupe. Négocier, sécuriser et suivre les projets à engagement : assistance technique, forfait, centres de services.  Leadership & management  Encadrer, animer et faire monter en compétence les équipes du périmètre : managers, business managers, recruteurs, consultants. Accompagner vos managers dans la structuration et la croissance de leurs centres de profit. Développer une culture dautonomie, de performance, dengagement et dexemplarité. Assurer un management de proximité : suivi de mission, entretiens annuels, trajectoires de carrière. Représenter les expertises clés du périmètre Industrie.  Pilotage opérationnel & gestion du P&L  Piloter le centre de profit toulousain : marge, P&L, prévisions, optimisation du staffing et de lintercontrat. Garantir la qualité des livrables et la fiabilité des engagements auprès des clients. Analyser les risques, sécuriser la continuité des activités et soutenir une croissance durable. Assurer une coordination fluide avec les opérations, les RH, la finance et la direction technique.  Vision, influence & rayonnement  Être lambassadeur du groupe à Toulouse : clients, partenaires, réseaux professionnels, acteurs institutionnels. Contribuer aux décisions stratégiques de votre BU et participer aux projets de transformation du Groupe. Être force de proposition dans lévolution des offres, la création de nouvelles expertises et les synergies avec les autres entités du Groupe Astek.  Les petits plus du projet :  Parce quici, votre carrière devient une véritable aventure.   Une team à taille humaine, ultra-engagée, qui vous porte, vous challenge et vous donne lespace pour exprimer pleinement votrepotentiel.  Un onboarding premium avec notre programme Boost Manager : un parcours immersif pensé pour accélérer votre prise de poste,vous connecter immédiatement au business et vous donner toutes les clés pour performer dès les premières semaines.  Un variable non plafonné, pensé pour récompenser réellement limpact que vous créez. Chez nous, vos résultats sont votre meilleure rampe de lancement.  Une trajectoire dévolution claire et ambitieuse,rythmée par des comités carrières semestriels :   Business Unit Director  Directeur de Département  Chaque étape est construite pour vous faire monter en puissance.  Un horizon sans frontières : envie dinternational, dun rôle transverse, dun poste stratégique type Global/Key Account Manager ? Le Groupe Astek vous ouvrent des perspectives à la hauteur de vos ambitions.   Vous :  Diplômé(e) dun Bac+5 (école dingénieur, école de commerce ou équivalent).  Expérience confirmée au sein dune ESN, dun bureau détudes ou dun environnement industriel/construction.  Maîtrise avérée du management déquipes (managers,recruteurs, consultants) et du pilotage de centres de profit.  Solide compréhension des métiers techniques, idéalement dans les environnements industriels.  Expérience dans la définition de stratégies commerciales et opérationnelles ambitieuses.     Leader naturel, capable de fédérer et inspirer.  Orienté résultats, agile dans la prise de décision et efficace dans la gestion des priorités.  Exigeant, rigoureux, avec une vision claire et un profond sens du collectif.  Excellent relationnel, sens politique et capacité à représenter votre périmètre au plus haut niveau.",
+      "dateCreation": "2026-07-14T15:34:24.000Z",
+      "dateActualisation": "2026-07-14T15:34:24.000Z",
+      "lieuTravail": {
+        "libelle": "31 - Toulouse",
+        "latitude": 43.579309,
+        "longitude": 1.41211,
+        "codePostal": "31000",
+        "commune": "31555"
+      },
+      "romeCode": "H1102",
+      "romeLibelle": "Ingénieur / Ingénieure d'affaires en industrie",
+      "appellationlibelle": "Chargé / Chargée de projet d'affaires en industrie",
+      "entreprise": {
+        "description": "Handicap-Job est un portail sp&eacute;cialis&eacute; dans l&rsquo;emploi des personnes en situation de handicap, cr&eacute;&eacute; en 2006, qui propose des milliers d&rsquo;offres accessibles aux personnes titulaires de la RQTH. Il met en relation candidats handicap&eacute;s et entreprises &laquo; handi-engag&eacute;es &raquo;, et propose des services de diffusion d&rsquo;offres, d&rsquo;accompagnement CV et de conseils. Son ambition est de faire rimer &laquo; handicap &raquo; et &laquo; re...",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4949627",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/52657217?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "4945571",
+      "intitule": "Responsable de Business Unit (H/F)",
+      "description": "TerX est un partenaire stratégique spécialisé dans le conseil en ingénierie et la mise à disposition de compétences techniques pour l'industrie.\nNé du terrain - des ateliers, laboratoires et bureaux d'études - TerX connecte les meilleures expertises aux enjeux concrets des entreprises industrielles, avec rigueur, méthode et une compréhension fine des réalités opérationnelles.\nFondée en 2018, l'entreprise compte aujourd'hui 160 collaborateurs et a réalisé un chiffre d'affaires de 13,5 millions d'euros en 2025, confirmant sa trajectoire de croissance et la confiance de ses clients industriels.\n\nMission : Mobiliser les meilleures compétences pour répondre aux enjeux concrets des entreprises industrielles.\n\nVision : Contribuer à une industrie française et européenne plus autonome, plus exigeante et créatrice de valeur durable.\n\nLe poste : \n\nDans le cadre de notre développement à Paris, nous recherchons un(e) Responsable de Business Unit avec un fort tempérament commercial pour participer activement à la croissance de l'entreprise.\n\nTu sais vendre. Tu sais construire. Maintenant, tu veux diriger.\nBienvenue chez TerX.\n\n\n Le challenge\nOn ne recrute pas un manager \"gestionnaire\".\nOn recrute un builder.\nTa mission : créer, structurer et scaler une Business Unit sur des secteurs stratégiques :\n\nDéfense\nAéronautique & Spatial\nÉnergie\nMédical\nMobilité\n\n Tu pilotes un périmètre complet : business + équipe + stratégie + rentabilité\n\n\n\n Ton rôle (ownership total):\n\n Développement commercial (toujours en première ligne)\nOuvrir et développer des comptes stratégiques\nDéfinir ta stratégie de conquête par secteur\nAller chercher des deals à fort impact\nÊtre un exemple de performance pour ton équipe\n\n Management & coaching\nEncadrer un ou plusieurs Ingénieurs d'Affaires\nLes faire monter en puissance rapidement\nInstaurer une culture performance / résultats\nRecruter les futurs top performers de ta BU\n\n Pilotage de ta Business Unit\nGérer ton P&L (CA, marge, rentabilité)\nDéfinir et suivre les objectifs\nStructurer l'activité et les process\nAssurer une croissance rapide et maîtrisée\n\n Vision & stratégie\nIdentifier les marchés à fort potentiel\nPositionner TerX sur des comptes clés\nConstruire une BU scalable\n\n\n\n Pourquoi TerX ?\nParce que tu as un terrain de jeu énorme\nParce que tu peux structurer TA Business Unit\nParce que ton impact est direct sur la croissance de la boîte\nParce que tu peux évoluer vers des rôles type :\nDirecteur d'Agence\nDirecteur Commercial\nOuverture de nouvelles entités\n\n\nProfil recherché : \n\n Ton ADN\nDiplômé(e) d'une école d'ingénieurs ou de commerce\nExpérience confirmée en ESN\nTu es un chasseur devenu leader\nTu sais closer- et apprendre aux autres à closer\nTu es orienté résultats (vraiment)\nTu veux driver un business, pas juste gérer une équipe\nTu as déjà une première expérience en management (ou un fort potentiel)\n Si tu veux \"juste manager\", ce n'est pas le bon rôle.\n Si tu veux construire une BU comme si c'était la tienne, on veut te parler.",
+      "dateCreation": "2026-07-14T11:21:21.000Z",
+      "dateActualisation": "2026-07-14T11:21:21.000Z",
+      "lieuTravail": {
+        "libelle": "92 - Levallois-Perret",
+        "latitude": 48.892818,
+        "longitude": 2.287751,
+        "codePostal": "92300",
+        "commune": "92044"
+      },
+      "romeCode": "M1707",
+      "romeLibelle": "Responsable du développement commercial",
+      "appellationlibelle": "Responsable développement / Business Developer",
+      "entreprise": {
+        "nom": "TerX",
+        "description": "TerX"
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "2 An(s)",
+      "salaire": {},
+      "dureeTravailLibelle": "\nTravail en journée",
+      "complementExercice": "Temps plein",
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4945571",
+        "partenaires": [
+          {
+            "nom": "PMEJOB",
+            "url": "https://www.jobposting.pro/emploi-2640182-120",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/pmejob80.png"
+          }
+        ]
+      },
+      "contexteTravail": {
+        "horaires": [
+          "\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "4770819",
       "intitule": "Senior Business Unit Manager - Industrie - Toulouse, France (H/F)",
       "description": "Et si vous rejoigniez la communauté Astek ? Acteur mondial de lingénierie et du conseil technologique depuis , le Groupe Astek accompagne les plus grands acteurs industriels et tertiaires dans leur transformation digitale. Porté par une forte culture dinnovation et par ses  talents, le Groupe poursuit sa croissance en France et à linternational (705 M de CA en ) et cherche aujourdhui à renforcer son leadership sur la région toulousaine :  Nous recrutons notre prochain Senior Business Unit Manager à Toulouse !   Votre mission (... si vous lacceptezstrong> Rattaché à la Direction du Groupe Astek, vous définissez et mettez en uvre la stratégie opérationnelle, commerciale et managériale du périmètre toulousain d'Astek.  Membre de la de Direction élargi d'Astek, vous contribuez à la vision, au rayonnement et à la performance globale de la filiale, tout en incarnant ses valeurs dexcellence, dexigence et de développement humain.  Votre quotidien sera rythmé par : Stratégie & développement commercial  Définir et déployer la stratégie de développement du périmètre toulousain, en cohérence avec les ambitions nationales du Groupe Astek. Identifier,prioriser et exploiter les opportunités de croissance sur les marchés clés : construction, industrie, énergie, ferroviaire, défense, etc. Piloter lactivité commerciale : performance business, qualité des prestations, rentabilité et satisfaction client. Contribuer activement aux grands comptes stratégiques en coordination avec la Direction Commerciale Groupe. Négocier, sécuriser et suivre les projets à engagement : assistance technique, forfait, centres de services.  Leadership & management  Encadrer, animer et faire monter en compétence les équipes du périmètre : managers, business managers, recruteurs, consultants. Accompagner vos managers dans la structuration et la croissance de leurs centres de profit. Développer une culture dautonomie, de performance, dengagement et dexemplarité. Assurer un management de proximité : suivi de mission, entretiens annuels, trajectoires de carrière. Représenter les expertises clés du périmètre Industrie.  Pilotage opérationnel & gestion du P&L  Piloter le centre de profit toulousain : marge, P&L, prévisions, optimisation du staffing et de lintercontrat. Garantir la qualité des livrables et la fiabilité des engagements auprès des clients. Analyser les risques, sécuriser la continuité des activités et soutenir une croissance durable. Assurer une coordination fluide avec les opérations, les RH, la finance et la direction technique.  Vision, influence & rayonnement  Être lambassadeur du groupe à Toulouse : clients, partenaires, réseaux professionnels, acteurs institutionnels. Contribuer aux décisions stratégiques de votre BU et participer aux projets de transformation du Groupe. Être force de proposition dans lévolution des offres, la création de nouvelles expertises et les synergies avec les autres entités du Groupe Astek.  Les petits plus du projet :  Parce quici, votre carrière devient une véritable aventure.   Une team à taille humaine, ultra-engagée, qui vous porte, vous challenge et vous donne lespace pour exprimer pleinement votrepotentiel.  Un onboarding premium avec notre programme Boost Manager : un parcours immersif pensé pour accélérer votre prise de poste,vous connecter immédiatement au business et vous donner toutes les clés pour performer dès les premières semaines.  Un variable non plafonné, pensé pour récompenser réellement limpact que vous créez. Chez nous, vos résultats sont votre meilleure rampe de lancement.  Une trajectoire dévolution claire et ambitieuse,rythmée par des comités carrières semestriels :   Business Unit Director  Directeur de Département  Chaque étape est construite pour vous faire monter en puissance.  Un horizon sans frontières : envie dinternational, dun rôle transverse, dun poste stratégique type Global/Key Account Manager ? Le Groupe Astek vous ouvrent des perspectives à la hauteur de vos ambitions.   Vous :  Diplômé(e) dun Bac+5 (école dingénieur, école de commerce ou équivalent).  Expérience confirmée au sein dune ESN, dun bureau détudes ou dun environnement industriel/construction.  Maîtrise avérée du management déquipes (managers,recruteurs, consultants) et du pilotage de centres de profit.  Solide compréhension des métiers techniques, idéalement dans les environnements industriels.  Expérience dans la définition de stratégies commerciales et opérationnelles ambitieuses.     Leader naturel, capable de fédérer et inspirer.  Orienté résultats, agile dans la prise de décision et efficace dans la gestion des priorités.  Exigeant, rigoureux, avec une vision claire et un profond sens du collectif.  Excellent relationnel, sens politique et capacité à représenter votre périmètre au plus haut niveau.",
       "dateCreation": "2026-07-09T21:45:48.000Z",
-      "dateActualisation": "2026-07-12T04:07:43.000Z",
+      "dateActualisation": "2026-07-14T15:34:24.000Z",
       "lieuTravail": {
         "libelle": "31 - Toulouse",
-        "latitude": 43.579161,
-        "longitude": 1.484106,
+        "latitude": 43.579309,
+        "longitude": 1.41211,
         "codePostal": "31000",
         "commune": "31555"
       },
@@ -5973,55 +5993,9 @@
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4770819",
         "partenaires": [
           {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/52657217?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          },
-          {
             "nom": "CADREMPLOI",
             "url": "https://www.cadremploi.fr/emploi/detail_offre?offreId=156504959508990796&provenance=pole_emploi&utm_source=pole_emploi&utm_medium=flux&utm_campaign=pole_emploi_agregateur__flux_offres",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/cadremploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "4665275",
-      "intitule": "Responsable de Business Unit - Expertise Comptable (F/H) (H/F)",
-      "description": "Notre client est un cabinet qui accompagne aujourd'hui plus de  clients (dont  avocats principalement collaborateurs) partout en France. Le cabinet, situé à Paris 8ème, est composé de 5 collaborateurs. \nDirectement rattaché à l'associé fondateur, voici vos principales responsabilités :Relation clientstre l'interlocuteur privilégié d'un portefeuille de professions libérales.\nOrganiser l'intégration des nouveaux clients.\nRéaliser les rendez-vous de suivi.\nRépondre aux questions techniques et fiscales.\nManagement :\nEncadrer une équipe de collaborateurs.\nAccompagner leur montée en compétences.\nOrganiser la charge de travail.\nParticiper à l'intégration des nouveaux collaborateurs.\nPilotage de la production :\nSuperviser les travaux réalisés par notre centre de production.\nCoordonner les échanges avec les équipes de production.\nGarantir le respect des délais.\nExpertise technique :\nRéaliser la révision des dossiers complexes.\nPréparer les arbitrages techniques soumis à l'expert-comptable.\nAssurer une veille permanente des évolutions fiscales et comptables.\nDéveloppement :\nIdentifier les besoins complémentaires des clients.\nOrienter les clients vers les spécialistes du groupe.\nParticiper à l'amélioration continue des procédures et des outils du cabinet.\nCDI.\nPoste basé à Paris 8ème.\nRémunération fixe comprise entre  € et  € brut annuel selon profil. \nPrime annuelle\nTickets restaurant.\nMutuelle.\nTélétravail ponctuel jusqu'à deux jours par semaine.\nOutils digitaux performants.\nFormation continue.\nPerspectives d'évolution vers un poste de Directeur de Business Unit.",
-      "dateCreation": "2026-07-07T17:31:38.000Z",
-      "dateActualisation": "2026-07-11T19:56:26.000Z",
-      "lieuTravail": {
-        "libelle": "75 - Paris",
-        "commune": "75056"
-      },
-      "romeCode": "M1211",
-      "romeLibelle": "Expert-comptable / Experte-comptable",
-      "appellationlibelle": "Collaborateur / Collaboratrice d'expertise comptable",
-      "entreprise": {
-        "description": "Nos missions : Michael Page recrute des cadres confirm&eacute;s en CDI et CDD gr&acirc;ce &agrave; l&rsquo;expertise de consultants r&eacute;partis au sein de 17 divisions sp&eacute;cialis&eacute;es : Achats &amp; Logistique, Assurance, Audit, Conseil &amp; Expertise, Banque, Commercial, Digital, M&eacute;dias &amp; Communication, Distribution &amp; Commerce, Finance &amp; Comptabilit&eacute;, H&ocirc;tellerie &amp; Tourisme, Immobilier &amp; Construction, Ing&eacute;nieurs, Juridique &amp; ...",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "nombrePostes": 1,
-      "accessibleTH": false,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4665275",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/55590291?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
           }
         ]
       },
@@ -6081,7 +6055,7 @@
       "intitule": "Business Unit Manager - Boulogne-Billancourt, France (H/F)",
       "description": "Et si vous rejoigniez la communauté Astek ?  RIVERSEN, est une entreprise d'ingénierie et de conseil spécialisée dans les secteurs de lénergie, de lindustrie, de la constructionet du transport dont laventure a débuté en  !  RIVERSEN recherche un Business Unit Manager surBoulogne afin dintégrer notre filiale évoluant au sein dun environnement Industriel.  Votre mission (... si vous lacceptezstrong>  En tant que Business Unit Manager, votre mission est de développer lactivité commerciale, de piloter des équipes et de recruter les meilleurs talents pour accompagner la croissance.  Notre objectiftre un partenaire mondial indispensable à la transformation de nos clients, en leur offrant les meilleures expertises et les dernières innovations partout dans le monde.\"  Votre quotidien sera rythmé par :  Acteur clé dans la transformation technologique de nos clients, vous interviendrez dans les secteurs de lindustrie maiségalement de la construction ou encore du transport.  Votre challenge quotidien sera de :   Identifier les enjeux technologiques de votre environnement cible  Comprendre les enjeux globaux de vos clients et prospects, détecter leurs besoins, et élaborer les services qui y correspondront de manière pertinente  Créer une relation privilégiée avec vos clients  Recruter et manager votre équipe de consultants  Suivre le déploiement de projets techniques complexes  Piloter votre centre de profit, assurer sa rentabilité, et définir de nouveaux leviers pour assurer sa croissance      Une équipe à taille humaine pour vous soutenir et vous challenger.  Des formations tout au long de votre carrière dont à votre arrivée le « Boost Manager », un programme immersif aux côtés des nouveaux Business Managers pour une prise de poste en toute confiance !  Un variable non plafonné     RIVERSEN propose également des perspectives dévolutions progressives (comités carrières semestriels) :Senior Business Unit Manager, Business Unit Director ou encore de Directeur de Département  Dautres perspectives à linternational ou sur des postes stratégiques de Global et Key Account Manager sont aussi envisageables.    Passionné par le challenge : Vous êtes motivé par les défis et aimez évoluer dans un environnement dynamique et stimulant.  Excellent relationnel : Sociable, énergique et éloquent, vous créez facilement des connexions avec vos interlocuteurs.  Enthousiaste pour la prospection : Vous considérez la recherche de nouveaux clients comme une aventure passionnante et la réussite vous motive (sans oublier les primes !).  Compétiteur dans lâme : Vous persévérez avec détermination pour surmonter les obstacles et atteindre vos objectifs.    Vous :  Idéalement, vous :   Etes diplômé d'un Bac +5 (Diplôme d'ingénieur ou Grande Ecole de commerce) et vous vous projetez dans un rôle à la fois commercial, managérial et technique.  Avez déjà une première expérience en société de conseil et un esprit entrepreneurial (création dentreprise, Junior Entreprise, )  Etes à laise avec les enjeux de lingénierie et maîtrisez le vocabulaire technique, ce qui vous permet dinteragir efficacement avec les professionnels.",
       "dateCreation": "2026-06-05T02:55:21.000Z",
-      "dateActualisation": "2026-07-12T03:59:31.000Z",
+      "dateActualisation": "2026-07-14T15:43:14.000Z",
       "lieuTravail": {
         "libelle": "92 - Boulogne-Billancourt",
         "latitude": 48.835948,
@@ -6125,11 +6099,11 @@
       "intitule": "Business Unit Manager - Bordeaux, France (H/F)",
       "description": "Et si vous rejoigniez la communauté Astek ? RIVERSEN, est une entreprise d'ingénierie et de conseil spécialisée dans les secteurs de lénergie, de lindustrie, de la constructionet du transport dont laventure a débuté en  ! RIVERSEN recherche un Business Unit Manager sur Bordeaux afin dintégrer notre filiale évoluant au sein dun environnement Industriel. Votre mission (... si vous lacceptezstrong>  En tant que Business Unit Manager, votre mission est de développer lactivité commerciale, de piloter des équipes et de recruter les meilleurs talents pour accompagner la croissance.  Notre objectiftre un partenaire mondial indispensable à la transformation de nos clients, en leur offrant les meilleures expertises et les dernières innovations partout dans le monde.\"  Votre quotidien sera rythmé par :  Acteur clé dans la transformation technologique de nos clients, vous interviendrez dans les secteurs de lindustrie maiségalement de la construction ou encore du transport.  Votre challenge quotidien sera de :   Identifier les enjeux technologiques de votre environnement cible  Comprendre les enjeux globaux de vos clients et prospects, détecter leurs besoins, et élaborer les services qui y correspondront de manière pertinente  Créer une relation privilégiée avec vos clients  Recruter et manager votre équipe de consultants  Suivre le déploiement de projets techniques complexes  Piloter votre centre de profit, assurer sa rentabilité, et définir de nouveaux leviers pour assurer sa croissance   Les petits plus du projet :   Passionné par le challenge : Vous êtes motivé par les défis et aimez évoluer dans un environnement dynamique et stimulant.  Excellent relationnel : Sociable, énergique et éloquent, vous créez facilement des connexions avec vos interlocuteurs.  Enthousiaste pour la prospection : Vous considérez la recherche de nouveaux clients comme une aventure passionnante et la réussite vous motive (sans oublier les primes !).  Compétiteur dans lâme : Vous persévérez avec détermination pour surmonter les obstacles et atteindre vos objectifs.     Une équipe à taille humaine pour vous soutenir et vous challenger.  Des formations tout au long de votre carrière dont à votre arrivée le « Boost Manager », un programme immersif aux côtés des nouveaux Business Managers pour une prise de poste en toute confiance !  Un variable non plafonné     RIVERSEN propose également des perspectives dévolutions progressives (comités carrières semestriels) :Senior Business Unit Manager, Business Unit Director ou encore de Directeur de Département  Dautres perspectives à linternational ou sur des postes stratégiques de Global et Key Account Manager sont aussi envisageables.   Vous :  Idéalement, vous :   Etes diplômé d'un Bac +5 (Diplôme d'ingénieur ou Grande Ecole de commerce) et vous vous projetez dans un rôle à la fois commercial, managérial et technique.  Avez déjà une première expérience en société de conseil et un esprit entrepreneurial (création dentreprise, Junior Entreprise, )  Etes à laise avec les enjeux de lingénierie et maîtrisez le vocabulaire technique, ce qui vous permet dinteragir efficacement avec les professionnels.",
       "dateCreation": "2026-06-05T02:43:31.000Z",
-      "dateActualisation": "2026-07-12T04:01:36.000Z",
+      "dateActualisation": "2026-07-14T15:48:45.000Z",
       "lieuTravail": {
         "libelle": "33 - Bordeaux",
-        "latitude": 44.83281,
-        "longitude": -0.611465,
+        "latitude": 44.820519,
+        "longitude": -0.571451,
         "codePostal": "33000",
         "commune": "33063"
       },
@@ -6169,11 +6143,11 @@
       "intitule": "Business Unit Manager - Toulouse, France (H/F)",
       "description": "Et si vous rejoigniez la communauté Astek ? RIVERSEN, est une entreprise d'ingénierie et de conseil spécialisée dans les secteurs de lénergie, de lindustrie, de la constructionet du transport dont laventure a débuté en  ! RIVERSEN recherche un Business Unit Manager sur Toulouse afin dintégrer notre filiale évoluant au sein dun environnement Industriel. Votre mission (... si vous lacceptezstrong>  En tant que Business Unit Manager, votre mission est de développer lactivité commerciale, de piloter des équipes et de recruter les meilleurs talents pour accompagner la croissance.  Notre objectiftre un partenaire mondial indispensable à la transformation de nos clients, en leur offrant les meilleures expertises et les dernières innovations partout dans le monde.\"  Votre quotidien sera rythmé par :  Acteur clé dans la transformation technologique de nos clients, vous interviendrez dans les secteurs de lindustrie maiségalement de la construction ou encore du transport.  Votre challenge quotidien sera de :   Identifier les enjeux technologiques de votre environnement cible  Comprendre les enjeux globaux de vos clients et prospects, détecter leurs besoins, et élaborer les services qui y correspondront de manière pertinente  Créer une relation privilégiée avec vos clients  Recruter et manager votre équipe de consultants  Suivre le déploiement de projets techniques complexes  Piloter votre centre de profit, assurer sa rentabilité, et définir de nouveaux leviers pour assurer sa croissance      Une équipe à taille humaine pour vous soutenir et vous challenger.  Des formations tout au long de votre carrière dont à votre arrivée le « Boost Manager », un programme immersif aux côtés des nouveaux Business Managers pour une prise de poste en toute confiance !  Un variable non plafonné     RIVERSEN propose également des perspectives dévolutions progressives (comités carrières semestriels) :Senior Business Unit Manager, Business Unit Director ou encore de Directeur de Département  Dautres perspectives à linternational ou sur des postes stratégiques de Global et Key Account Manager sont aussi envisageables.    Passionné par le challenge : Vous êtes motivé par les défis et aimez évoluer dans un environnement dynamique et stimulant.  Excellent relationnel : Sociable, énergique et éloquent, vous créez facilement des connexions avec vos interlocuteurs.  Enthousiaste pour la prospection : Vous considérez la recherche de nouveaux clients comme une aventure passionnante et la réussite vous motive (sans oublier les primes !).  Compétiteur dans lâme : Vous persévérez avec détermination pour surmonter les obstacles et atteindre vos objectifs.    Vous :  Idéalement, vous :   Etes diplômé d'un Bac +5 (Diplôme d'ingénieur ou Grande Ecole de commerce) et vous vous projetez dans un rôle à la fois commercial, managérial et technique.  Avez déjà une première expérience en société de conseil et un esprit entrepreneurial (création dentreprise, Junior Entreprise, )  Etes à laise avec les enjeux de lingénierie et maîtrisez le vocabulaire technique, ce qui vous permet dinteragir efficacement avec les professionnels.",
       "dateCreation": "2026-06-05T02:43:15.000Z",
-      "dateActualisation": "2026-07-12T03:54:31.000Z",
+      "dateActualisation": "2026-07-14T15:40:39.000Z",
       "lieuTravail": {
         "libelle": "31 - Toulouse",
-        "latitude": 43.579161,
-        "longitude": 1.484106,
+        "latitude": 43.579309,
+        "longitude": 1.41211,
         "codePostal": "31000",
         "commune": "31555"
       },
@@ -6213,11 +6187,11 @@
       "intitule": "Business Unit Manager - Nantes, France (H/F)",
       "description": "Et si vous rejoigniez la communauté Astek ? RIVERSEN, est une entreprise d'ingénierie et de conseil spécialisée dans les secteurs de lénergie, de lindustrie, de la constructionet du transport dont laventure a débuté en  ! RIVERSEN recherche un Business Unit Manager sur Nantes afin dintégrer notre filiale évoluant au sein dun environnement Industriel. Votre mission (... si vous lacceptezstrong>  En tant que Business Unit Manager, votre mission est de développer lactivité commerciale, de piloter des équipes et de recruter les meilleurs talents pour accompagner la croissance.  Notre objectiftre un partenaire mondial indispensable à la transformation de nos clients, en leur offrant les meilleures expertises et les dernières innovations partout dans le monde.\"  Votre quotidien sera rythmé par :  Acteur clé dans la transformation technologique de nos clients, vous interviendrez dans les secteurs de lindustrie maiségalement de la construction ou encore du transport.  Votre challenge quotidien sera de :   Identifier les enjeux technologiques de votre environnement cible  Comprendre les enjeux globaux de vos clients et prospects, détecter leurs besoins, et élaborer les services qui y correspondront de manière pertinente  Créer une relation privilégiée avec vos clients  Recruter et manager votre équipe de consultants  Suivre le déploiement de projets techniques complexes  Piloter votre centre de profit, assurer sa rentabilité, et définir de nouveaux leviers pour assurer sa croissance   Les petits plus du projet :   Passionné par le challenge : Vous êtes motivé par les défis et aimez évoluer dans un environnement dynamique et stimulant.  Excellent relationnel : Sociable, énergique et éloquent, vous créez facilement des connexions avec vos interlocuteurs.  Enthousiaste pour la prospection : Vous considérez la recherche de nouveaux clients comme une aventure passionnante et la réussite vous motive (sans oublier les primes !).  Compétiteur dans lâme : Vous persévérez avec détermination pour surmonter les obstacles et atteindre vos objectifs.     Une équipe à taille humaine pour vous soutenir et vous challenger.  Des formations tout au long de votre carrière dont à votre arrivée le « Boost Manager », un programme immersif aux côtés des nouveaux Business Managers pour une prise de poste en toute confiance !  Un variable non plafonné     RIVERSEN propose également des perspectives dévolutions progressives (comités carrières semestriels) :Senior Business Unit Manager, Business Unit Director ou encore de Directeur de Département  Dautres perspectives à linternational ou sur des postes stratégiques de Global et Key Account Manager sont aussi envisageables.   Vous :  Idéalement, vous :   Etes diplômé d'un Bac +5 (Diplôme d'ingénieur ou Grande Ecole de commerce) et vous vous projetez dans un rôle à la fois commercial, managérial et technique.  Avez déjà une première expérience en société de conseil et un esprit entrepreneurial (création dentreprise, Junior Entreprise, )  Etes à laise avec les enjeux de lingénierie et maîtrisez le vocabulaire technique, ce qui vous permet dinteragir efficacement avec les professionnels.",
       "dateCreation": "2026-06-05T02:41:53.000Z",
-      "dateActualisation": "2026-07-12T04:01:24.000Z",
+      "dateActualisation": "2026-07-14T15:34:51.000Z",
       "lieuTravail": {
         "libelle": "44 - Nantes",
-        "latitude": 47.256794,
-        "longitude": -1.575958,
+        "latitude": 47.206511,
+        "longitude": -1.58837,
         "codePostal": "44000",
         "commune": "44109"
       },
@@ -6257,7 +6231,7 @@
       "intitule": "Senior Business Unit Manager - Industrie - Aix-en-Provence, France (H/F)",
       "description": "Et si vous rejoigniez la communauté Astek ? Acteur mondial de lingénierie et du conseil technologique depuis , le Groupe Astek accompagne les plus grands acteurs industriels et tertiaires dans leur transformation digitale. Porté par une forte culture dinnovation et par ses  talents, le Groupe poursuit sa croissance en France et à linternational (705 M de CA en ) et cherche aujourdhui à renforcer son leadership sur la région Provence-Alpes-Côte d'Azur : Nous recrutons notre prochain Senior Business Unit Manager à Aix Votre mission (... si vous lacceptezstrong> Rattaché à la Direction du Groupe Astek, vous définissez et mettez en uvre la stratégie opérationnelle, commerciale et managériale du périmètre Aix d'Astek. Membre de la de Direction élargi d'Astek, vous contribuez à la vision, au rayonnement et à la performance globale de la filiale, tout en incarnant ses valeurs dexcellence, dexigence et de développement humain. Votre quotidien sera rythmé par : Stratégie & développement commercial  Définir et déployer la stratégie de développement du périmètre aixois, en cohérence avec les ambitions nationales du Groupe Astek. Identifier,prioriser et exploiter les opportunités de croissance sur les marchés clés : construction, industrie, énergie, ferroviaire, défense, etc. Piloter lactivité commerciale : performance business, qualité des prestations, rentabilité et satisfaction client. Contribuer activement aux grands comptes stratégiques en coordination avec la Direction Commerciale Groupe. Négocier, sécuriser et suivre les projets à engagement : assistance technique, forfait, centres de services.  Leadership & management  Encadrer, animer et faire monter en compétence les équipes du périmètre : managers, business managers, recruteurs, consultants. Accompagner vos managers dans la structuration et la croissance de leurs centres de profit. Développer une culture dautonomie, de performance, dengagement et dexemplarité. Assurer un management de proximité : suivi de mission, entretiens annuels, trajectoires de carrière. Représenter les expertises clés du périmètre Industrie.  Pilotage opérationnel & gestion du P&L  Piloter le centre de profit aixois : marge, P&L, prévisions, optimisation du staffing et de lintercontrat. Garantir la qualité des livrables et la fiabilité des engagements auprès des clients. Analyser les risques, sécuriser la continuité des activités et soutenir une croissance durable. Assurer une coordination fluide avec les opérations, les RH, la finance et la direction technique.  Vision, influence & rayonnement  Être lambassadeur du groupe à Aix : clients, partenaires, réseaux professionnels, acteurs institutionnels. Contribuer aux décisions stratégiques de votre BU et participer aux projets de transformation du Groupe. Être force de proposition dans lévolution des offres, la création de nouvelles expertises et les synergies avec les autres entités du Groupe Astek.  Les petits plus du projet :  Parce quici, votre carrière devient une véritable aventure.   Une team à taille humaine, ultra-engagée, qui vous porte, vous challenge et vous donne lespace pour exprimer pleinement votrepotentiel.  Un onboarding premium avec notre programme Boost Manager : un parcours immersif pensé pour accélérer votre prise de poste,vous connecter immédiatement au business et vous donner toutes les clés pour performer dès les premières semaines.  Un variable non plafonné, pensé pour récompenser réellement limpact que vous créez. Chez nous, vos résultats sont votre meilleure rampe de lancement.  Une trajectoire dévolution claire et ambitieuse,rythmée par des comités carrières semestriels :   Business Unit Director  Directeur de Département  Chaque étape est construite pour vous faire monter en puissance.  Un horizon sans frontières : envie dinternational, dun rôle transverse, dun poste stratégique type Global/Key Account Manager ? Le Groupe Astek vous ouvrent des perspectives à la hauteur de vos ambitions.   Vous :  Diplômé(e) dun Bac+5 (école dingénieur, école de commerce ou équivalent).  Expérience confirmée au sein dune ESN, dun bureau détudes ou dun environnement industriel/construction.  Maîtrise avérée du management déquipes (managers,recruteurs, consultants) et du pilotage de centres de profit.  Solide compréhension des métiers techniques, idéalement dans les environnements industriels.  Expérience dans la définition de stratégies commerciales et opérationnelles ambitieuses.     Leader naturel, capable de fédérer et inspirer.  Orienté résultats, agile dans la prise de décision et efficace dans la gestion des priorités.  Exigeant, rigoureux, avec une vision claire et un profond sens du collectif.  Excellent relationnel, sens politique et capacité à représenter votre périmètre au plus haut niveau.",
       "dateCreation": "2026-06-04T21:44:40.000Z",
-      "dateActualisation": "2026-07-12T04:06:27.000Z",
+      "dateActualisation": "2026-07-14T15:46:46.000Z",
       "lieuTravail": {
         "libelle": "13 - Beaurecueil",
         "latitude": 43.510614,
@@ -6301,7 +6275,7 @@
       "intitule": "Senior Business Unit Manager - IT/Energie - Boulogne-Billancourt, France (H/F)",
       "description": "Et si vous rejoigniez la communauté Astek ? Rattaché à la Direction Exécutive du Groupe Astek, vous rejoignez lagence de Paris en tant que Senior Business Unit Manager,pour piloter et développer un périmètre stratégique en pleine expansion, au cur des métiers IT appliqués au secteur de lénergie : systèmes critiques, data & analytics, infrastructures, cloud, cybersécurité, digitalisation industrielle, pilotage de projets IT.  Véritable leader opérationnel et commercial, vous contribuez directement à la croissance du pôle tout en incarnant les valeurs fortes du Groupe : excellence, innovation et esprit entrepreneurial.  Votre mission (... si vous lacceptezstrong> Prospection commerciale  Développer de nouveaux comptes stratégiques du secteur énergie. Réaliser prospection téléphonique et rendez-vous clients. Identifier les opportunités IT à fort potentiel sur votre marché. Recrutement  Sourcer, évaluer et recruter les meilleurs profils IT : ingénieurs, experts cybersécurité, cloud, data, chefs de projet Participer à la stratégie dacquisition de talents du pôle. Intégrer et fidéliser les consultants de votre périmètre. Traitement de besoins  Qualifier les besoins clients et les transformer en missions. Envoyer les dossiers, préparer les rendez-vous et mener les négociations tarifaires. Assurer le closing et la mise en place opérationnelle des projets. Management des collaborateurs  Suivre les consultants en mission (accompagnement, entretiens annuels, montée en compétence). Garantir un management de proximité et un fort engagement collaborateur. Veiller à la qualité des prestations et à la satisfaction clients. Gestion de centre de profit  Piloter votre Business Unit : marge, rentabilité, prévisions commerciales, intercontrat. Optimiser le staffing et les ressources internes. Contribuer au développement durable et équilibré de lactivité. Coaching BM / BUM  Accompagner les Business Managers dans leur progression et structuration de leur activité. Développer les compétences commerciales et managériales de votre équipe. Participer à la montée en puissance globale du pôle parisien.  Votre quotidien sera rythmé par :  Lanalyse des enjeux IT du secteur énergie et lanticipation des évolutions à venir. La compréhension du contexte global de vos clients pour proposer des solutions pertinentes. La création de relations durables et stratégiques avec vos clients grands comptes. La structuration, lanimation et la montée en compétence de votre équipe. Le pilotage de projets IT complexes, en garantissant qualité, performance et fiabilité.    Une équipe soudée et ultra-engagée, où lentraide, lénergie collective et lenvie de performer font partie de lADN.  Un onboarding premium grâce au programme Boost Manager : un parcours immersif, pensé pour vous donner toutes les clés dès le premier jour et booster votre prise de poste.  Un variable attractif et surtout non plafonné, directement lié à votre impact : plus vous réussissez, plus vous gagnez.  Une évolution rapide, lisible et méritocratique, avec de vraies perspectives de carrière : Business Unit Director Directeur de Département  Des ouvertures sur linternational et des rôles stratégiques : Global Account Manager, Key Account Manager à vous de choisir la trajectoire qui vous ressemble.   Un vrai goût du challenge et de la performance, avec lenvie de dépasser les objectifs plutôt que de simplement les atteindre.  Un relationnel puissant et authentique : vous savez créer du lien, convaincre et embarquer vos interlocuteurs grâce à une communication fluide et impactante.  Une passion pour le développement commercial, où chaque nouveau client, chaque opportunité et chaque succès devient un véritable moteur.  Un mental de gagnant : persévérant(e), résilient(e), orienté(e) résultats vous transformez les obstacles en accélérateurs.  Un leadership naturel, capable de fédérer, inspirer et entraîner vos équipes vers des performances collectives dun haut niveau.    Vous :  Diplômé(e) dun Bac+5, idéalement issu(e) dune grande école dingénieurs ou de commerce. Expérience confirmée en management commercial, idéalement en ESN ou secteur IT/énergie. Très bonne compréhension des enjeux technologiques : infrastructure, data, cloud, cybersécurité, systèmes critiques, gestion de projet IT. Capacité à piloter un centre de profit et une équipe de Business Managers.",
       "dateCreation": "2026-06-04T21:33:49.000Z",
-      "dateActualisation": "2026-07-12T04:02:51.000Z",
+      "dateActualisation": "2026-07-14T15:36:32.000Z",
       "lieuTravail": {
         "libelle": "92 - Boulogne-Billancourt",
         "latitude": 48.835948,
@@ -6733,11 +6707,11 @@
       "intitule": "MANAGER BUSINESS UNIT SUPPLY CHAIN & KEY ACCOUNT (F/H) (H/F)",
       "description": "descriptif du posteSous la responsabilité de la Direction et dans le cadre d'une réorganisation globale du service, vous prenez la direction d'une  unité stratégique. Votre mission principale consiste à piloter l'ensemble des flux logistiques multi-sites et à garantir la gestion optimale des stocks tampons pour le compte de partenaires industriels d'envergure internationale, représentant un enjeu financier majeur pour l'entreprise.Au quotidien, vos fonctio",
       "dateCreation": "2026-06-21T08:46:31.000Z",
-      "dateActualisation": "2026-07-12T04:36:03.000Z",
+      "dateActualisation": "2026-07-14T17:44:15.000Z",
       "lieuTravail": {
         "libelle": "34 - Montpellier",
-        "latitude": 43.597194,
-        "longitude": 3.870186,
+        "latitude": 43.615413,
+        "longitude": 3.839357,
         "codePostal": "34000",
         "commune": "34172"
       },
@@ -7304,7 +7278,7 @@
       "intitule": "Directeur d'Usine (H/F)",
       "description": "Entreprise familiale indépendante, SEAC est spécialisée dans la fabrication de planchers en béton précontraint et de produits pressés.\n\nPrésente sur l'ensemble du territoire national avec 26 sites de production, notre société rassemble près de 600 collaborateurs engagés au service de la performance industrielle et de la satisfaction de nos clients.\n\nDans le cadre du développement de notre site de Villette-d'Anthon (38), nous recherchons un(e) Directeur(trice) d'Usine.\n\n\nRattaché(e) à la Direction Générale, vous assurez la gestion globale d'un site industriel d'une trentaine de collaborateurs.\n\nVéritable pilote de la performance du site, vous êtes garant(e) du bon fonctionnement de l'ensemble des activités opérationnelles dans le respect des objectifs de qualité, coûts, délais et sécurité.\n\nVos principales responsabilités\n\n- Manager, accompagner et développer les équipes du site (production, maintenance, laboratoire et logistique) ;\n- Garantir la performance industrielle et la compétitivité du site en optimisant l'organisation de la production et des fonctions associées ;\n- Veiller au respect des réglementations et procédures internes en matière de sécurité, santé, environnement et droit du travail ;\n- Assurer le suivi des programmes de fabrication et coordonner les activités avec les différents services de l'entreprise, notamment le bureau d'études, ainsi qu'avec les clients ;\n- Animer les relations sociales et les instances représentatives du personnel dans un esprit de dialogue constructif ;\n- Fédérer les équipes autour d'objectifs communs et développer leur engagement grâce à un leadership de proximité ;\n- Déployer et faire vivre sur le terrain la politique sécurité et qualité du Groupe.\n\n\nDe formation ingénieur généraliste, vous justifiez d'une expérience réussie d'au moins 5 ans dans une fonction similaire au sein d'un environnement industriel.\n\nVous êtes reconnu(e) pour votre sens des responsabilités, votre engagement, votre rigueur et votre capacité à prendre des décisions.\n\nVotre leadership naturel, votre sens du service et votre exigence du travail bien fait vous permettent de mobiliser les équipes et de conduire durablement la performance du site.\n\nPourquoi nous rejoindre ?\n\nRejoindre SEAC, c'est intégrer une entreprise familiale solide et reconnue, offrant de réelles responsabilités, une forte autonomie et l'opportunité de contribuer directement au développement d'un site industriel stratégique.\n\n\nRémunération proposée : 50-55K€ package annuel comprenant salaire de base et avantages (prime vacances conventionnelle, intéressement, mutuelle : prise en charge à hauteur de 70% employeur , paniers repas à hauteur de 7€ brut/jour travaillé)",
       "dateCreation": "2026-06-08T16:47:11.577Z",
-      "dateActualisation": "2026-07-08T13:49:55.371Z",
+      "dateActualisation": "2026-07-15T08:34:40.942Z",
       "lieuTravail": {
         "libelle": "38 - Villette-d'Anthon",
         "latitude": 45.794012,
@@ -8003,7 +7977,7 @@
       "intitule": "Directeur Usine (H/F)",
       "description": "Notre client est une entreprise spécialisée, reconnue pour son expertise technique et son engagement envers les clients. L'organisation met un point d'honneur à maintenir des standards élevés dans ses processus de production et à répondre efficacement aux besoins de ses partenaires.Dans un contexte de forte croissance et de transformation, nous recherchons un Directeur Usine pour piloter et structurer l'ensemble de la chaîne opérationnelle.\nRattaché(e) à la Direction Générale, le candidat prendra la responsabilité d'un périmètre d'environ 25 à 30 collaborateurs couvrant la production, la logistique, les approvisionnements &amp; achats du périmètre et la maintenance.\nEn tant que Directeur Usine, il/elle sera en charge de :\nSuperviser l'ensemble des activités opérationnelles (production, logistique, approvisionnement &amp; achats et maintenance)\nSécuriser les flux et optimiser la performance industrielle ainsi que le niveau de service\nStructurer et déployer les pratiques et outils de pilotage (planification, gestion des stocks, indicateurs de performance)\nManager et accompagner les équipes opérationnelles au quotidien\nMettre en œuvre des démarches d'amélioration continue et veiller au respect des standards qualité et sécurité\nAméliorer significativement la capacité de production et le taux de service\nFluidifier la supply chain pour préserver la réactivité de l'entreprise\nPoser un cadre structurant sans rigidifier la culture PME\nAccompagner une transformation opérationnelle pragmatique\nLa rémunération et les avantages sur ce poste sont :\nSalaire compris entre  € et  € brut annuel ;\nPoste basé près d' Armentières\nOpportunité d'évoluer dans un environnement technique stimulant.",
       "dateCreation": "2026-07-05T03:32:28.000Z",
-      "dateActualisation": "2026-07-11T14:31:57.000Z",
+      "dateActualisation": "2026-07-15T05:49:23.000Z",
       "lieuTravail": {
         "libelle": "59 - Armentières",
         "latitude": 50.686669,
@@ -8443,56 +8417,11 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "4400504",
-      "intitule": "Agent d'usine cadre technico commercial (H/F)",
-      "description": "Description du poste :\nMIS accompagne depuis 2006 ses clients dans la maintenance de leurs équipements industriels.\nVéritable partenaire des industries régionales, nous leur apportons des solutions d'entretien, de mise en conformité, de dépannage, de déménagement ou encore de création de leur parc machine.\nNotre force : intégrer au sein même de l'entreprise l'ensemble des corps de métiers nécessaires à la réalisation des travaux, raccourcissant ainsi le traitement des demandes. De l'usinage à la métallerie en passant par le bureau d'étude, l'électricité et la mécanique, les 100 salariés de MIS sont en capacité de faire face avec rapidité, implication et professionnalisme à toutes situations.\nM.I.S recherche son/sa futur(e) Technico-Commercial Usinage H/F\nVenez partager avec nous notre aventure MIS dans un quotidien enrichissant et dynamique où on ne s'ennuie jamais.\nRattaché au Responsable de Production Usinage, vous êtes au cœur du développement stratégique de l'usinage de l'entreprise.\nVos principales missions seront Identifier et développer de nouvelles opportunités commerciales (ciblée et intelligente Fidéliser et conseiller un portefeuille clients industriels\n· Analyser les besoins techniques (lecture de plans mécaniques, compréhension des process d'usinage Proposer des solutions adaptées en lien avec les équipes internes (méthodes, production Chiffrer, négocier et conclure des offres à forte valeur ajoutée\n· Participer activement à la croissance de l'entreprise\nVous êtes issu(e) de l'usinage, de la mécanique ou de la production industrielle. Vous disposez d'une expérience confirmée (minimum 7 ans) en environnement technique (atelier, méthodes, BE ou commerce industriel).\nVous aimez autant parler technique que business et savez créer une relation de confiance durable avec vos clients.\nVous êtes reconnu(e) pour votre autonomie, votre persévérance, votre force de persuasion et avez le goût du challenge.\nUne double compétence technique et commerciale serait un vrai plus. Les profils « terrain » qui veulent évoluer vers le commerce sont les bienvenus !",
-      "dateCreation": "2026-06-30T12:44:12.000Z",
-      "dateActualisation": "2026-06-30T12:44:12.000Z",
-      "lieuTravail": {
-        "libelle": "60 - Marais",
-        "latitude": 49.413664,
-        "longitude": 2.043896,
-        "codePostal": "60000",
-        "commune": "60703"
-      },
-      "romeCode": "D1420",
-      "romeLibelle": "Cadre Technico-commercial / CadreTechnico-commerciale",
-      "appellationlibelle": "Responsable technico-commercial(e)",
-      "entreprise": {
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "6 An(s)",
-      "salaire": {
-        "libelle": "Annuel de 30000.0 Euros à 45000.0 Euros"
-      },
-      "alternance": false,
-      "nombrePostes": 1,
-      "accessibleTH": false,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4400504",
-        "partenaires": [
-          {
-            "nom": "METEOJOB",
-            "url": "https://www.meteojob.com/jobs/55074491?utm_source=pole-emploi&utm_medium=aggregator-free",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/meteojob80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "4665517",
       "intitule": "Opérateur de fonderie H/F",
       "description": "METIER INTERIM ET CDI Luçon recherche pour l'un de ses clients spécialisé dans la fonte et le recyclage de tout types de déchets aluminium, un opérateur fonderie H/F .Cette entreprise est la première fonderie française capable de fabriquer des billettes d'aluminium bas carbone destinées aux acteurs du bâtiment en recyclant tous les déchets d'aluminium. Cette nouvelle usine installée à Sainte-Hermine (Vendée), intègre deux ateliers affectés à deux process distincts :Le tri de fractions d'aluminium,La fonderie - Production de billettes à partir de déchets.Vos missions :Préparation de la fusion à la coulée des billettes. Opérations d'alimentation des fours, jusqu'à l'obtention du métal en fusion puis contrôle qualité.Traçabilité, mise en stock.Travail du lundi au vendredi en horaires de 2*8 : 5hh et 13hhRémunération : salaire de base a définir selon expérience + prime panier (à la journée) + prime équipe (à la journée) + prime habillage (à la semaine) +10 % d'indemnité de fin de mission +10 % de congés payés",
       "dateCreation": "2026-07-07T17:34:17.000Z",
-      "dateActualisation": "2026-07-12T02:55:04.000Z",
+      "dateActualisation": "2026-07-14T14:49:58.000Z",
       "lieuTravail": {
         "libelle": "85 - Saint-Martin-Lars-en-Sainte-Hermine",
         "latitude": 46.590816,
@@ -8535,11 +8464,55 @@
       "employeurHandiEngage": false
     },
     {
+      "id": "4968753",
+      "intitule": "Régleur machine fonderie H/F",
+      "description": "Notre agence INTERIM NATION de Mulhouse recherche actuellement pour l'un de ses clients, un(e) Régleur Machines de Fonderie H/F pour renforcer ses équipes de production. Poste basé à Delle (90) Contrat en CDIRattaché(e) au Responsable de Production, vous assurez l'ensemble des opérations de réglage et de mise en production des équipements de fonderie.À ce titre, vos missions seront les suivantes :",
+      "dateCreation": "2026-07-15T04:02:22.000Z",
+      "dateActualisation": "2026-07-15T04:02:22.000Z",
+      "lieuTravail": {
+        "libelle": "90 - Delle",
+        "latitude": 47.507597,
+        "longitude": 6.997788,
+        "codePostal": "90100",
+        "commune": "90033"
+      },
+      "romeCode": "H2510",
+      "romeLibelle": "Directeur / Directrice de production industrielle",
+      "appellationlibelle": "Responsable de fonderie",
+      "entreprise": {
+        "description": "Depuis plus de 40 ans, avec passion et humanisme, INTERIM NATION r&eacute;pond &agrave; toutes les probl&eacute;matiques en Ressources Humaines : Formation, Recrutement CDD / CDI, Travail temporaire, CDI int&eacute;rimaire, Conseil RH.\n&nbsp;",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4968753",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/55523628?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "4881926",
       "intitule": "Opérateur de fonderie H/F",
       "description": "Pour l'un de nos clients du secteur de la métallurgie, nous recherchons un Opérateur en fonderie (F/H) en mission d'intérim.Vos missions principales seront :- Préparer les moules et les équipements nécessaires aux opérations de fonderie- Alimenter les fours et participer aux opérations de fusion des métaux dans le respect des procédures- Réaliser les opérations de coulée des métaux en toute sécurité- Assurer le démoulage, l'ébarbage et les premières opérations de finition des pièces- Contrôler la conformité des pièces produites (aspect, dimensions, défauts éventuels)- Surveiller le bon fonctionnement des équipements et signaler toute anomalie- Effectuer les opérations de manutention et de rangement de votre poste de travailHoraires : Poste en 3x8, avec alternance des équipes du matin, d'après-midi et de nuit, selon le planning défini par l'entreprise.Conditions et avantages :- +10 % de fin de mission +10 % congés payés.- Compte Épargne Temps accessible à tout moment.- Acompte de paie hebdomadaire possible.- Aides FASTT (mutuelle, logement, garde d'enfants, etc.).- Application My Crit et avantages CSE.",
       "dateCreation": "2026-07-11T22:22:45.000Z",
-      "dateActualisation": "2026-07-11T22:22:45.000Z",
+      "dateActualisation": "2026-07-15T04:55:58.000Z",
       "lieuTravail": {
         "libelle": "08 - Aubrives",
         "latitude": 50.102943,
@@ -8586,7 +8559,7 @@
       "intitule": "Opérateur de fonderie (H/F)",
       "description": "Rejoignez l'aventure KUHN à Saverne !Nous recrutons pour notre client KUHN un(e) Opérateur(trice) de fonderie, prêt(e) à relever un défi ?Ce que vous ferez au quotidien :Participer au process de coulée continue et au tirage des barres de fonte.Entretenir et rénover les fours pour garantir une production sans accroc.Réaliser des opérations de cisaillage et d'usinage ponctuel de coques.Manipuler et déplacer des charges lourdes avec vigilance et précision.Ce poste est fait pour ceux qui aiment le travail concret, dynamique et stimulant, où chaque journée est différente.Horaires :2x8 avec possibilité ponctuelle de passage en 3x8.",
       "dateCreation": "2026-07-10T04:03:56.000Z",
-      "dateActualisation": "2026-07-12T06:48:52.000Z",
+      "dateActualisation": "2026-07-14T22:15:31.000Z",
       "lieuTravail": {
         "libelle": "67 - Saverne",
         "latitude": 48.741032,
@@ -8633,7 +8606,7 @@
       "intitule": "Régleur machine fonderie H/F",
       "description": "Notre agence INTERIM NATION de Mulhouse recherche actuellement pour l'un de ses clients, un(e) Régleur Machines de Fonderie H/F pour renforcer ses équipes de production. Poste basé à Delle (90) Contrat en CDIRattaché(e) au Responsable de Production, vous assurez l'ensemble des opérations de réglage et de mise en production des équipements de fonderie.À ce titre, vos missions seront les suivantes :",
       "dateCreation": "2026-07-09T20:49:09.000Z",
-      "dateActualisation": "2026-07-11T14:58:44.000Z",
+      "dateActualisation": "2026-07-15T04:02:22.000Z",
       "lieuTravail": {
         "libelle": "90 - Delle",
         "latitude": 47.507597,
@@ -8662,11 +8635,6 @@
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4767564",
         "partenaires": [
           {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/55523628?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          },
-          {
             "nom": "METEOJOB",
             "url": "https://www.meteojob.com/jobs/55090527?utm_source=pole-emploi&utm_medium=aggregator-free",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/meteojob80.png"
@@ -8682,7 +8650,7 @@
       "intitule": "Superviseur en fonderie H/F",
       "description": "Rattaché(e) au Responsable de Production, vous êtes garant(e) du bon fonctionnement opérationnel de votre équipe et de l'atteinte des objectifs de production.À ce titre, vos missions sont les suivantes :",
       "dateCreation": "2026-07-03T06:06:49.000Z",
-      "dateActualisation": "2026-07-11T14:42:38.000Z",
+      "dateActualisation": "2026-07-14T20:13:50.000Z",
       "lieuTravail": {
         "libelle": "90 - Delle",
         "latitude": 47.507597,
@@ -8726,7 +8694,7 @@
       "intitule": "Opérateur de fonderie (H/F)",
       "description": "Envie d'un métier concret où chaque geste compte et où vous voyez le résultat de votre travail immédiatement ? La fonderie vous attend ! Nous recherchons pour notre client basé sur le secteur du Vimeu (80), un(e) opérateur de fonderie. Vous serez en charge de : - Préparer et alimenter les fours et moules pour la coulée des métaux- Surveiller les machines et le processus de fonderie pour garantir la qualité des pièces- Réaliser le contrôle visuel et dimensionnel des pièces produites- Assurer le nettoyage et l'entretien de votre poste de travail- Respecter strictement les règles de sécurité et de qualitéContrat en intérim - horaires de journée et/ou 2*8.Venez mouler votre avenir avec nous et faites briller votre talent au coeur de la fonderie !",
       "dateCreation": "2026-07-01T07:14:34.000Z",
-      "dateActualisation": "2026-07-11T14:51:39.000Z",
+      "dateActualisation": "2026-07-15T04:05:13.000Z",
       "lieuTravail": {
         "libelle": "80 - Friville-Escarbotin",
         "latitude": 50.090726,
@@ -8773,7 +8741,7 @@
       "intitule": "Opérateur de fonderie H/F - Mercus Garrabet",
       "description": "Rejoignez une industrie dynamique où la sécurité, la précision et l'esprit d'équipe sont au coeur du métier !\nDans le cadre du développement de notre activité industrielle, nous recherchons un(e) Opérateur Fonderie (H/F) motivé(e), rigoureux(se) et prêt(evoluer dans un environnement technique exigeant et stimulant.\nVos missions\nAu sein de l'atelier de production, vous intervenez sur les différentes étapes du process de fonderie :\n Préparer et alimenter les installations de production\n Assurer la surveillance et le bon fonctionnement des équipements\n Réaliser les contrôles qualité des produits fabriqués\n Effectuer les opérations de manutention à l'aide d'un chariot élévateur\n Respecter strictement les consignes de sécurité et les procédures qualité\n Participer au nettoyage et au maintien en bon état de l'atelier\nConditions & avantages\n Horaires en 3x8\n Lieu: Mercus Garrabet \n Formation aux procédés et aux équipements\n Primes liées aux horaires et à l'activité\n Mutuelle pour votre bien-être.Pour en savoir plus cliquez ici : Cliquez ici",
       "dateCreation": "2026-06-18T17:28:02.000Z",
-      "dateActualisation": "2026-07-12T07:36:26.000Z",
+      "dateActualisation": "2026-07-14T22:01:28.000Z",
       "lieuTravail": {
         "libelle": "09 - Mercus-Garrabet",
         "latitude": 42.879594,
@@ -9134,7 +9102,7 @@
       "intitule": "Chef de Projets Technique Usine (H/F)",
       "description": "Rattaché au Responsable Projets, vous assurez le pilotage de projets industriels tout en apportant votre expertise technique aux différentes phases de développement et d'industrialisation.Véritable interface entre les différents services de l'usine, vous garantissez le respect des délais, des coûts, de la qualité et des exigences techniques des projets confiés.À ce titre, vos principales missions seront les suivantes :Gestion de projetsPiloter les projets depuis leur lancement jusqu'à leur clôture ;Animer les réunions de suivi et coordonner les différents intervenants ;Assurer le suivi des plannings, des budgets et des indicateurs de performance ;Garantir le respect des objectifs qualité, coûts et délais ;Assurer la communication entre les services internes et les clients lorsque nécessaire.Expertise techniqueParticiper à l'analyse et à la validation des solutions techniques ;Accompagner l'industrialisation des nouveaux produits et des évolutions techniques ;Réaliser ou coordonner les essais techniques nécessaires à la validation des projets ;Identifier et proposer des axes d'amélioration permettant d'optimiser les coûts, la qualité et les performances des produits ;Veiller à la fiabilité et à la cohérence des données techniques mises à disposition des équipes de production.Amélioration continueParticiper aux démarches d'optimisation des processus industriels ;Contribuer à la résolution de problématiques techniques complexes ;Être force de proposition dans le cadre de projets d'amélioration et d'évolution des produits.",
       "dateCreation": "2026-07-10T04:57:33.000Z",
-      "dateActualisation": "2026-07-12T08:00:12.000Z",
+      "dateActualisation": "2026-07-14T22:26:57.000Z",
       "lieuTravail": {
         "libelle": "78 - Mureaux",
         "latitude": 48.993303,
@@ -9384,11 +9352,11 @@
       "intitule": "Chef de projet MOA - Applications SI Usine / Habilitable  H/F",
       "description": "Votre future équipeAu sein des équipes SI de Maxime, vous interviendrez en tant que Chef(fe) de Projet Maîtrise d'Ouvrage pour accompagner l'un de nos clients industriels stratégiques. Vous piloterez des projets applicatifs SI Usine, hors ERP, liés à la production, au contrôle qualité et aux opérations métiers.Vos missionsEn tant que MOA confirmé(e), vous serez responsable du pilotage, du cadrage et de la cohérence fonctionnelle de plusieurs applications SI critiques du périmètre usine (GMAO, LIMS, applications métiersp>Vous interviendrez notamment sur :Pilotage de projets applicatifsPiloter l'ensemble du cycle de vie des projets : cadrage, planning, budget, risques, reporting.Préparer et animer les instances de pilotage (COPROJ, COPIL).Assurer la coordination entre les métiers, la MOE, les équipes techniques et les éditeurs.Cadrage fonctionnel &amp; expression des besoinsRecueillir, formaliser et prioriser les besoins utilisateurs des équipes opérationnelles (maintenance, qualité, productionp>Structurer les exigences fonctionnelles et les scénarios d'usage.Réaliser les études d'impact et vérifier la cohérence avec le SI global.Suivi de la conception &amp; des évolutionsGarantir la bonne compréhension des besoins par la MOE et les équipes techniques.Participer à la définition des plans de tests et valider les livrables fonctionnels.Contribuer au paramétrage fonctionnel si nécessaire (GMAO, LIMS, outils maison, etc.).Applications SI Usine&#xa0;Intervention sur un portefeuille d'applications critiques telles que :GMAO (gestion de la maintenance)LIMS (laboratoires / qualité)Applications métiers spécifiques au site industriel\n(production, opérations, pilotage d'activités.)Accompagnement au changement &amp; support utilisateursPréparer la conduite du changement et organiser les ateliers d'appropriation.Rédiger la documentation fonctionnelle et les supports d'aide.Accompagner les utilisateurs lors des déploiements et de la montée en charge.Amélioration continue &amp; performance applicativeIdentifier les axes d'amélioration des outils et processus.Contribuer à la capitalisation, aux retours d'expérience et à la montée en maturité du SI usine.Pourquoi rejoindre la communauté des Switchers ?? Plus de 55 ans d'expérience dans des environnements complexes et sensibles (nucléaire, défense).\n? Participer à des projets stratégiques ayant un impact national.\n? Opportunités de carrière et mobilités internes (70 % de nos managers sont issus de la promotion interne).#LI-Hybrid",
       "dateCreation": "2026-02-06T13:48:24.000Z",
-      "dateActualisation": "2026-07-12T06:40:47.000Z",
+      "dateActualisation": "2026-07-14T19:04:22.000Z",
       "lieuTravail": {
         "libelle": "50 - Cherbourg-en-Cotentin",
-        "latitude": 49.660743,
-        "longitude": -1.700477,
+        "latitude": 49.614072,
+        "longitude": -1.604238,
         "codePostal": "50100",
         "commune": "50129"
       },
@@ -9566,7 +9534,7 @@
       "intitule": "Menuisier bois ébéniste en usine (H/F/D)",
       "description": "Notre client recrute un Menuisier Bois Ébéniste en Usine de Préfabrication Bétons Armés et Précontraints (H/F/D) pour un poste basé à Labege, à pourvoir immédiatement en intérim pour un besoin à long terme.Description du posteLe poste : Vous serez responsable de la création de coffrages, principalement en bois, pour une production de qualité dans le respect des délais et des normes de sécurité.Les missions attendues du poste :Créer les coffrages en utilisant divers matériaux, avec une prédominance pour le boisConcevoir et tracer les sous-éléments constituant un coffrageSuivre les objectifs de production des ateliers et des lignes de fabricationRespecter les normes de sécurité et de qualité liées au processus menuiserieGérer le stock de matériel et de consommables nécessaires au poste menuiserieSAMSIC, société socialement responsable, s'engage au quotidien pour l'emploi des personnes en situation de handicap.",
       "dateCreation": "2026-06-19T07:46:46.000Z",
-      "dateActualisation": "2026-07-11T17:39:37.000Z",
+      "dateActualisation": "2026-07-14T15:37:32.000Z",
       "lieuTravail": {
         "libelle": "31 - Labège",
         "latitude": 43.530553,
@@ -9700,11 +9668,55 @@
       "employeurHandiEngage": false
     },
     {
+      "id": "4951325",
+      "intitule": "Responsable qualité usine F/H (H/F)",
+      "description": "Le responsable qualité opérationnelle s'assure de la conformité des équipements livrés par Jeumont Electric.Plus particulièrement, il réalise les revues d'exigences et les chiffrages associés, produit la documentation amont, réalise le suivi de la documentation atelier et prépare le Rapport de Fin de Fabrication.Il traite les évènements qualité en s'appuyant autant que nécessaire sur les QRQC qu'il contribue à développer.Pour accomplir ses missions, il anime et s'appuie sur une équipe d'un dizaine de techniciens et ingénieursDescriptions des activités significativesRéalise les revues d'offres et réalise les devisRéalise les revues de contrats et s'assure de la déclinaison des exigences clientsS'assure de la disponibilité de la documentation fournisseursSuit les activités réalisées à l'usine en pilotant les évènements qualitContribue à la montée en maturité des outils qualité (go no go, QRQC principalementEst garant de la livraison des équipements conformesManage une équipe d'une dizaine de personnesSupporter le périmètre opérationnel dans ses enjeux Sécurité, Qualité, Délais Cout et PersonnelSoutenir le management dans le déploiement de la culture qualité / Sûreté / CFSI en réalisant des actions de préventions, sensibilisationSelon les contextes d'organisations, ces activités peuvent être complétées par des missions en rapport avec le système de management intégré, l'activité service sites, etcIl s'agit principalement d'activités appelant des analyses élaborées (plusieurs méthodes, techniques), traitant les sujets / les difficultés par des processus formalisés et complets issus des outils d'amélioration continueElles font appel à des savoirs théoriques et pratiques, spécifiques à l'exercice de l'emploi, faisant référence pour l'entité",
+      "dateCreation": "2026-07-14T16:39:10.000Z",
+      "dateActualisation": "2026-07-14T16:39:10.000Z",
+      "lieuTravail": {
+        "libelle": "59 - Jeumont",
+        "latitude": 50.297493,
+        "longitude": 4.099042,
+        "codePostal": "59460",
+        "commune": "59324"
+      },
+      "romeCode": "H1502",
+      "romeLibelle": "Responsable qualité en industrie",
+      "appellationlibelle": "Responsable en qualité industrielle",
+      "entreprise": {
+        "description": "La raison d&rsquo;&ecirc;tre d&rsquo;EDF est de construire un avenir &eacute;nerg&eacute;tique neutre en CO2, conciliant pr&eacute;servation de la plan&egrave;te, bien-&ecirc;tre et d&eacute;veloppement, gr&acirc;ce &agrave; l'&eacute;lectricit&eacute; et &agrave; des solutions et services innovants. \nFace &agrave; l'urgence climatique, nous voulons inventer, partout o&ugrave; nous sommes pr&eacute;sents, un nouveau mod&egrave;le &eacute;nerg&eacute;tique : moins &eacute;metteur de CO2,...",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4951325",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/55145049?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "4899700",
       "intitule": "Responsable d'usine de production d'eau potable (H/F)",
       "description": "Vous êtes prêt(e) à relever un défi passionnant au cœur de la production d'eau potable ?Notre client, acteur engagé dans le service public de l'eau, recrute un(e) Conducteur d'Usine d'Eau Potable pour renforcer son équipe à Mézières-sur-Couesnon. Rattaché(e) au Responsable d'usine, vous serez un maillon essentiel de la production d'une eau de qualité pour tous.Vos missions :ExploitationPiloter l'unité de production d'eau potable (prélèvements, analyses, réglages)Suivre la qualité des eaux brutes et sélectionner les ressources à utiliserMaîtriser la qualité de l'eau produite (procédés physico-chimiques, métrologie)Gérer les événements : incidents, alarmes, crisesExploiter les outils de pilotage et alerter en cas d'écartSuivre les lavages de réservoirs et ouvrages, superviser les opérations sous-traitéesParticiper aux astreintes en roulement sur 3 usinesMaintenanceAssurer la métrologie et l'entretien des appareils de suiviRéaliser la maintenance préventive et corrective (électrique, pneumatique, hydraulique, mécanique, télégestion)Diagnostiquer les pannes et intervenir mécaniquementParticiper aux projets de renouvellement du matérielGestionParticiper à l'approvisionnement des réactifs chimiques (soude, acide, javel...)Tracer vos interventions dans le système d'informationContribuer à la maîtrise des coûts d'exploitation (bilans techniques, tableaux de bord)GMAO : maîtrise du logiciel TOPKAPI.SAMSIC, société socialement responsable, s'engage au quotidien pour l'emploi des personnes en situation de handicap.",
       "dateCreation": "2026-07-12T11:02:04.000Z",
-      "dateActualisation": "2026-07-13T11:03:07.000Z",
+      "dateActualisation": "2026-07-14T11:03:06.000Z",
       "lieuTravail": {
         "libelle": "35 - Saint-Christophe-de-Valains",
         "latitude": 48.342068,
@@ -9745,50 +9757,6 @@
           "\nTravail en journée"
         ]
       },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "4787079",
-      "intitule": "Responsable qualité usine F/H (H/F)",
-      "description": "Le responsable qualité opérationnelle s'assure de la conformité des équipements livrés par Jeumont Electric.Plus particulièrement, il réalise les revues d'exigences et les chiffrages associés, produit la documentation amont, réalise le suivi de la documentation atelier et prépare le Rapport de Fin de Fabrication.Il traite les évènements qualité en s'appuyant autant que nécessaire sur les QRQC qu'il contribue à développer.Pour accomplir ses missions, il anime et s'appuie sur une équipe d'un dizaine de techniciens et ingénieursDescriptions des activités significativesRéalise les revues d'offres et réalise les devisRéalise les revues de contrats et s'assure de la déclinaison des exigences clientsS'assure de la disponibilité de la documentation fournisseursSuit les activités réalisées à l'usine en pilotant les évènements qualitContribue à la montée en maturité des outils qualité (go no go, QRQC principalementEst garant de la livraison des équipements conformesManage une équipe d'une dizaine de personnesSupporter le périmètre opérationnel dans ses enjeux Sécurité, Qualité, Délais Cout et PersonnelSoutenir le management dans le déploiement de la culture qualité / Sûreté / CFSI en réalisant des actions de préventions, sensibilisationSelon les contextes d'organisations, ces activités peuvent être complétées par des missions en rapport avec le système de management intégré, l'activité service sites, etcIl s'agit principalement d'activités appelant des analyses élaborées (plusieurs méthodes, techniques), traitant les sujets / les difficultés par des processus formalisés et complets issus des outils d'amélioration continueElles font appel à des savoirs théoriques et pratiques, spécifiques à l'exercice de l'emploi, faisant référence pour l'entité",
-      "dateCreation": "2026-07-10T07:02:45.000Z",
-      "dateActualisation": "2026-07-12T04:08:42.000Z",
-      "lieuTravail": {
-        "libelle": "59 - Jeumont",
-        "latitude": 50.297493,
-        "longitude": 4.099042,
-        "codePostal": "59460",
-        "commune": "59324"
-      },
-      "romeCode": "H1502",
-      "romeLibelle": "Responsable qualité en industrie",
-      "appellationlibelle": "Responsable en qualité industrielle",
-      "entreprise": {
-        "description": "La raison d&rsquo;&ecirc;tre d&rsquo;EDF est de construire un avenir &eacute;nerg&eacute;tique neutre en CO2, conciliant pr&eacute;servation de la plan&egrave;te, bien-&ecirc;tre et d&eacute;veloppement, gr&acirc;ce &agrave; l'&eacute;lectricit&eacute; et &agrave; des solutions et services innovants. \nFace &agrave; l'urgence climatique, nous voulons inventer, partout o&ugrave; nous sommes pr&eacute;sents, un nouveau mod&egrave;le &eacute;nerg&eacute;tique : moins &eacute;metteur de CO2,...",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "nombrePostes": 1,
-      "accessibleTH": false,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4787079",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/55145049?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
       "entrepriseAdaptee": false,
       "employeurHandiEngage": false
     },
@@ -9850,11 +9818,11 @@
       "intitule": "Responsable logistique usine H/F",
       "description": "Entreprise industrielle de référence sur son marché, notre client recrute, en CDI au Mans, un Responsable Logistique Usine afin de piloter l'ensemble des flux physiques du site et d'encadrer une équipe d'environ 20 collaborateurs, dans un contexte de performance et d'amélioration continue. Rattaché à la direction industrielle, vous êtes garant de la performance logistique du site et de la fiabilité des flux entrants, internes et sortants. À ce titre, vos principales responsabilités sont les suivantes :\n- Manager et organiser les activités de réception, d'expédition et de distribution interne des composants vers les ateliers- Mettre en place l'organisation logistique permettant de respecter les programmes clients et fournisseurs en termes de quantités et de délais- Superviser la gestion des stocks composants - Structurer et optimiser les modes de gestion des stocks et des flux dans SAP- Piloter l'amélioration continue des flux physiques, anticiper les risques de dysfonctionnement et animer des groupes de travail d'actions de progrès- Manager, accompagner et développer les compétences de votre équipe (entretiens, communication terrain, animation des rituels de performance)",
       "dateCreation": "2026-06-27T15:45:48.000Z",
-      "dateActualisation": "2026-07-12T04:14:55.000Z",
+      "dateActualisation": "2026-07-15T07:50:20.000Z",
       "lieuTravail": {
         "libelle": "72 - Mans",
-        "latitude": 47.991494,
-        "longitude": 0.221966,
+        "latitude": 48.007462,
+        "longitude": 0.197404,
         "codePostal": "72000",
         "commune": "72181"
       },
@@ -9931,54 +9899,6 @@
           {
             "nom": "BROADBEAN",
             "url": "https://www.aplitrak.com/?adid=ZG9yaWRhbnRyLjYyMTk5LjY3MDZAaGF5c2ZyYW5jZS5hcGxpdHJhay5jb20",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/broadbean80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "3896989",
-      "intitule": "Responsable Qualité du Projet d'Extension Usine F/H (H/F)",
-      "description": "Responsabilités :\n\n- Définir et structurer le lots qualité nécessaire à l'atteinte des objectifs du projet et veiller à assurer l'implication de l'ensemble des acteurs qualité pour la tenue des délais.\n- Définir les objectifs qualité du projet et piloter la construction du plan d'actions en relation avec les équipes programmes \n\nActivités principales :\n\n- Identifier les ressources nécessaires et assurer l'adéquation charge/capacité \n- Assurer la mise à jour des documents existants sur le périmètre de l'usine actuelle\n- Veiller à la conformité avec les exigences réglementaires aéronautique sur le périmètre du projet \n- Qualification/habilitation\n- Développer les procédures, instructions, nécessaires à la qualification des procédés spéciaux \n- Définir et piloter les dossiers de qualification jusqu'à l'obtention de l'AQPS\n- Structurer et piloter la gestion des habilitations associés aux nouveaux procédés\n- Formation sensibilisation\n- Former et sensibiliser tous les nouveaux embauchés dans le cadre du projet aux exigences qualité\n- Assurer la montée en compétence des équipes qualité aux nouveaux procédés (coating, soudage ..)\n- Assurance Qaulité en phase d'industrialisation :Supporter les équipes méthodes sur le périmètre qualité de l'APQP\n- Contrôle et assurance qualité \n- Superviser les activités de contrôle qualité des produits et des processus de fabrication\n- Mettre en place des plans de contrôle qualités et réaliser des audits internes réguliers \n- Piloter les allègements de contrôle \n- Identifier, enregistrer et piloter le traitement des NC\n- Déployer le système de pilotage de la NC sur le périmètre du projet (QRAP, RPO .)\nLe ou la candidat-e devra avoir une expérience en production et une connaissance des référentiels qualité",
-      "dateCreation": "2026-06-17T11:04:34.000Z",
-      "dateActualisation": "2026-06-17T11:04:35.000Z",
-      "lieuTravail": {
-        "libelle": "71 - Creusot",
-        "latitude": 46.806854,
-        "longitude": 4.426423,
-        "codePostal": "71200",
-        "commune": "71153"
-      },
-      "romeCode": "H1206",
-      "romeLibelle": "Ingénieur / Ingénieure R&D en industrie",
-      "appellationlibelle": "Ingénieur / Ingénieure en aéronautique en industrie",
-      "entreprise": {
-        "nom": "Safran",
-        "description": "Safran est un groupe international de haute technologie operant dans les domaines de l'aeronautique (propulsion, equipements et interieurs), de l'espace et de la defense. Sa mission : contribuer durablement à un monde plus sur, où le transport aerien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible.",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "4 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "nombrePostes": 1,
-      "accessibleTH": false,
-      "codeNAF": "30.30Z",
-      "secteurActivite": "30",
-      "secteurActiviteLibelle": "Construction aéronautique et spatiale",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/3896989",
-        "partenaires": [
-          {
-            "nom": "BROADBEAN",
-            "url": "https://www.aplitrak.com/?adid=a2ltaWEuZ29sa2FyLmV4dC4zOTkyMi42NzA2QHNhZnJhbmZyLmFwbGl0cmFrLmNvbQ",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/broadbean80.png"
           }
         ]
@@ -10172,6 +10092,52 @@
           {
             "nom": "AEROCONTACT",
             "url": "https://www.aerocontact.com/emploi-aeronautique/responsable-conduite-du-changement-des-projets-digitalisation-et-usine-du-futur-fh~1140235.html?fromref=poleemploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/aerocontact80.png"
+          }
+        ]
+      },
+      "contexteTravail": {
+        "horaires": [
+          "\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "2138844",
+      "intitule": "Responsable intégration des moyens industriels - création d'usine f/h",
+      "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 100 000 collaborateurs pour un chiffre d'affaires de 27,3 milliards d'euros en 2024, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran est la 2ème entreprise du secteur aéronautique et défense du classement « World's Best Companies 2024 » du magazine TIME. Safran Aircraft Engines conçoit, produit et commercialise, seul ou en coopération, des moteurs aéronautiques civils et militaires aux meilleurs niveaux de performance, fiabilité et respect de l'environnement. La société est notamment, à travers CFM International*, le leader mondial de la propulsion d'avions commerciaux courts et moyen-courriers. * CFM International est une société commune 50/50 de Safran Aircraft Engines et GE Aerospace. Parce que nous sommes persuadés que chaque talent compte, nous valorisons et encourageons les candidatures de personnes en situation de handicap pour nos opportunités d'emploi. Descriptif missionIntégré(e) à l'équipe de pilotage du projet Safran Turbine Airfoils, vous êtes responsable de la gestion et de la supervision des investissements liés à la création de la nouvelle usine de réparation à Rennes. Vous intervenez sur l'ensemble du cycle de vie des investissements, de la conception à la mise en service, en veillant à l'atteinte des objectifs de qualité, coûts et délais. Planification stratégique et gestion de projet o Piloter la planification des investissements des différents lots du projet. no Élaborer, suivre et optimiser les plannings de réalisation. o Définir les budgets d'investissement, anticiper les besoins en ressources et conduire les négociations nécessaires à leur mobilisation. o Garantir le respect des délais et des budgets alloués. Conception et mise en service des installations o Garantir l'adéquation des moyens industriels avec les infrastructures et servitudes du bâtiment. o Piloter les consultations fournisseurs jusqu'à la commande. o Animer les interfaces avec les différentes fonctions du projet. o Accompagner les fournisseurs dans les choix techniques et technologiques afin d'assurer la cohérence globale des installations. o Piloter les chantiers d'installation, de qualification et de vérification de conformité des investissements dans le respect des règles SSE. o Organiser et encadrer les phases de mise en service, de tests et de validation des installations. Qualité et conformité o oVeiller au respect des normes et réglementations applicables. o Déployer les procédures de contrôle qualité et garantir la traçabilité documentaire du projet. Pilotage et communication o Assurer une communication efficace avec l'ensemble des parties prenantes internes et externes. o Participer aux instances de pilotage et de décision du projet. o Mettre en place un QRQC dédié aux réceptions et à la mise en route des investissements. o o Contribuer à l'amélioration continue et à la réduction des coûts.",
+      "dateCreation": "2026-04-30T08:15:38.000Z",
+      "dateActualisation": "2026-06-06T08:15:54.000Z",
+      "lieuTravail": {
+        "libelle": "91 - Saclay",
+        "latitude": 48.753227,
+        "longitude": 2.181166,
+        "codePostal": "91400",
+        "commune": "91534"
+      },
+      "romeCode": "I1102",
+      "romeLibelle": "Ingénieur / Ingénieure de maintenance industrielle",
+      "appellationlibelle": "Responsable des moyens généraux en industrie",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "Expérience exigée",
+      "salaire": {},
+      "dureeTravailLibelle": "\nTravail en journée",
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/2138844",
+        "partenaires": [
+          {
+            "nom": "AEROCONTACT",
+            "url": "https://www.aerocontact.com/emploi-aeronautique/responsable-integration-des-moyens-industriels-creation-d-usine-fh~1130793.html?fromref=poleemploi",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/aerocontact80.png"
           }
         ]
@@ -10393,7 +10359,7 @@
       "intitule": "Directeur industriel (H/F)",
       "description": "Société emblématique et leader sur son marché des véhicules de transport agricole à destination des secteurs agricoles, des TP et espaces verts, la société ROLLAND structure son ambition de croissance et d'évolution constante de son offre à travers 9 gammes et 100 modèles. Ses 200 collaborateurs, experts et passionnés, cultivent leur savoir-faire avec engagement, exigence et soin.\n\nRejoignez un univers industriel multiple aux outils robotisés de pointe (oxycoupage, soudure sur gabarit, grenaillage, phosphatage, cataphorèse, peinture poudre par robots multi-axes) et venez accompagner nos futurs développements alliant robustesse, design, productivité et confort à destination de nos clients utilisateurs et distributeurs !\n\nDirecteur industriel (H/F), membre du Comité de Direction Groupe, vous contribuez à la construction et déclinaison de notre stratégie de développement en termes de gammes et produits, d'outillages et de méthodes dans le respect de nos engagements de qualité et de performance.\n\nMissions\n\nManager fédérateur, vous incarnez notre dynamique d'innovation à travers une animation stimulante de notre Directeur de production et de ses équipes (environ 120 collaborateurs dont 9 chefs d'équipe et une responsable maintenance), dans une logique d'optimisation des moyens humains, techniques et financiers comme d'amélioration continue des process. Alliant pragmatisme et vision stratégique, vous coiffez de même la Direction du Développement Industriel dédiée, à travers notre Bureau d'Études, notre atelier prototypes et notre service SAV, à l'évolution de notre offre, l'industrialisation optimale de nos produits en termes de coûts, délais, sécurité et environnement, la définition de nos outillages et méthodes.\n\nGarant(e) de la qualité qui place notre société dans le top 5 européen, vous managez le Responsable Qualité et son équipe de contrôle, garante de nos pratiques et des normes européennes qui régissent la mise en service de nos véhicules.\n\nGarant(e) de la politique santé, sécurité, et conditions de travail, vous pilotez notre stratégie de prévention des risques et vous impulsez au quotidien une culture sécurité exigeante.\n\nVous animez également, notre Responsable Supply Chain, garante de la fluidité des flux et de notre performance globale.\n\nGestionnaire responsable et engagé(e), vous préparez les projets d'investissements, suivez leur mise en œuvre et apportez un pilotage structuré et cadré de l'ensemble de nos process et infrastructures.\n\nPar votre appétence à la conduite du changement, vous accompagnez structuration organisationnelle comme vous contribuez à cultiver un management nourri de transversalité et d'une gestion sociale saine et constructive. A ce titre, vous êtes un acteur clé du dialogue social et vous veillez au bon fonctionnement du CSE.\n\nProfil recherché\n\nEssentielle à la poursuite de notre développement, cette responsabilité s'adresse à un profil doté d'une formation supérieure technique couplée d'une expérience managériale réussie en qualité de Directeur de Production H/F puis de Directeur Industriel H/F de minimum 5 ans. Au-delà d'un leadership et d'une intelligence relationnelle, vous témoignez d'esprit d'analyse, d'ouverture, de curiosité et de sens stratégique qui confortent une gestion maîtrisée, rigoureuse et méthodique de votre périmètre.\n\nHumilité, exemplarité, respect des personnes et du travail bien fait sont quelques valeurs qui vous animent et que vous aimerez partager avec nous.",
       "dateCreation": "2026-06-24T10:11:16.798Z",
-      "dateActualisation": "2026-07-10T22:47:51.541Z",
+      "dateActualisation": "2026-07-15T10:06:27.279Z",
       "lieuTravail": {
         "libelle": "29 - Tréflévénez",
         "latitude": 48.415196,
@@ -11440,11 +11406,11 @@
       "intitule": "Directeur/Responsable de la qualité (F/H)",
       "description": "En tant que Responsable qualité formes sèches et buvables , vous réalisez la certification des lots de vos gammes ainsi que de la partie biologie par délégation du responsable pharmaceutique du site, assurant ainsi la commercialisation de produits sûrs et efficaces. \n\nDans le cadre de vos fonctions, la gestion opérationnelle intègre le pilotage des outils et de l'organisation de l'équipe AQ Produit afin de garantir le respect des objectifs de délais, de coûts et de qualité lors de la libération des flux. Votre expertise est également attendue pour sécuriser le traitement des événements qualité, préparer les processus réglementaires comme le Local Advisory Committee en cas de défaut sur le marché, et piloter les déclarations auprès des autorités compétentes. \n\nActeur clé de l'amélioration continue sur le terrain, vous menez à bien le programme des revues annuelles de produits, veillez à l'application rigoureuse des réglementations en vigueur et contribuez activement à la formation du personnel de Toulouse. \n\nEnfin, l'animation managériale d'une équipe d'environ six techniciens et cadres fait pleinement partie de vos responsabilités, impliquant la définition de leurs objectifs, le suivi de leurs performances, ainsi que le développement de leurs compétences et de leur polyvalence.",
       "dateCreation": "2026-07-10T15:33:05.923Z",
-      "dateActualisation": "2026-07-10T16:07:27.767Z",
+      "dateActualisation": "2026-07-15T08:02:59.390Z",
       "lieuTravail": {
         "libelle": "31 - Toulouse",
-        "latitude": 43.556879,
-        "longitude": 1.380671,
+        "latitude": 43.578657,
+        "longitude": 1.44664,
         "codePostal": "31000",
         "commune": "31555"
       },
@@ -11864,7 +11830,7 @@
       "intitule": "Directeur/Responsable de la qualité (F/H)",
       "description": "Comment transformeriez-vous la gestion de la qualité en tant que Directeur/responsable de la qualité (F/H) ?\nAu sein d'une équipe dynamique, vous superviserez la qualité des opérations fournisseurs pour garantir la conformité et l'amélioration continue.\n\n- Assurer le traitement des non-conformités et piloter les actions correctives en collaboration avec les parties prenantes\n\n- Accompagner les fournisseurs dans l'industrialisation, valider les jalons et optimiser les processus de fabrication\n\n- Réaliser des audits de surveillance chez les fournisseurs et piloter les initiatives de progrès pour renforcer la qualité\n\nDécouvrez cette offre alléchante :\n- Contrat: Intérim\n\n- Durée: 12 mois\n\n- Salaire: à partir de 40k euros/an\n\n\nRejoignez une équipe ambitieuse et bénéficiez d'avantages clés :\n\nNous sommes déterminés à offrir des avantages exceptionnels, y compris Fast TT, pour attirer et retenir les meilleurs talents intérimaires.",
       "dateCreation": "2026-07-07T18:21:25.963Z",
-      "dateActualisation": "2026-07-08T09:39:19.090Z",
+      "dateActualisation": "2026-07-15T09:07:18.875Z",
       "lieuTravail": {
         "libelle": "92 - Colombes",
         "latitude": 48.914926,
@@ -11877,6 +11843,8 @@
       "appellationlibelle": "Directeur / Directrice qualité en industrie",
       "entreprise": {
         "nom": "RANDSTAD PROFESSIONAL",
+        "description": "Marre de vous sentir mis dans une case ? Rassurez-vous, nous aussi ! Vous ne savez pas où vous serez dans 5 ans? Rassurez-vous, nous non plus ! Chez Randstad professional soyez vous-même, aligné avec vos valeurs et vos envies. Nous voulons vous rencontrer, avec vos forces et vos faiblesses, pour inventer ensemble VOTRE prochaine histoire professionnelle.\n\nEn choisissant notre agence, vous entrez dans l'univers de l'aéronautique et des challenges technologiques à la pointe de l'innovation.",
+        "logo": "https://api.francetravail.fr/exp-rechercheoffre/v1/logo-entreprise/l0Rt2BWxYEI1lep85WWYIHEZ2q2uSJlm",
         "entrepriseAdaptee": false
       },
       "typeContrat": "MIS",
@@ -11893,12 +11861,13 @@
         }
       ],
       "salaire": {
-        "libelle": "Annuel de 40000.0 Euros sur 12.0 mois"
+        "libelle": "Annuel de 40000.0 Euros sur 12 mois"
       },
       "dureeTravailLibelle": "38H/semaine\nTravail en journée",
       "dureeTravailLibelleConverti": "Temps plein",
       "alternance": false,
       "contact": {
+        "nom": "RANDSTAD PROFESSIONAL - Mme Marie-julie CAYARCY RELMY",
         "coordonnees1": "https://www.randstadprofessional.fr/offre/307-U33-0002125_01C/A?utm_medium=jobboard_organic&utm_source=france-travail&utm_campaign=offres",
         "urlPostulation": "https://www.randstadprofessional.fr/offre/307-U33-0002125_01C/A?utm_medium=jobboard_organic&utm_source=france-travail&utm_campaign=offres"
       },
@@ -13532,101 +13501,73 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "201VVTQ",
-      "intitule": "Directeur Technique  (H/F)",
-      "description": "Vous aurez pour mission de superviser le bureau d'études et la production. \n\n* Participer au développement commercial : en phase d'avant-vente, rencontrer des clients et prospects pour proposer des solutions techniques.\n* Participer à la stratégie commerciale : calculer les volumes optimaux d'une production JAT (en flux tendus).\n* Piloter l'ensemble des achats, en l'absence d'un service dédié.\n* Gérer la sous-traitance industrielle.\n\nCompétences : En management, et dans la coordination des activités du bureau d'étude et de la production\n",
-      "dateCreation": "2025-12-23T09:36:25.595Z",
-      "dateActualisation": "2026-06-26T15:00:19.556Z",
+      "id": "211CPKG",
+      "intitule": "Responsable HSE H/F",
+      "description": "CRIT Solution RH de NESLE recrute pour son client spécialiste du conditionnement de produits cosmétiques et de parfums, un responsable HSE H/F, pourquoi pas vous ?\n\nVos missions ?\nDéployer et animer la politique HSE Groupe.\nŒuvrer à la conformité réglementaire & ICPE.\nPiloter le DUERP, le PAPRIPACT et les plans d'actions.\nPrévenir les risques (sécurité, TMS, chimique, incendie, ATEX...).\nÊtre l'interlocuteur des autorités et organismes externes (DREAL, CARSAT...).\nSensibiliser et fédérer les équipes autour d'une culture sécurité forte.\n\nHoraires : 2x8 (5h00-13h00 / 13h00-21h00)\nSalaire : 3 115EUR brut mensuel + primes Intéressement et participation + ticket restaurants.\n Expérience professionnelle de 3 ans dans un poste similaire.\nMaîtrise des réglementations HSE et ICPE.\nCapacité à sensibiliser et former le personnel aux bonnes pratiques en matière de sécurité.\nCapacité à travailler en équipe et à communiquer efficacement\n\nSi vous êtes passionné.e par la sécurité au travail et que vous souhaitez contribuer à la mise en place d'un environnement de travail sain et sécurisé, ce poste est fait pour vous !\n",
+      "dateCreation": "2026-07-13T08:03:25.903Z",
+      "dateActualisation": "2026-07-15T09:12:47.161Z",
       "lieuTravail": {
-        "libelle": "08 - GLAIRE",
-        "latitude": 49.711881,
-        "longitude": 4.913613,
-        "codePostal": "08200",
-        "commune": "08194"
+        "libelle": "80 - Chaulnes",
+        "latitude": 49.818614,
+        "longitude": 2.798818,
+        "codePostal": "80320",
+        "commune": "80186"
       },
-      "romeCode": "H2510",
-      "romeLibelle": "Directeur / Directrice de production industrielle",
-      "appellationlibelle": "Directeur / Directrice technique en fabrication industrielle",
+      "romeCode": "H1304",
+      "romeLibelle": "Responsable Hygiène Sécurité Environnement (HSE) en industrie",
+      "appellationlibelle": "Directeur / Directrice Hygiène (HSE) en industrie",
       "entreprise": {
-        "nom": "ARCOMAT MOBILIER URBAIN",
+        "nom": "CRIT",
         "entrepriseAdaptee": false
       },
       "typeContrat": "CDI",
       "typeContratLibelle": "CDI",
       "natureContrat": "Contrat travail",
       "experienceExige": "E",
-      "experienceLibelle": "5 An(s)",
-      "formations": [
-        {
-          "niveauLibelle": "Bac+5 et plus ou équivalents",
-          "commentaire": "Ingénieur en industrie",
-          "exigence": "E"
-        },
-        {
-          "codeFormation": "31676",
-          "domaineLibelle": "Bureau d'études",
-          "niveauLibelle": "Bac+5 et plus ou équivalents",
-          "exigence": "S"
-        }
-      ],
+      "experienceLibelle": "2 An(s)",
       "competences": [
         {
-          "code": "121049",
-          "libelle": "Apporter un appui technique aux services qualité, maintenance, méthodes, recherche et développement",
+          "code": "100015",
+          "libelle": "Cadre réglementaire environnemental",
           "exigence": "S"
         },
         {
-          "code": "300175",
-          "libelle": "Piloter la gestion de la production, de l'exploitation",
+          "code": "121802",
+          "libelle": "Concevoir un système de management Qualité Sécurité Environnement (QSE)",
           "exigence": "S"
         },
         {
-          "code": "300242",
-          "libelle": "Déterminer des mesures correctives",
-          "exigence": "S"
-        },
-        {
-          "code": "300312",
-          "libelle": "Mettre en place des solutions d'amélioration de la performance",
-          "exigence": "S"
-        },
-        {
-          "code": "300449",
-          "libelle": "Expliquer et faire respecter les règles et procédures",
+          "code": "120853",
+          "libelle": "Construire un plan d'action QSE",
           "exigence": "S"
         }
       ],
       "salaire": {
-        "commentaire": "Selon profil"
+        "libelle": "Mensuel de 2900.0 Euros à 3300.0 Euros sur 12 mois"
       },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelle": "35H/semaine\nTravail posté (2x8, 3x8, 5x8, etc.)",
       "dureeTravailLibelleConverti": "Temps plein",
       "alternance": false,
       "contact": {
-        "nom": "Agence France Travail SEDAN",
-        "coordonnees1": "5 RUE BERTHELOT",
-        "coordonnees2": "08200 Sedan",
-        "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/201VVTQ"
+        "coordonnees1": "https://job.mytalentplug.com/api/JobOffer/redirect/?id=6f66db3c-a9ba-4cfd-a263-b9763f8a3e14",
+        "urlPostulation": "https://job.mytalentplug.com/api/JobOffer/redirect/?id=6f66db3c-a9ba-4cfd-a263-b9763f8a3e14"
       },
-      "agence": {
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/201VVTQ"
-      },
+      "agence": {},
       "nombrePostes": 1,
-      "accessibleTH": false,
       "qualificationCode": "9",
       "qualificationLibelle": "Cadre",
-      "codeNAF": "25.11Z",
-      "secteurActivite": "25",
-      "secteurActiviteLibelle": "Fabrication de structures métalliques et de parties de structures",
-      "trancheEffectifEtab": "20 à 49 salariés",
+      "codeNAF": "78.20Z",
+      "secteurActivite": "78",
+      "secteurActiviteLibelle": "Activités des agences de travail temporaire",
+      "trancheEffectifEtab": "50 à 99 salariés",
       "origineOffre": {
         "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/201VVTQ"
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211CPKG"
       },
       "offresManqueCandidats": false,
       "contexteTravail": {
         "horaires": [
-          "35H/semaine\nTravail en journée"
+          "35H/semaine\nTravail posté (2x8, 3x8, 5x8, etc.)"
         ]
       },
       "entrepriseAdaptee": false,
