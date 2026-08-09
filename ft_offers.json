@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:54:12.773738+00:00",
+  "generated_at": "2026-08-09T06:57:35.283404+00:00",
   "queries": [
     "directeur général",
     "directeur de business unit",
@@ -8,91 +8,6 @@
     "COO"
   ],
   "results": [
-    {
-      "id": "211YRTH",
-      "intitule": "Directeur général (H/F)",
-      "description": "Vous serez en charge de :\nRecruter des musiciens\nSuivre l'avancement des projets \nFaire le bilan comptable \nGérer le studio d'enregistrement \nFaire le suivi des bons de commande",
-      "dateCreation": "2026-08-01T12:17:56.865Z",
-      "dateActualisation": "2026-08-07T09:54:59.524Z",
-      "lieuTravail": {
-        "libelle": "67 - Lingolsheim",
-        "latitude": 48.55587,
-        "longitude": 7.6822,
-        "codePostal": "67380",
-        "commune": "67267"
-      },
-      "romeCode": "M1216",
-      "romeLibelle": "Secrétaire général / Secrétaire générale",
-      "appellationlibelle": "Responsable de la gestion et des services généraux",
-      "entreprise": {
-        "nom": "MAISON ROUGE PRODUCTION",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "24 Mois",
-      "competences": [
-        {
-          "code": "300307",
-          "libelle": "Assurer la gestion administrative et financière d'une activité",
-          "exigence": "E"
-        },
-        {
-          "code": "300323",
-          "libelle": "Elaborer, suivre et piloter un budget",
-          "exigence": "E"
-        },
-        {
-          "code": "109420",
-          "libelle": "Superviser la gestion financière",
-          "exigence": "E"
-        }
-      ],
-      "salaire": {
-        "libelle": "Mensuel de 1800.0 Euros sur 12 mois"
-      },
-      "dureeTravailLibelle": "Temps partiel - 30H/semaine\nTravail selon un rythme irrégulier et des pics d'activité",
-      "dureeTravailLibelleConverti": "Temps partiel",
-      "alternance": false,
-      "contact": {},
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels Zone nationale",
-      "qualificationCode": "8",
-      "qualificationLibelle": "Agent de maîtrise",
-      "codeNAF": "59.20Z",
-      "secteurActivite": "59",
-      "secteurActiviteLibelle": "Enregistrement sonore et édition musicale",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Faire preuve de leadership",
-          "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
-        },
-        {
-          "libelle": "Organiser son travail selon les priorités et les objectifs",
-          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
-        },
-        {
-          "libelle": "Faire preuve de créativité, d'inventivité",
-          "description": "Capacité à créer, imaginer quelque chose de nouveau (nouveau produit, nouvelle solution, …)."
-        }
-      ],
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211YRTH"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "Temps partiel - 30H/semaine\nTravail selon un rythme irrégulier et des pics d'activité"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
     {
       "id": "212FCSM",
       "intitule": "Directeur / Directrice générale des services territoriaux (H/F)",
@@ -886,6 +801,91 @@
       "contexteTravail": {
         "horaires": [
           "35H/semaine\nHoraires annuels"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "211YRTH",
+      "intitule": "Directeur général (H/F)",
+      "description": "Vous serez en charge de :\nRecruter des musiciens\nSuivre l'avancement des projets \nFaire le bilan comptable \nGérer le studio d'enregistrement \nFaire le suivi des bons de commande",
+      "dateCreation": "2026-08-01T12:17:56.865Z",
+      "dateActualisation": "2026-08-07T09:54:59.524Z",
+      "lieuTravail": {
+        "libelle": "67 - Lingolsheim",
+        "latitude": 48.55587,
+        "longitude": 7.6822,
+        "codePostal": "67380",
+        "commune": "67267"
+      },
+      "romeCode": "M1216",
+      "romeLibelle": "Secrétaire général / Secrétaire générale",
+      "appellationlibelle": "Responsable de la gestion et des services généraux",
+      "entreprise": {
+        "nom": "MAISON ROUGE PRODUCTION",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "24 Mois",
+      "competences": [
+        {
+          "code": "300307",
+          "libelle": "Assurer la gestion administrative et financière d'une activité",
+          "exigence": "E"
+        },
+        {
+          "code": "300323",
+          "libelle": "Elaborer, suivre et piloter un budget",
+          "exigence": "E"
+        },
+        {
+          "code": "109420",
+          "libelle": "Superviser la gestion financière",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "libelle": "Mensuel de 1800.0 Euros sur 12 mois"
+      },
+      "dureeTravailLibelle": "Temps partiel - 30H/semaine\nTravail selon un rythme irrégulier et des pics d'activité",
+      "dureeTravailLibelleConverti": "Temps partiel",
+      "alternance": false,
+      "contact": {},
+      "agence": {},
+      "nombrePostes": 1,
+      "deplacementCode": "2",
+      "deplacementLibelle": "Ponctuels Zone nationale",
+      "qualificationCode": "8",
+      "qualificationLibelle": "Agent de maîtrise",
+      "codeNAF": "59.20Z",
+      "secteurActivite": "59",
+      "secteurActiviteLibelle": "Enregistrement sonore et édition musicale",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Faire preuve de leadership",
+          "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        },
+        {
+          "libelle": "Faire preuve de créativité, d'inventivité",
+          "description": "Capacité à créer, imaginer quelque chose de nouveau (nouveau produit, nouvelle solution, …)."
+        }
+      ],
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211YRTH"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "Temps partiel - 30H/semaine\nTravail selon un rythme irrégulier et des pics d'activité"
         ]
       },
       "entrepriseAdaptee": false,
@@ -5761,6 +5761,44 @@
       "employeurHandiEngage": false
     },
     {
+      "id": "5851822",
+      "intitule": "Responsable HSE Business Unit Combustible F/H",
+      "description": "S'appuyant sur plus de 40 années de savoir-faire, et les compétences de collaborateurs à travers le monde, la Business Unit (BU) Combustible développe, conçoit, fabrique et commercialise des assemblages de combustible ainsi que des services associés au combustible, pour les centrales de production d'électricité de type réacteur à eau légère (REP pour les réacteurs à eau sous pression et REB pour les réacteurs à eau bouillante) et les réacteurs de recherche.La BU Fuel est également en charge de l'élaboration du zirconium et de ses alliages et commercialise aussi des services d'ingénierie et des services sur site associés au combustible.Le/la Responsable HSE de la BU Combustible est rattaché.e au Directeur QHSEP de la BU. Il/Elle aura en charge le pilotage transverse des actions d'amélioration HSE au sein de la BU (10 sites industriels en France, Allemagne et US), notamment concernant la mise en œuvre des exigences Top Killers, y compris les risques feux de métaux.Il/Elle sera référent.e dans ce domaine pour la BU.Il/Elle sera en charge de définir les standards ou guides méthodologiques et opérationnels applicables sur la BU.Ce poste nécessite une présence sur le terrain importante pour être en capacité d'assurer un support opérationnel.Le/la Responsable HSE de la BU est également le correspondant HSE de la BU pour le site de Lyon Gerland. A ce titre, il/elle assure les interfaces avec la direction du site de Lyon et pilote les actions pour les entités lyonnaises.Suivant le profil du candidat, il pourra être amené à piloter la gestion de crise pour la BU, ainsi qu'à prendre en charge des actions en matière de sûreté nucléaire pour apporter un support aux INB de la BU Combustible.",
+      "dateCreation": "2026-08-08T11:50:17.816Z",
+      "dateActualisation": "2026-08-08T11:50:17.816Z",
+      "lieuTravail": {
+        "libelle": "69 - Lyon",
+        "commune": "69123"
+      },
+      "romeCode": "H1109",
+      "romeLibelle": "Chargé / Chargée d'affaires nucléaire",
+      "appellationlibelle": "Chargé / Chargée d'Affaires Logistique combustible Nucléaire",
+      "entreprise": {},
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5851822",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/55957541?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "5666097",
       "intitule": "Senior Business Unit Manager - Gestion de projets - Qualité - Lyon, France (H/F)",
       "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise Astek recherche actuellement des profils : Et si vous rejoigniez la communauté Astek ?\nRattaché à la Direction Exécutive du Groupe Astek, vous rejoignez Emisys Lyon en tant que Senior Business Unit Manager, pour piloter et développer un périmètre stratégique en pleine expansion, au cœur des métiers de l'industrie et de la gestion de projet : pilotage de projets complexes, PMO, ingénierie, performance industrielle, transformation, gestion des risques, qualité, supply chain projet et conduite du changement.\nVéritable leader opérationnel et commercial, vous contribuez directement à la croissance du pôle tout en incarnant les valeurs fortes d'Emisys : excellence, exigence, esprit d'équipe et engagement projet.\nVotre mission (... si vous l'acceptezstrong>\nProspection commerciale\n- Développer de nouveaux comptes stratégiques des secteurs industriels (énergie, transport, pharma, défense, manufacturing.).- Réaliser prospection téléphonique, rendez-vous clients et actions terrain.- Identifier les opportunités de pilotage de projet, PMO, ingénierie ou transformation à fort potentiel.\nRecrutement\n- Sourcer, évaluer et recruter les meilleurs profils : PMO, chefs de projet, ingénieurs, consultants AMOA, qualité projet, supply chain, performance industrielle.- Contribuer à la stratégie de recrutement de la filiale.- Intégrer, engager et fidéliser vos consultants.\nTraitement de besoins\n- Qualifier les besoins clients et les transformer en missions opérationnelles.- Préparer les dossiers, structurer les propositions, négocier les conditions commerciales.- Assurer le closing et garantir une mise en place projet fluide et efficace.\nManagement des collaborateurs\n- Suivre vos consultants en mission : accompagnement, montée en compétence, entretiens annuels d'évaluation.- Garantir un management de proximité et un haut niveau de satisfaction.- Veiller à la qualité des prestations et à la performance projet.\nGestion de centre de profit\n- Piloter votre Business Unit : marge, rentabilité, prévisions, gestion de l'intercontrat.- Optimiser le staffing et la charge projet.- Contribuer au développement durable et performant du pôle parisien.\nCoaching BM / BUM\n- Accompagner les Business Managers dans leur montée en compétence.- Développer leurs compétences commerciales, relationnelles et managériales.- Participer à la structuration et à la croissance globale de la filiale Emisys Paris.\nVotre quotidien sera rythmé par :\n- L'analyse des enjeux projets des grands acteurs industriels et l'anticipation des évolutions du secteur.- La compréhension fine des contextes clients pour proposer des solutions pertinentes et à forte valeur ajoutée.- La construction de relations durables et stratégiques avec vos clients clés.- La structuration, l'animation et la montée en compétence de votre équipe.- Le pilotage de projets complexes en garantissant qualité, rigueur, performance et fiabilité. \n\n- Une équipe soudée et ultra-engagée, où l'entraide, la rigueur et la performance collective sont au cœur du quotidien.- Un onboarding premium grâce au programme Boost Manager, conçu pour sécuriser votre prise de poste et accélérer votre montée en puissance.- Un variable attractif et non plafonné, en lien direct avec votre performance.- Une évolution rapide, lisible et méritocratique, avec des perspectives telles que :→ Business Unit Director→ Directeur de Département- Des opportunités à l'international ou sur des postes stratégiques (Global Account Manager, Key Account Managerp>\n- Un vrai goût du challenge et de la performance, avec l'envie de dépasser les objectifs plutôt que de simplement les atteindre.\n- Un relationnel puissant et authentique : vous savez créer du lien, convaincre et embarquer vos interlocuteurs grâce à une communication fluide et impactante.\n- Une passion pour le développement commercial, où chaque nouveau client, chaque opportunité et chaque succès devient un véritable moteur.\n- Un mental de gagnant : persévérant, résilient, orienté résultats. vous transformez les obstacles en accélérateurs.\n- Un leadership naturel, capable de fédérer, inspirer et entraîner vos équipes vers des performances collectives d'un haut niveau.\n",
@@ -6222,7 +6260,7 @@
       "intitule": "Eurest - Business Unit Manager H/F - h",
       "description": "Eurest, filiale de Compass Group, est une référence en restauration collective et services depuis plus de  ans. Présents dans plus de  exploitations au Luxembourg, nous rassemblons  collaborateurs qui partagent une mission commune : proposer une restauration moderne, qualitative et durable.Dans le cadre de notre développement, nous recrutons un Business Unit Manager (H/F) pour diriger l'une de nos exploitations majeures.Votre missionÊtre le chef d'orchestre du site, en combinant excellence opérationnelle, management d'équipe et sens du service client. Vous aurez la responsabilité d'offrir une restauration haut de gamme, innovant/ante et durable, tout en respectant les standards contractuels et budgétaires.Ce que vous ferezGestion & Performance-        Piloter les indicateurs clés (CA, food cost, productivité) avec la même rigueur qu'un manager retail.-        Optimiser le budget et les ressources pour atteindre un équilibre entre qualité, efficacité et rentabilité.-        Analyser les résultats et transformer les chiffres en actions concrètes d'amélioration.Relation client & contractuelleÊtre l'interlocuteur privilégié du client signataire, garant d'un partenariat solide et durable.Adapter l'offre et les services aux besoins évolutifs des clients et convives.Préparer et animer les réunions de suivi avec des propositions claires et innovant/antes.Management & LeadershipRecruter, intégrer et former vos talents comme un véritable coach d'équipe.Construire des plannings fluides et efficaces, tout en respectant l'équilibre de vie des collaborateurs.Motiver, inspirer et développer les compétences de chacun pour construire une équipe engagée et performant/ante.Expérience client & opérationnelÊtre présent sur le terrain, surtout lors des moments clés du service.Transformer chaque repas en une expérience fluide et qualitative, inspirée des standards retail : rapidité, sourire, efficacité.Anticiper et résoudre les imprévus pour maintenir une qualité irréprochable.Innovation & qualitéCo-construire les menus avec le Chef Exécutif et la Diététicien/ienne, en respectant équilibre nutritionnel et contraintes budgétaires.Mettre en place des animations culinaires, concepts et nouveautés qui surprennent positivement les convives.Garantir le respect des normes d'hygiène et sécurité (HACCP, QHSE).Communication & cohésionAnimer des briefings hebdomadaires avec l'équipe pour donner du sens, partager les résultats et engager tout le monde vers les objectifs.Valoriser les réussites et fédérer autour d'une dynamique positive.Ce que nous recherchonsUne expérience confirmée (3+ ans) en gestion d'un site de restauration ou retail food service.Un manager proche de ses équipes, capable de créer une culture de performance et de bienveillance.Un sens affûté de la gestion financier/ière et opérationnelle.Une aisance relationnelle naturelle, que ce soit avec un client institutionnel ou un convive.Un profil flexible, orienté solutions, qui garde la tête froide face aux imprévus.Pourquoi nous rejoindre ?Un environnement stimulant, au sein d'une exploitation stratégique.L'opportunité de conjuguer rigueur contractuelle et esprit retail : exigence, rapidité, innovation.Une équipe passionnée, où chaque collaborateur compte.Un cadre de travail inspirant, avec des perspectives d'évolution au sein du leader mondial de la restauration collective. Notre raison d'être : agir et innover pour faciliter le quotidien durablement. En tant que membre d'un groupe mondial, notre aspirons à devenir la référence des services au Luxembourg.Chez Compass Group Luxembourg, nous sommes fiers de créer un environnement où chaque collaborateur contribue à façonner un avenir durable en apportant des solutions innovant/antes.Cliquez ici pour en savoir plus et faites partie de cette aventure ! Dans le cas d'un recrutement, un extrait de  vous sera demandé.",
       "dateCreation": "2026-07-17T07:01:03.433Z",
-      "dateActualisation": "2026-08-08T07:00:52.016Z",
+      "dateActualisation": "2026-08-09T07:00:50.796Z",
       "lieuTravail": {
         "libelle": "Luxembourg"
       },
@@ -8137,6 +8175,141 @@
       "employeurHandiEngage": false
     },
     {
+      "id": "212GPXL",
+      "intitule": "Réf AR IPA    ING PROJET  AUTOMATICIEN ROBOTICIEN Exp.Usine (H/F)",
+      "description": "Réf AR IPA    INGENIEUR PROJET  AUTOMATICIEN ROBOTICIEN Exp. Installations en Usine\n PME  filiale d'un leader mondial de la construction aéronautique concevant, assemblant, installant et assurant la MCO de systèmes de robotisation (machines, outils, logiciels) à destination principalement de l'aéronautique et du spatial.\nConfrontée à une forte demande elle recherche des ingénieurs pour développer son pôle ingénierie\n\nMissions :\n Rapportant au Responsable du BE et dans le cadre de projets de customisation de Robots à 6 axes (Fanuc , Kuka ou Siemens) à adapter pour notamment réaliser l'inspection des voilures, de pièces en carbone, de positionnement,. et au sein d'une équipe pluri disciplinaire (ing méca, élec, systèmes, soft, supports,.), vous assurez le design et la conception de solutions robotisées, à savoir :\n- La réalisation de Grafcet\n- Le dimensionnement et la simulation du système automatisé\n- la définition et le choix des équipements\n- la définition du protocole\n- la réalisation de POC et le compte rendu \n- les études de faisabilité\n- le transfert de la réalisation et la documentation\n   \nCompétences :\n-  Bac +5 ingénieur automaticien -roboticien\n- Expérience minimum de 5 ans notamment en installation de lignes d'assemblages\n-  Pratique de la Gestion de Projets\n-  Maitrise de Step 7 - TIA Portal - Robot guide\n- Pratique de Ladder voire de langages structurés\n- Pratique de GRAFCET \n- Maitrise des environnements Fanuc et Siemens\n-  Connaissance du secteur aéro est un plus mais une expérience dans le ferroviaire ou l'automobile \n   peuvent être intéressantes.\n  -  Anglais bon niveau\n-  Communiquant contacts internes et clients\n-  Apporteur d'idées\n-  Dynamique \n-  Organisé\n-  Réactif\n-  Disponible pour déplacements ponctuels\n-  HABILITABLE SECRET DEFENSE = NATIONALITE FRANCAISE\n\nLieu de Travail :    Toulouse",
+      "dateCreation": "2026-08-08T17:34:28.792Z",
+      "dateActualisation": "2026-08-08T17:34:29.278Z",
+      "lieuTravail": {
+        "libelle": "31 - TOULOUSE",
+        "latitude": 43.579309,
+        "longitude": 1.41211,
+        "codePostal": "31000",
+        "commune": "31555"
+      },
+      "romeCode": "H1208",
+      "romeLibelle": "Automaticien / Automaticienne en bureau d'études",
+      "appellationlibelle": "Automaticien / Automaticienne chef de projet",
+      "entreprise": {
+        "nom": "CIMEM",
+        "description": "Cabinet CIMEM\nRecrutement de Cadres expérimentés et de cadres Dirigeants",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "5 An(s)",
+      "competences": [
+        {
+          "code": "104552",
+          "libelle": "Régulation et instrumentation",
+          "exigence": "E"
+        },
+        {
+          "code": "104535",
+          "libelle": "Concevoir les spécifications de l'installation automatisée en fonction du cahier des charges",
+          "exigence": "E"
+        },
+        {
+          "code": "104537",
+          "libelle": "Paramétrer un programme d'automatisation pour un automate programmable",
+          "exigence": "E"
+        },
+        {
+          "code": "104536",
+          "libelle": "Réaliser l'analyse fonctionnelle de l'installation et la décliner en un programme d'automatisation",
+          "exigence": "E"
+        },
+        {
+          "code": "104540",
+          "libelle": "Vérifier le programme d'automatisation par une série de tests sur plate-forme d'essais, en atelier, sur site",
+          "exigence": "E"
+        },
+        {
+          "libelle": "Ingénieur AUTOMATICIEN ROBOTIQUE",
+          "exigence": "E"
+        },
+        {
+          "libelle": "Expériences en Installations en Usine",
+          "exigence": "E"
+        },
+        {
+          "libelle": "  Maitrise de Step 7 - TIA portal – Robot guide",
+          "exigence": "E"
+        },
+        {
+          "libelle": "Pratique de GRAFCET ",
+          "exigence": "E"
+        },
+        {
+          "libelle": "Anglais",
+          "exigence": "E"
+        },
+        {
+          "libelle": "NATIONALITE FRANCAISE",
+          "exigence": "E"
+        },
+        {
+          "libelle": "Prtaique de la Machine Spéciale",
+          "exigence": "E"
+        },
+        {
+          "libelle": "Pratique de Ladder ",
+          "exigence": "E"
+        },
+        {
+          "libelle": "Maitrise des environnements Fanuc et Siemens",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 48000.0 Euros à 65000.0 Euros sur 12.0 mois"
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "CIMEM - M. PIERRE BOUCHER",
+        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212GPXL",
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212GPXL"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "70.22Z",
+      "secteurActivite": "70",
+      "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Avoir l'esprit d'équipe",
+          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
+        },
+        {
+          "libelle": "Faire preuve de créativité, d'inventivité",
+          "description": "Capacité à créer, imaginer quelque chose de nouveau (nouveau produit, nouvelle solution, …)."
+        },
+        {
+          "libelle": "Etre force de proposition",
+          "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
+        }
+      ],
+      "trancheEffectifEtab": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212GPXL"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "5738084",
       "intitule": "Responsable projet - création d'usine mécanique F/H",
       "description": "Piloter la création complète d'une usine mécanique destinée à la production de pièces usinées CNC, depuis la phase de cadrage industriel jusqu'au démarrage opérationnel du site. L'usine sera intégrée avec des capacitaire usinage, traitement thermiques et traitements de surface.\nLa localisation de l'usine est en cours de détermination et devrait être en Inde (ou éventuellement en Asie).\n\nResponsabilités principales\n*Structurer le projet, définir le périmètre, les jalons, le budget pour chaque étape, les risques et les livrables en développant un système de production 'state of the art' en termes de manufacturing 4.0, décarbonations, Lean permettant de doter SED d'un outil industriel compétitif pour les actionnements.\n*Construire et tenir le master planning du projet, en intégrant les dépendances entre bâtiment, machines, utilités et organisation opérationnelle.\n*Coordonner les responsables métiers et assurer la cohérence globale entre les lots techniques.\n*Préparer les comités de pilotage, les arbitrages budgétaires et les décisions d'investissement.\n*Suivre les risques couts, délais, qualité, sécurité, fournisseurs, ressources et autorisations.\n*Organiser la transition entre la phase projet et la phase exploitation avec le General Manager local.\n*Garantir que la vision industrielle initiale soit traduite en capacite de production réelle, exploitable et performante.\n*Piloter le choix, la qualification et l'industrialisation des procédés de fabrication mécanique (usinage, formage, assemblage, traitement), en lien avec les exigences qualité et les volumes de production cibles.\n*Superviser la réception, l'installation et la mise en service des équipements et lignes de production (machines-outils, moyens de contrôle, manutention), en garantissant le respect des spécifications techniques, des délais fournisseurs et des standards HSE.\n\nIngénieur mécanique, industriel ou généraliste, avec expérience en gestion de grands projets industriels incluant la mise en oeuvre d'investissements industriels des processus d'industrialisation et de transfert de production, dans le cadre de création de nouvelles empreintes industrielles.\nDisponibilité de se déplacer à l'international. expérience dans la gestion de contexte multi culturels.",
@@ -8285,7 +8458,7 @@
       "intitule": "Responsable d'usine de production d'eau potable (H/F)",
       "description": "Vous êtes prêt(e) à relever un défi passionnant au cœur de la production d'eau potable ?Notre client, acteur engagé dans le service public de l'eau, recrute un(e) Conducteur d'Usine d'Eau Potable pour renforcer son équipe à Mézières-sur-Couesnon. Rattaché(e) au Responsable d'usine, vous serez un maillon essentiel de la production d'une eau de qualité pour tous.Vos missions :ExploitationPiloter l'unité de production d'eau potable (prélèvements, analyses, réglages)Suivre la qualité des eaux brutes et sélectionner les ressources à utiliserMaîtriser la qualité de l'eau produite (procédés physico-chimiques, métrologie)Gérer les événements : incidents, alarmes, crisesExploiter les outils de pilotage et alerter en cas d'écartSuivre les lavages de réservoirs et ouvrages, superviser les opérations sous-traitéesParticiper aux astreintes en roulement sur 3 usinesMaintenanceAssurer la métrologie et l'entretien des appareils de suiviRéaliser la maintenance préventive et corrective (électrique, pneumatique, hydraulique, mécanique, télégestion)Diagnostiquer les pannes et intervenir mécaniquementParticiper aux projets de renouvellement du matérielGestionParticiper à l'approvisionnement des réactifs chimiques (soude, acide, javel...)Tracer vos interventions dans le système d'informationContribuer à la maîtrise des coûts d'exploitation (bilans techniques, tableaux de bord)GMAO : maîtrise du logiciel TOPKAPI.SAMSIC, société socialement responsable, s'engage au quotidien pour l'emploi des personnes en situation de handicap.",
       "dateCreation": "2026-07-12T11:02:04.000Z",
-      "dateActualisation": "2026-08-07T11:02:51.288Z",
+      "dateActualisation": "2026-08-08T11:03:02.494Z",
       "lieuTravail": {
         "libelle": "35 - Saint-Christophe-de-Valains",
         "codePostal": "35140",
@@ -8705,11 +8878,53 @@
       "employeurHandiEngage": false
     },
     {
+      "id": "5853195",
+      "intitule": "OPERATEUR MAGASINIER USINE H/F",
+      "description": "Dans le cadre de cette mission, vous assurez les tâches suivantes :- réceptionner les marchandises selon les modes opératoires définies- approvisionner les lignes de fabrication- assurer le flux de recyclage des différents contenants- expédier les produits finis- remonter les dysfonctionnement - contribuer au suivi des performances de son secteur- veiller à l'entretien de son poste de travailTaux horaire selon profil + 10% d'indemnités de fin de mission + 10% d'indemnité de congés payés + Mutuelle + Prévoyance + Possibilité CET. Vous bénéficiez également des avantages du CE, du FASTT (aides au logement, prêts personnels et immobilier, etcbr />Pour plus d'information sur ce poste, vous pouvez contacter MORGAN SERVICES Châtellerault au .90.",
+      "dateCreation": "2026-08-08T11:51:19.551Z",
+      "dateActualisation": "2026-08-08T11:51:19.551Z",
+      "lieuTravail": {
+        "libelle": "86 - Chasseneuil-du-Poitou",
+        "codePostal": "86360",
+        "commune": "86062"
+      },
+      "romeCode": "N1210",
+      "romeLibelle": "Logisticien / Logisticienne",
+      "appellationlibelle": "Technicien / Technicienne responsable magasinage",
+      "entreprise": {},
+      "typeContrat": "MIS",
+      "typeContratLibelle": "Intérim - 3 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "codeNAF": "78.10Z",
+      "secteurActivite": "78",
+      "secteurActiviteLibelle": "Activités des agences de placement de main-d'œuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5853195",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/55966645?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "5667297",
-      "intitule": "Agent usine d'eau potable H/F",
+      "intitule": "BTP - Agent usine d'eau potable H/F",
       "description": "Dans le cadre du développement de son activité, nous recherchons pour notre client, spécialisé dans le traitement de l'eau, un Agent usine d'eau potable à Batilly - . Le poste est à pourvoir en intérim pour une durée de 3 mois, avec des horaires de 35 heures par semaine et un salaire horaire compris entre 12 et 13EUR. Une expérience de 1 à 2 ans dans le domaine et un niveau d'études BAC+2 sont requis pour ce poste.- Exploitation et l'entretien des unités de production d'eau potable- Assurer l'enregistrements et la traçabilité d'exploitation sur les outils informatiques- Réaliser un reporting fiable et régulier- Assurer le suivi métrologique et l'étalonnage des installations, les analyses quotidiennes de suivi de process et les prélèvements d'autosurveillance- Assurer l'entretien général et la maintenance de niveau 1 et 2 sur les équipements électromécaniques et assister le service maintenance en cas de besoin- Assurer le suivi des travaux de renouvellement et de la sous-traitance- Respecter strictement les consignes de sécurité",
       "dateCreation": "2026-08-01T11:58:25.573Z",
-      "dateActualisation": "2026-08-01T11:58:25.573Z",
+      "dateActualisation": "2026-08-08T11:51:31.772Z",
       "lieuTravail": {
         "libelle": "54 - Batilly",
         "codePostal": "54980",
@@ -9470,167 +9685,6 @@
       "contexteTravail": {
         "horaires": [
           "\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "3715845",
-      "intitule": "Agent production / traitement eau potable et assainissement H/F",
-      "description": "Qui sommes-nous ? Saur, acteur majeur de l'eau en France, accompagne collectivités et industriels dans la gestion durable de la ressource. Présent sur l'ensemble du territoire, le Groupe s'appuie sur des équipes de proximité pour garantir un service essentiel au quotidien, avec une ambition forte : Redonner à l'eau la valeur qu'elle mérite. VOTRE QUOTIDIEN CHEZ SAUR Au sein d'une équipe de 12 collaborateurs pilotée et animée par Yannick, chef de secteur, vous participez à l'exploitation et à la surveillance des installations d'eau potable et d'assainissement du secteur de Saumur et Doué-la-Fontaine. Vos principales missions seront les suivantes : Assurer l'exploitation, la surveillance et le suivi des stations d'épuration, postes de relevage et installations d'eau potable ; Réaliser les opérations d'auto-surveillance, les prélèvements, les analyses de terrain et l'interprétation des résultats ; Effectuer les opérations de maintenance de premier niveau et participer au dépannage des équipements électromécaniques ; Assurer le suivi des installations via les outils métiers et réaliser le reporting de l'activité ; Participer aux astreintes afin de garantir la continuité du service. Le poste est orienté majoritairement assainissement (80 %) avec une activité complémentaire en eau potable (20 %).",
-      "dateCreation": "2026-06-11T09:00:37.000Z",
-      "dateActualisation": "2026-06-11T09:00:37.000Z",
-      "lieuTravail": {
-        "libelle": "49 - Saumur",
-        "latitude": 47.246163,
-        "longitude": -0.093348,
-        "codePostal": "49400",
-        "commune": "49328"
-      },
-      "romeCode": "K2316",
-      "romeLibelle": "Responsable d'usine de production d'eau potable",
-      "appellationlibelle": "Responsable d'usine de production d'eau potable",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "3 An(s)",
-      "salaire": {},
-      "dureeTravailLibelle": "\nTravail en journée",
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/3715845",
-        "partenaires": [
-          {
-            "nom": "EMPLOIENVIRONNEMENT",
-            "url": "https://www.emploi-environnement.com/fr/gestion_offre/visu_offre.php4?reference_offre=342285#xtor=AD-47",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/emploienvironnement80.png"
-          }
-        ]
-      },
-      "contexteTravail": {
-        "horaires": [
-          "\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "212FMQT",
-      "intitule": "Responsable de Station d'Épuration (H/F)",
-      "description": "Mission principale\nAssurer la gestion opérationnelle de la station d'épuration, garantir la conformité des rejets, optimiser les procédés de traitement et veiller au respect des normes environnementales et de sécurité au sein du site industriel.\n\nResponsabilités\nPilotage des installations de traitement - Superviser le fonctionnement des équipements (décanteurs, filtres, bassins, pompes,.), ajuster les paramètres et garantir la continuité du traitement.\n\nSuivi de la qualité de l'eau - Réaliser ou superviser les analyses physico-chimiques, interpréter les résultats et mettre en œuvre les actions correctives nécessaires.\n\nMaintenance et fiabilité - Organiser la maintenance préventive et corrective, diagnostiquer les dysfonctionnements et coordonner les interventions techniques.\n\nConformité réglementaire - Garantir le respect des normes environnementales, assurer la tenue des registres et préparer les contrôles des autorités.\n\nGestion des consommables et réactifs - Suivre les stocks, optimiser les consommations et garantir la disponibilité des produits nécessaires au traitement.\n\nReporting et documentation - Rédiger les rapports d'exploitation, renseigner les outils de suivi et communiquer les indicateurs à la direction.\n\nAmélioration continue - Proposer des optimisations techniques, réduire les coûts d'exploitation et améliorer la performance environnementale.\n\nEncadrement et coordination - Superviser les opérateurs, organiser les plannings et assurer la formation aux bonnes pratiques.\n\nProfil recherché\n-Bac+3 à Bac+5 en traitement de l'eau, chimie, environnement, procédés industriels ou équivalent.\n-Une expérience en management et  exploitation de station d'épuration industrielle est un prérequis.\n\nCompétences\n-Maîtrise des procédés de traitement des eaux usées (physico-chimie, biologique, boues).\n-Connaissance des normes environnementales et réglementations ICPE.\n-Capacité à diagnostiquer des anomalies et à optimiser les procédés.\n-Aisance avec les outils de supervision, d'analyse et de reporting.\n\nQualités\n-Rigueur, sens des responsabilités et vigilance.\n-Réactivité, autonomie et capacité à prendre des décisions rapides.\n-Bon relationnel et aptitude à travailler en coordination avec les équipes de production, maintenance et QHSE.",
-      "dateCreation": "2026-08-07T08:55:03.336Z",
-      "dateActualisation": "2026-08-07T08:55:03.992Z",
-      "lieuTravail": {
-        "libelle": "974 - Saint-André",
-        "latitude": -20.975869,
-        "longitude": 55.657992,
-        "codePostal": "97440",
-        "commune": "97409"
-      },
-      "romeCode": "K2316",
-      "romeLibelle": "Responsable d'usine de production d'eau potable",
-      "appellationlibelle": "Responsable de station d'épuration",
-      "entreprise": {
-        "nom": "RECRUT'OI",
-        "description": "Recrut'oi ....Entreprise de service qui étend son aide de la définition du profil recherché à la présentation du candidat.\nNous sommes un lien entre vous et les entreprises.\n",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "5 An(s)",
-      "formations": [
-        {
-          "niveauLibelle": "Bac+5 et plus ou équivalents",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "code": "100015",
-          "libelle": "Cadre réglementaire environnemental",
-          "exigence": "S"
-        },
-        {
-          "code": "113245",
-          "libelle": "Normes qualité",
-          "exigence": "S"
-        },
-        {
-          "code": "300243",
-          "libelle": "Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
-          "exigence": "S"
-        },
-        {
-          "code": "105456",
-          "libelle": "Identifier des non-conformités",
-          "exigence": "S"
-        },
-        {
-          "code": "108770",
-          "libelle": "Vérifier le fonctionnement des équipements et des installations, identifier les anomalies et les actions préventives ou correctives",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "libelle": "Annuel de 36000.0 Euros sur 12.0 mois",
-        "complement1": "Intéressement / participation",
-        "complement2": "Titres restaurant / Prime de panier",
-        "listeComplements": [
-          {
-            "code": "10",
-            "libelle": "Intéressement / participation"
-          },
-          {
-            "code": "6",
-            "libelle": "Titres restaurant / Prime de panier"
-          }
-        ]
-      },
-      "dureeTravailLibelle": "39H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "RECRUT'OI - Mme RECRUTOI SAUVAN MURIEL",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212FMQT",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212FMQT"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "1",
-      "deplacementLibelle": "Jamais",
-      "qualificationCode": "8",
-      "qualificationLibelle": "Agent de maîtrise",
-      "codeNAF": "78.10Z",
-      "secteurActivite": "78",
-      "secteurActiviteLibelle": "Activités des agences de placement de main-d'œuvre",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Avoir l'esprit d'équipe",
-          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
-        },
-        {
-          "libelle": "Organiser son travail selon les priorités et les objectifs",
-          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
-        }
-      ],
-      "trancheEffectifEtab": "1 ou 2 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212FMQT"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "39H/semaine\nTravail en journée"
         ]
       },
       "entrepriseAdaptee": false,
@@ -10507,7 +10561,7 @@
       "intitule": "Directeur Recherche et Innovation (H/F)",
       "description": "Vous souhaitez associer expertise scientifique, leadership et impact industriel durable ?\n\nCe poste stratégique offre l'opportunité de contribuer directement à l'avenir de NIGAY, en inscrivant l'innovation au cœur de sa croissance.\n\nActeur industriel reconnu au niveau européen et international, NIGAY est le spécialiste du caramel sous toutes ses formes. Entreprise familiale depuis 1855, NIGAY fonde son développement sur la passion, la tradition, l'innovation et l'exigence.\n\nDans un contexte de structuration et de développement, la Direction Générale crée un poste de Directeur Recherche & Innovation H/F, afin d'accompagner la croissance et la dynamique d'innovation de l'entreprise.\n\nVéritable pilote de la stratégie Recherche & Innovation, vous contribuez à positionner durablement NIGAY comme un acteur de référence sur les sujets liés à la chimie du caramel et des sucres.\nVous définissez les orientations techniques et scientifiques autour des procédés, matières premières, produits finis et innovations de rupture, en lien avec les enjeux du marché et les perspectives à long terme.\n\nÀ ce titre, vous :\n\n- Portez et faites vivre une culture de l'innovation dans l'entreprise, d'abord sur les produits et procédés, puis à terme à tous les niveaux de l'entreprise\n- Élaborez et formalisez une feuille de route stratégique pour la recherche et l'innovation\n- Supervisez les activités de recherche appliquée et d'analyses physico-chimiques, en animant l'équipe dédiée\n- Assurez une veille scientifique et technique pour identifier les technologies émergentes et les opportunités de développement\n- Valorisez la politique de recherche et les résultats auprès des instances internes et externes (Direction Générale, clients, partenaires, organismes scientifiques.)\n- Représentez l'entreprise dans des réseaux techniques et professionnels, en France et à l'international\n\nVotre profil : \n\n- De formation supérieure Bac+5 minimum (École d'ingénieur, université ou doctorat) en chimie organique, chimie des sucres ou procédés agroalimentaires\n- Vous disposez d'une expérience significative en environnement industriel, idéalement dans le secteur agroalimentaire.\n- Vous combinez rigueur scientifique, vision stratégique et curiosité intellectuelle.\n- La maîtrise parfaite de l'anglais est indispensable pour interagir dans un contexte international.\n- Votre capacité à fédérer, incarner et diffuser la culture de l'innovation sera déterminante.\n- Doté d'un excellent relationnel, vous savez dialoguer avec des interlocuteurs variés (scientifiques, partenaires industriels, instances décisionnelles).\n\nL'entreprise propose également un package attractif comprenant : un dispositif d'intéressement et de participation, une prime individuelle sur objectifs, une prime d'ancienneté, 14 RTT, Tickets Resto, mutuelle/retraite/prévoyance 100% PEC et des avantages CSE.",
       "dateCreation": "2026-07-23T16:15:27.468Z",
-      "dateActualisation": "2026-07-24T08:08:34.090Z",
+      "dateActualisation": "2026-08-08T22:46:30.182Z",
       "lieuTravail": {
         "libelle": "42 - FEURS",
         "latitude": 45.798718,
@@ -10607,7 +10661,7 @@
         "origine": "1",
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/211PSCW"
       },
-      "offresManqueCandidats": false,
+      "offresManqueCandidats": true,
       "contexteTravail": {
         "horaires": [
           "39H/semaine\nTravail en journée"
