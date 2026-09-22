@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:12:37.642390+00:00",
+  "generated_at": "2026-09-22T11:06:24.955688+00:00",
   "queries": [
     "directeur général",
     "directeur de business unit",
@@ -8,6 +8,89 @@
     "COO"
   ],
   "results": [
+    {
+      "id": "214DWRJ",
+      "intitule": "DIRECTEUR / DIRECTRICE GÉNÉRAL(E) (H/F)",
+      "description": "Sous l'autorité du Conseil d'administration, vous assurez la direction générale de l'association. Vous êtes le garant de la stratégie, de la pérennité économique et de la qualité des missions sociales.\n\nVos axes de responsabilité principaux :\n\nPilotage stratégique : Porter la vision de l'association et traduire les orientations du Conseil d'administration en actions concrètes.\nDirection opérationnelle : Piloter l'organisation, animer l'équipe de direction et conduire les transformations nécessaires.\nGestion financière : Assurer le pilotage budgétaire, la santé économique et la gestion financière de la structure.\nRessources Humaines : Définir et piloter la politique RH ainsi que le dialogue social.\nQualité et Sécurité : Garantir l'excellence des accompagnements et la sécurité des parcours.\nRelations extérieures : Représenter l'association auprès des partenaires institutionnels, des financeurs et des acteurs du territoire.\nAccompagnement de la gouvernance : Soutenir le Président, le Bureau et le CA dans leurs processus décisionnels.",
+      "dateCreation": "2026-09-21T16:04:14.384Z",
+      "dateActualisation": "2026-09-21T16:04:14.384Z",
+      "lieuTravail": {
+        "libelle": "14 - CAEN",
+        "latitude": 49.167174,
+        "longitude": -0.347866,
+        "codePostal": "14000",
+        "commune": "14118"
+      },
+      "romeCode": "M1301",
+      "romeLibelle": "Dirigeant / Dirigeante d'entreprise privée",
+      "appellationlibelle": "Président(e) Directeur(trice) Général(e)",
+      "entreprise": {
+        "nom": "ASSOCIATION ITINERAIRES",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "5 An(s)",
+      "formations": [
+        {
+          "niveauLibelle": "Bac+5 et plus ou équivalents",
+          "commentaire": "Diplôme de niveau 7 (CAFDES )",
+          "exigence": "E"
+        }
+      ],
+      "competences": [
+        {
+          "code": "300067",
+          "libelle": "Analyser, exploiter, structurer des données",
+          "exigence": "S"
+        },
+        {
+          "code": "300009",
+          "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
+          "exigence": "S"
+        },
+        {
+          "code": "300337",
+          "libelle": "Définir la stratégie financière d'une structure",
+          "exigence": "S"
+        },
+        {
+          "code": "300401",
+          "libelle": "Diriger et gérer un ensemble, une structure, une organisation",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "commentaire": "statut cadre  Selon experience, dans le respect de la convention collective applicable (CC51)"
+      },
+      "dureeTravailLibelle": "37H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {},
+      "agence": {},
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "87.90B",
+      "secteurActivite": "87",
+      "secteurActiviteLibelle": "Hébergement social pour adultes et familles en difficultés et autre hébergement social",
+      "trancheEffectifEtab": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214DWRJ"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "37H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
     {
       "id": "214CBZW",
       "intitule": "DIRECTEUR GÉNÉRAL OPÉRATIONNEL (H/F)",
@@ -112,10 +195,10 @@
     },
     {
       "id": "214BXHN",
-      "intitule": "Directeur/trice général(e) d'établissement public administratif (H/F)",
-      "description": "Employeur : Etablissement Public Administratif (EPA) Enfance et Jeunesse de Sébazac-Concoures\nTemps de travail : temps complet, 1607h annuelles\nExpérience souhaité : confirmé\nCDD de 6 mois renouvelable\n\nJoindre une lettre de motivation obligatoirement.\n\nDescriptif de l'emploi : \n- Direction et gestion administrative et financière de l'EPA\n- Développement et mise en œuvre de projets\n- Management de l'équipe d'animation enfance jeunesse\n- Coordination de l'Espace de Vie Sociale\n\nMissions et conditions d'exercice : \nGestion et direction administrative et financière de l'EPA :\n- Préparation et animation du Conseil d'Administration (CA) de l'EPA en lien avec la présidente\n- Proposition et réflexion sur les orientations éducatives\n- Elaboration des budgets prévisionnels avec les membres de l'EPA\n- Suivi du budget comptable\n- Elaboration d'outils de présentation et de communication \n- Production des évaluations et des rapports d'activités\n- Facturation aux familles et évaluation de la politique tarifaire\n- Veille à l'évolution de la règlementation relative à l'accueil des enfants et des jeunes\n- Relation avec les partenaires institutionnels\n- Constitution des dossiers de demandes de subventions \n\nCoordination des acteurs de l'enfance et de la jeunesse :\n- Développement de projets et actions dans le domaine enfance/jeunesse/famille\n- Collaboration avec le chargé de coopération et participation à la mise en œuvre des actions de la Convention Territoriale Globale (CTG)\n- Soutien au référent jeune pour développer les actions jeunes\n- Soutien technique au CA de l'EPA et aux élus locaux (diagnostic de territoire, évaluation des besoins, outils, assistance, etc.)\n- Mise en œuvre et suivi du PEDT de la commune et des actions qui en résultent\n- Coordination des acteurs : liens avec l'équipe d'animation, les enseignants, le personnel municipal, les familles, les parents, les élus\n- Compte rendu de ses actions à la présidente de l'EPA ainsi qu'au CA de l'EPA\n- Association des familles à la réflexion éducative\n- Coordination et mise en œuvre du Conseil Municipal des Enfants\n- Relation avec les différents partenaires institutionnels et sociaux \n\nManagement de l'équipe d'animation :\n- Garant du respect de l'application des règlementations\n- Réflexion et conduite des projets pédagogiques innovants avec les équipes\n- Gestion et encadrement de l'équipe d'animation enfance et jeunesse\n- Elaboration des plannings \n- Gérer les recrutements et élaborer les fiches de poste\n\nCoordination de l'Espace de Vie Sociale :\n- Encadrement d'une apprentie\n- Lien avec les partenaires sociaux et institutionnels\n- Réalisation des actions\n- Développement de projets \n\nActivités secondaires : \nAccueillit et animer en toute sécurité les enfants et les jeunes dans le cadre des accueils de loisirs\n\nProfil recherché : \n- Connaissances approfondies de la réglementation et des dispositifs enfance, jeunesse et éducation populaire\n- Connaissances des publics enfants et jeunes\n- Maîtrise des relations avec les familles, les partenaires institutionnels et élus\n- Maîtrise des outils informatiques (Word, Excel, logiciel de gestion des outils de présence et de facturation)\n\nSavoir-faire : \n- Manager une équipe, mener des réunions et animer des groupes\n- Organiser, déléguer\n- Rédiger des documents administratifs, pédagogiques et réglementaires\n- Animer et adapter les activités proposées selon les publics et les faire évoluer selon les besoins\n\nSavoir-être : \n-Pédagogie et aisance relationnelle\n- Esprit d'analyse et de synthèse\n- Esprit d'initiative et capacité de décision, sous la responsabilité de la présidente\n- Autonomie\n- Esprit de collaboration au sein de l'établissement\n- Grande capacité d'adaptation\n- Sérieux et efficace\n- Discrétion et rigueur",
+      "intitule": "Directeur/trice général(e) d'un EPA Enfance Jeunesse (H/F)",
+      "description": "Employeur : Etablissement Public Administratif (EPA) Enfance et Jeunesse de Sébazac-Concoures\nTemps de travail : temps complet, 1607h annuelles\nExpérience souhaité : confirmé\nCDD de 6 mois renouvelable\n\nPrise de poste : 14 décembre 2026\nDate limite des candidatures : 12 octobre 2026\n\nJoindre une lettre de motivation obligatoirement.\n\nDescriptif de l'emploi : \n- Direction et gestion administrative et financière de l'EPA\n- Développement et mise en œuvre de projets\n- Management de l'équipe d'animation enfance jeunesse\n- Coordination de l'Espace de Vie Sociale\n\nMissions et conditions d'exercice : \nGestion et direction administrative et financière de l'EPA :\n- Préparation et animation du Conseil d'Administration (CA) de l'EPA en lien avec la présidente\n- Proposition et réflexion sur les orientations éducatives\n- Elaboration des budgets prévisionnels avec les membres de l'EPA\n- Suivi du budget comptable\n- Elaboration d'outils de présentation et de communication \n- Production des évaluations et des rapports d'activités\n- Facturation aux familles et évaluation de la politique tarifaire\n- Veille à l'évolution de la règlementation relative à l'accueil des enfants et des jeunes\n- Relation avec les partenaires institutionnels\n- Constitution des dossiers de demandes de subventions \n\nCoordination des acteurs de l'enfance et de la jeunesse :\n- Développement de projets et actions dans le domaine enfance/jeunesse/famille\n- Collaboration avec le chargé de coopération et participation à la mise en œuvre des actions de la Convention Territoriale Globale (CTG)\n- Soutien au référent jeune pour développer les actions jeunes\n- Soutien technique au CA de l'EPA et aux élus locaux (diagnostic de territoire, évaluation des besoins, outils, assistance, etc.)\n- Mise en œuvre et suivi du PEDT de la commune et des actions qui en résultent\n- Coordination des acteurs : liens avec l'équipe d'animation, les enseignants, le personnel municipal, les familles, les parents, les élus\n- Compte rendu de ses actions à la présidente de l'EPA ainsi qu'au CA de l'EPA\n- Association des familles à la réflexion éducative\n- Coordination et mise en œuvre du Conseil Municipal des Enfants\n- Relation avec les différents partenaires institutionnels et sociaux \n\nManagement de l'équipe d'animation :\n- Garant du respect de l'application des règlementations\n- Réflexion et conduite des projets pédagogiques innovants avec les équipes\n- Gestion et encadrement de l'équipe d'animation enfance et jeunesse\n- Elaboration des plannings \n- Gérer les recrutements et élaborer les fiches de poste\n\nCoordination de l'Espace de Vie Sociale :\n- Encadrement d'une apprentie\n- Lien avec les partenaires sociaux et institutionnels\n- Réalisation des actions\n- Développement de projets \n\nActivités secondaires : \nAccueillit et animer en toute sécurité les enfants et les jeunes dans le cadre des accueils de loisirs\n\nProfil recherché : \n- Connaissances approfondies de la réglementation et des dispositifs enfance, jeunesse et éducation populaire\n- Connaissances des publics enfants et jeunes\n- Maîtrise des relations avec les familles, les partenaires institutionnels et élus\n- Maîtrise des outils informatiques (Word, Excel, logiciel de gestion des outils de présence et de facturation)\n\nSavoir-faire : \n- Manager une équipe, mener des réunions et animer des groupes\n- Organiser, déléguer\n- Rédiger des documents administratifs, pédagogiques et réglementaires\n- Animer et adapter les activités proposées selon les publics et les faire évoluer selon les besoins\n\nSavoir-être : \n-Pédagogie et aisance relationnelle\n- Esprit d'analyse et de synthèse\n- Esprit d'initiative et capacité de décision, sous la responsabilité de la présidente\n- Autonomie\n- Esprit de collaboration au sein de l'établissement\n- Grande capacité d'adaptation\n- Sérieux et efficace\n- Discrétion et rigueur",
       "dateCreation": "2026-09-18T11:44:48.687Z",
-      "dateActualisation": "2026-09-18T11:44:49.334Z",
+      "dateActualisation": "2026-09-22T11:44:19.606Z",
       "lieuTravail": {
         "libelle": "12 - SEBAZAC CONCOURES",
         "latitude": 44.405231,
@@ -125,11 +208,10 @@
       },
       "romeCode": "K1422",
       "romeLibelle": "Directeur général / Directrice générale d'établissement public",
-      "appellationlibelle": "Directeur(trice) général(e) d'établissement public",
+      "appellationlibelle": "Directeur / Directrice d'Etablissement Public Administratif",
       "entreprise": {
         "nom": "EPA ENFANCE JEUNESSE SEBAZAC CONCOURES",
-        "description": "Etablissement Public Administratif, gestionnaire des activités enfance et jeunesse du territoire.\nAlsh péri et extrascolaire, Séjours, Action Jeunesse. ",
-        "entrepriseAdaptee": false
+        "description": "Etablissement Public Administratif, gestionnaire des activités enfance et jeunesse du territoire.\nAlsh péri et extrascolaire, Séjours, Action Jeunesse. "
       },
       "typeContrat": "CDD",
       "typeContratLibelle": "CDD - 6 Mois",
@@ -146,6 +228,23 @@
       "permis": [
         {
           "libelle": "B - Véhicule léger",
+          "exigence": "S"
+        }
+      ],
+      "competences": [
+        {
+          "code": "100343",
+          "libelle": "Législation sociale",
+          "exigence": "S"
+        },
+        {
+          "code": "300009",
+          "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
+          "exigence": "S"
+        },
+        {
+          "code": "300337",
+          "libelle": "Définir la stratégie financière d'une structure",
           "exigence": "S"
         }
       ],
@@ -190,7 +289,6 @@
         "origine": "1",
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214BXHN"
       },
-      "offresManqueCandidats": false,
       "contexteTravail": {
         "horaires": [
           "35H/semaine\nTravail en journée"
@@ -719,124 +817,6 @@
           " Travail les week-ends et jours fériés",
           " Travail selon un rythme irrégulier et des pics d'activité",
           " Travail durant les vacances scolaires"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "213WZXW",
-      "intitule": "Directeur Général de la Filiale Française (H/F)",
-      "description": "Rattaché à la Présidence, vous avez la charge de la gestion de la filiale en France basée à Paris\nVous êtes bien introduit dans le monde de la Distribution et maitrisez la gestion des Commerciaux itinérants\n\nVotre enjeu est donc l'atteinte des objectifs fixés par l'entreprise. \nPour ce faire, vous devez créer et assurer le bon développement de la filiale sur le marché local et de la bonne rentabilité de celle-ci\nVous élaborez la stratégie et veillez à sa bonne application, de plus, vous choisissez et/ou pilotez les services fournis, ainsi que le marché ciblé.\nEn tant que Directeur Général, vous aurez pour missions principales :\n- Dynamiser et participer à la croissance l'entreprise\n- Développer commercialement, par la conquête de nouveaux clients \n- Être garant de la rentabilité (meilleure productivité, rentabilité des moyens, .)\n- Respecter la réglementation en vigueur et les procédures internes\n- Superviser et optimiser les moyens humains et matériels\n- Recruter, manager et dynamiser l'ensemble des collaborateurs \n- Maitriser les dépenses de fonctionnement et d'investissement\n- Assurer la représentation et la promotion de l'image de la filiale dans les réseaux sociaux\n- Créer des partenariats avec les acteurs locaux\n- Effectuer une veille active des concurrents ainsi que des réglementations locales permettant d'anticiper les évolutions du marché.\n\nDescriptif du profil \nDe formation Bac+5, École de Commerce/Management spécialisée à l'international ou encore un MBA international. Vous connaissez bien le monde de la Distribution et du Retail ainsi que celui du Transport.\nFrançais & Anglais courants\nVous avez des qualités de : \n- Disponibilité et mobilité\n- Sens de l'organisation\n- Rigueur\n- Forte capacité d'adaptation\nDe plus, vous avez une large palette de compétences : analyse, suivi et mise en application des campagnes de communication, commerciale, ressources humaines et de gestion du budget de la société",
-      "dateCreation": "2026-09-15T12:55:05.590Z",
-      "dateActualisation": "2026-09-15T13:19:40.029Z",
-      "lieuTravail": {
-        "libelle": "75 - Paris 16e Arrondissement",
-        "latitude": 48.86363,
-        "longitude": 2.27642,
-        "codePostal": "75016",
-        "commune": "75116"
-      },
-      "romeCode": "M1303",
-      "romeLibelle": "Directeur / Directrice de filiale",
-      "appellationlibelle": "Directeur / Directrice de filiale",
-      "entreprise": {
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "10 An(s)",
-      "formations": [
-        {
-          "codeFormation": "34554",
-          "domaineLibelle": "Commerce",
-          "niveauLibelle": "Bac+5 et plus ou équivalents",
-          "exigence": "E"
-        }
-      ],
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "code": "300009",
-          "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
-          "exigence": "E"
-        },
-        {
-          "code": "300337",
-          "libelle": "Définir la stratégie financière d'une structure",
-          "exigence": "E"
-        }
-      ],
-      "salaire": {
-        "libelle": "Annuel de 120000.0 Euros à 180000.0 Euros",
-        "complement1": "Primes",
-        "complement2": "Intéressement / participation",
-        "listeComplements": [
-          {
-            "code": "1",
-            "libelle": "Primes"
-          },
-          {
-            "code": "10",
-            "libelle": "Intéressement / participation"
-          },
-          {
-            "code": "2",
-            "libelle": "Véhicule"
-          },
-          {
-            "code": "3",
-            "libelle": "Téléphone mobile"
-          },
-          {
-            "code": "4",
-            "libelle": "Ordinateur portable"
-          }
-        ]
-      },
-      "dureeTravailLibelle": "39H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {},
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "3",
-      "deplacementLibelle": "Fréquents Zone nationale",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "70.22Z",
-      "secteurActivite": "70",
-      "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Etre ouvert aux changements",
-          "description": "Capacité à s'adapter à des situations variées, à réagir à l'imprévu, gérer l'incertitude pour s'ajuster à des organisations, des collectifs de travail, des habitudes, des valeurs propres à l'entreprise."
-        },
-        {
-          "libelle": "Faire preuve de leadership",
-          "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
-        },
-        {
-          "libelle": "Inspirer, donner du sens",
-          "description": "Capacité à transmettre un message afin de susciter la réflexion et guider l'action."
-        }
-      ],
-      "trancheEffectifEtab": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213WZXW"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "39H/semaine\nTravail en journée"
         ]
       },
       "entrepriseAdaptee": false,
@@ -2086,7 +2066,7 @@
       "intitule": "Directeur général / Directrice générale fonction publique et assi (H/F)",
       "description": "Fort d'une présence sur le terrain depuis 1995, le SIMA Coise porte depuis le 01/01/2026 un 5ème contrat auprès de l'Agence de l'Eau Loire Bretagne pour la période 2026-2028. Celui-ci, s'est enrichi (depuis la précédente contractualisation) d'un volet sur la gestion quantitative de la ressource en eau en complément aux volets gestion qualitative, restauration des fonctionnalités éco-morphologiques des cours d'eau et moyens généraux déjà existants dans le précédent contrat.\n\nL'équipe du SIMA Coise est aujourd'hui constituée :\n- D'un.e Directeur.rice, chargé.e de mission\n- D'une assistante administrative\n- D'un technicien rivières\n- D'une animatrice eau et agriculture\n- D'un.e animateur.rice gestion quantitative\n- D'une équipe environnement (3 agents permanents)\n- De 4 agents sur la compétence Assainissement Non Collectif.\n\nLe.la Directeur.rice aura la charge de la gestion du personnel et des budgets, de la gestion statutaire de la structure ainsi que de la supervision et de la coordination du déploiement des actions de l'Accord de Territoire.\n\nSes missions seront :\n* A l'échelle du syndicat\n- Gestion des ressources humaines : recrutement (en appui aux élus), intégration et encadrement de l'équipe\n- Gestion statutaire de la structure : aux côtés du Président, préparation et animation des bureaux syndicaux, comités syndicaux\n- Gestion budgétaire de la structure : Préparer et suivre les budgets annuels SIMA et SPANC\n- Gestion du parc informatique : matériel et logiciels, en lien avec le prestataire informatique\n- Gestion des marchés publics : consultations, notifications, modifications .\n- Rendre compte aux élus des actions engagées\n- Veille sur les financements possibles\n- Représentation du syndicat : dans les groupes de travail sur la gestion de l'eau en général (SAGE, SDAGE.) au sein des instances départementale, régionale ou à l'échelle du bassin versant\n\n* A l'échelle de l'Accord de Territoire Coise et affluents\n- Coordination et accompagnement des agents dans le déploiement des actions inscrites dans l'Accord de Territoire 2026-2028\n- En appui des agents sur l'accompagnement des maîtres d'ouvrage externes sur l'Accord de Territoire Coise (co-construction des actions/validation des demandes de subvention/rendre compte)\n- Gestion, supervision et/ou appui des demandes de subventions\n- Suivi global du déploiement du CT, organisation des COPIL généraux\n- Suivi de la qualité de l'eau en lien avec l'équipe\n- Déploiement et finalisation de l'action PSE\n- Bilans annuels et périodiques de l'Accord de Territoire 2026-2028\n\n* A l'échelle du SPANC\n- Direction du SPANC\n- Encadrement de l'équipe du SPANC et veille à une qualité de service homogène sur le territoire\n- Co-animation des commissions SPANC avec la coordinatrice du service\n\nPoste permanent, temps complet, catégorie A (ingénieur).\nRémunération selon profil et expérience du candidat sur la base de la grille indiciaire d'ingénieur de la fonction publique territoriale + RIFSEEP en place dans la collectivité + CNAS.\nPoste à 35H/semaine ; possibilité de télétravail ponctuel, possibilité de réunions ou animations en soirée.\nPrise de poste souhaitée le 01/12/2026. Entretiens prévus lundi 28 septembre.\n\n> Profil\n- Bac+5 ou équivalent, préférentiellement de formation scientifique, dans le domaine de l'environnement notamment de l'eau et de l'aménagement du territoire ;\n- Connaissances techniques générales dans les domaines touchant à la préservation de  la ressource en eau, les pratiques agricoles, l'assainissement collectif et non collectif, la gestion des milieux aquatiques et les politiques publiques de l'eau ;\n- Compétences affirmées en animation et portage de démarches de projet mais aussi de concertation, capacités d'organisation et d'animation de réunions ;\n- Aptitudes à manager : équipe pluridisciplinaire\n\nTRANSMETTRE CV + LETTRE DE MOTIVATION",
       "dateCreation": "2026-08-31T15:19:41.581Z",
-      "dateActualisation": "2026-09-16T22:46:44.676Z",
+      "dateActualisation": "2026-09-21T16:28:23.106Z",
       "lieuTravail": {
         "libelle": "42 - ST GALMIER",
         "latitude": 45.590392,
@@ -2233,7 +2213,7 @@
       "intitule": "Directeur / Directrice générale des services territoriaux (H/F)",
       "description": "Directeur(trice) Général(e) des Services (H/F)\n\nAu cœur de l'île d'Oléron, Saint-Denis d'Oléron est une commune dynamique, classée Station de Tourisme depuis 2022, qui allie qualité de vie exceptionnelle, cadre naturel préservé et gestion municipale ambitieuse. \n\nDescriptif du poste :\nVous assurez, sous l'autorité du Maire, la direction, la coordination et l'animation de l'ensemble des services municipaux.\nVous participez à la définition et à la mise en œuvre des orientations stratégiques décidées par les élus et veillez à leur exécution opérationnelle.\nVous conseillez et assistez le Maire et les élus dans la conception, la mise en œuvre et l'évaluation des politiques publiques locales.\nVous êtes garant de la sécurité juridique, financière et administrative des actes produits par la collectivité.\nVous supervisez la gestion des ressources humaines, financières, techniques et administratives pour une mise en cohérence globale des actions municipales.\nVous représentez la collectivité auprès des partenaires institutionnels, économiques et associatifs.\n\nActivités principales :\nConcevoir, piloter et évaluer la mise en œuvre des politiques publiques locales.\nAssurer la cohérence de l'action municipale avec les orientations politiques décidées par le conseil municipal.\nPréparer et suivre les dossiers stratégiques : développement local, tourisme, transition écologique, aménagement du territoire, mutualisations intercommunales.\nAssurer une veille réglementaire et garantir la légalité des actes administratifs.\nSuperviser la production des actes administratifs, délibérations, conventions et arrêtés.\nÉlaborer, suivre et exécuter le budget communal en lien avec le Maire, l'adjoint(e) aux finances et le responsable du service Finances.\nPiloter la politique de ressources humaines : effectifs, masse salariale, dialogue social, conditions de travail.\nSuperviser l'ensemble des procédures de commande publique : définition des besoins, rédaction et suivi des marchés publics, MAPA, appels d'offres, avenants.\nEncadrer et animer les responsables de services.\n\nProfil recherché :\nFormation supérieure en droit, notamment public, gestion publique, administration des collectivités territoriales.\nExpérience confirmée sur un poste de Direction Générale des Services dans une collectivité de strate comparable ou expérience significative de Direction Générale Adjointe.\nSolide connaissance du fonctionnement des collectivités territoriales et de leur environnement institutionnel.\nExpertise en management public et dialogue social.\nExpérience avérée dans la conduite de projets stratégiques et de transformations organisationnelles.\nVision stratégique et capacité d'anticipation.\nAptitude à la définition et à la mise en œuvre des politiques publiques.\nMaîtrise du pilotage stratégique et de la conduite du changement.\nCapacité à évaluer les risques juridiques, financiers et organisationnels.\nCompétences en négociation et en gestion des partenariats.\nCulture du résultat et de l'évaluation.\nCapacité à piloter des projets complexes et transversaux.\nMaîtrise des techniques de management et d'organisation.\n\nQualités personnelles :\nLeadership fédérateur.\nSens de l'écoute et pédagogie.\nAptitudes relationnelles reconnues.\nGoût du collectif et de la coopération.\nRigueur et sens de l'organisation.\nCapacité d'adaptation et réactivité.\nForce de proposition et esprit d'initiative.\nLoyauté institutionnelle.\nSens affirmé du service public.\n\nCDD 3 ans à partir du 1er novembre 2026\nRémunération statutaire + Régime indemnitaire (indemnité mensuelle + Prime annuelle)\nTitres restaurant. Proposition d'une mutuelle facultative avec participation employeur\nPrévoyance obligatoire avec participation employeur. Adhésion au C.N.A.S.\nCV + lettre de motivation + 2 derniers entretiens professionnels (pour les titulaires de la Fonction\nPublique) sont à transmettre à l'attention de Madame le Maire.",
       "dateCreation": "2026-08-28T15:27:54.266Z",
-      "dateActualisation": "2026-09-18T09:12:23.189Z",
+      "dateActualisation": "2026-09-22T10:54:38.218Z",
       "lieuTravail": {
         "libelle": "17 - ST DENIS D OLERON",
         "latitude": 46.033277,
@@ -2402,87 +2382,6 @@
       },
       "entrepriseAdaptee": false,
       "employeurHandiEngage": true
-    },
-    {
-      "id": "213BLKG",
-      "intitule": "Directeur / Directrice générale des services territoriaux (H/F)",
-      "description": "Intitulé du poste\nDirecteur/trice adjoint à temps complet ou temps non complet H/F\n\nLocalisation\nFort des Rousses\n39220 Les Rousses\n\nCadre d'emploi & grade\nCadre d'emploi : Rédacteur ou attaché territorial \nGrade : Rédacteur ou attaché territorial \n\nSecteur\nAdministration\n\nDescription de la structure\nLa Communauté de communes de la Station des Rousses regroupe les quatre communes de Bois d'Amont, Les Rousses, Prémanon et Lamoura. Station classée été/hiver et située dans le Parc naturel régional du Haut-Jura, elle compte environ 7 000 habitants permanents et 20 000 lits touristiques. \n\nSes compétences sont principalement axées sur le développement touristique et l'aménagement du territoire. Elle gère en régie directe depuis janvier 2017 un établissement culturel et ludique d'envergure : l'Espace des Mondes Polaires. Situé à Prémanon, il comprend une patinoire (en glace l'hiver et piste de roller l'été), un musée des mondes polaires, un auditorium, une salle d'exposition temporaire, une boutique et un lieu de restauration.\n\nEn 2026, le budget annuel de fonctionnement de la Communauté de communes de la Station des Rousses s'élève à 6.7 millions d'euros, le budget annuel d'investissement à 5.8 millions d'euros (budget principal). La collectivité compte 15 agents permanents. \n\nMissions\nSous l'autorité directe de la Directrice générale des services, le directeur adjoint contribuera à l'élaboration et la mise en œuvre des politiques publiques de la collectivité.  \n\nActivités principales :\n\n- Appui et assistance à la DGS ; \n- Contribuer à la préparation et au suivi des dossiers administratifs de la direction ; \n- Être en appui à la préparation et au suivi des comptes rendus des réunions ; \n- Elaborer des documents administratifs spécifiques : délibération, arrêtés, conventions ;\n- Garantir la sécurité juridique des décisions et actions de la collectivité ; \n- Réaliser une veille sur tous les secteurs relevant de l'intercommunalité ; \n- Et plus généralement, assurer le bon fonctionnement de la collectivité. \nDescription du profil recherché\nForce de proposition, le directeur adjoint dispose d'une formation supérieure dans le domaine de l'administration publique.  \n\nPrincipales compétences requises :\n- Connaissances approfondies de fonctionnement des collectivités territoriales. \n- Connaissances des problématiques de l'intercommunalité et du développement local. \n- Forte disponibilité, rigueur, esprit de synthèse et d'analyse.  \n\nPour postuler, vous devez impérativement indiquer vos motivations pour le poste dans le cadre lettre de motivation.\n\nDate prévisionnelle de recrutement : septembre/octobre",
-      "dateCreation": "2026-08-28T10:29:10.471Z",
-      "dateActualisation": "2026-09-13T22:47:04.232Z",
-      "lieuTravail": {
-        "libelle": "39 - LES ROUSSES",
-        "latitude": 46.484957,
-        "longitude": 6.060557,
-        "codePostal": "39220",
-        "commune": "39470"
-      },
-      "romeCode": "K1422",
-      "romeLibelle": "Directeur général / Directrice générale d'établissement public",
-      "appellationlibelle": "Directeur(trice) générale des services territoriaux",
-      "entreprise": {
-        "nom": "COMMUNAUTE DE COMMUNES DE LA STATION DES",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDD",
-      "typeContratLibelle": "CDD - 12 Mois",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "12 Mois",
-      "competences": [
-        {
-          "code": "300009",
-          "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
-          "exigence": "S"
-        },
-        {
-          "code": "300337",
-          "libelle": "Définir la stratégie financière d'une structure",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "commentaire": "selon grille indiciaire et profil",
-        "complement1": "Titres restaurant / Prime de panier",
-        "listeComplements": [
-          {
-            "code": "6",
-            "libelle": "Titres restaurant / Prime de panier"
-          }
-        ]
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "Agence France Travail SAINT CLAUDE",
-        "coordonnees1": "20 ROUTE DE BELLEFONTAINE\nCS 80159",
-        "coordonnees2": "39206 Saint-Claude",
-        "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213BLKG"
-      },
-      "agence": {
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213BLKG"
-      },
-      "nombrePostes": 1,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "84.11Z",
-      "secteurActivite": "84",
-      "secteurActiviteLibelle": "Administration publique générale",
-      "trancheEffectifEtab": "1 ou 2 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213BLKG"
-      },
-      "offresManqueCandidats": true,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
     },
     {
       "id": "212ZTJK",
@@ -3441,6 +3340,82 @@
       "employeurHandiEngage": false
     },
     {
+      "id": "214FRLF",
+      "intitule": "SECRETAIRE GENERALE (H/F)",
+      "description": "Au sein du comité de direction et sous l'autorité directe de la codirection, le/la secrétaire général-e occupe une fonction transversale au cœur du projet et de son exploitation.\nIl/elle pilote les enjeux de communication, de billetterie et de commercialisation, d'accueil des publics et de protocole, et contribue aux relations institutionnelles et territoriales du festival.\nÀ ce titre, il/elle participe pleinement à la réflexion stratégique et à la mise en œuvre du projet porté par la codirection. Il/elle travaille en lien étroit avec l'administration générale, la direction technique, le pôle artistique et de production, le pôle entreprises et le pole actions culturelles.\nPrincipales responsabilités\nCommunication et image du festival.\nDéfinir et piloter la stratégie de communication en lien avec la codirection ; superviser la communication print, digitale et les réseaux sociaux ; développer la notoriété et la visibilité nationale du festival ; veiller à la cohérence éditoriale de l'ensemble des prises de parole.\nBilletterie et commercialisation.\nPiloter la stratégie de mise en vente et l'optimisation du remplissage des spectacles ; suivre finement les ventes et proposer les leviers d'action nécessaires ; faire évoluer les outils de connaissance et de relation aux spectateurs ; participer à la définition de la politique tarifaire.\nAccueil et expérience des publics.\nSuperviser la billetterie et l'accueil des spectateurs et contribuer à l'amélioration continue de leur parcours.\nProtocole et relations institutionnelles. Organiser et superviser le protocole du festival ; assurer le suivi des invités et des fichiers institutionnels ; contribuer à la relation avec les élus, les partenaires institutionnels et les instances de gouvernance de l'établissement.\nAncrage territorial.\nContribuer à la qualité des relations du festival avec son environnement : acteurs culturels et économiques, commerçants, associations, riverains et partenaires du territoire.\nManagement.\nEncadrer directement les équipes placées sous sa responsabilité, permanentes et saisonnières ; organiser leur activité, fixer les priorités et accompagner leur montée en compétence ; veiller à la bonne circulation de l'information et à la coopération avec les autres pôles.\nExploitation. \nPendant les deux mois du festival, prendre part au dispositif d'encadrement général et assurer régulièrement des permanences de direction les soirs et week-ends de représentation.\nNous recherchons un-e cadre expérimenté-e, capable d'occuper une position de direction tout en restant très opérationnel-le.\n- Expérience significative dans un établissement culturel, un festival ou une organisation événementielle d'envergure, avec des responsabilités de management importantes.\n- Solide culture de la communication et des publics. Une expérience des problématiques de billetterie, de commercialisation ou de marketing culturel constitue un atout important.\n- Capacité à analyser des données de vente, construire une stratégie, fixer des priorités et adapter rapidement un plan d'action.\n- Bonne connaissance du secteur du spectacle vivant et en particulier de l'écosystème des musiques actuelles, de ses acteurs, de ses réseaux et de ses enjeux.\n- Aisance dans les environnements institutionnels : travail avec des élus et partenaires publics et privés, représentation d'une institution, compréhension des enjeux de protocole et du fonctionnement d'un établissement public.\n- Management confirmé : capacité à donner un cadre clair, déléguer, arbitrer et fédérer des équipes aux métiers différents, dans un souci de qualité des relations de travail et d'atteinte des objectifs.\n- Forte capacité d'anticipation, d'organisation et de réactivité, avec une aptitude à passer rapidement de la réflexion stratégique à la résolution très concrète d'un problème.\n- Excellentes qualités relationnelles et rédactionnelles",
+      "dateCreation": "2026-09-22T11:20:05.522Z",
+      "dateActualisation": "2026-09-22T11:20:05.522Z",
+      "lieuTravail": {
+        "libelle": "69 - LYON",
+        "latitude": 45.763559,
+        "longitude": 4.827411,
+        "codePostal": "69005",
+        "commune": "69385"
+      },
+      "romeCode": "L1310",
+      "romeLibelle": "Directeur / Directrice de salle de spectacles",
+      "appellationlibelle": "Directeur / Directrice d'entreprise culturelle",
+      "entreprise": {
+        "nom": "LES NUITS DE FOURVIERE",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "5 An(s) - Expérience similaire",
+      "experienceCommentaire": "Expérience similaire",
+      "formations": [
+        {
+          "codeFormation": "32096",
+          "domaineLibelle": "Gestion entreprise culturelle",
+          "niveauLibelle": "Bac+5 et plus ou équivalents",
+          "exigence": "E"
+        }
+      ],
+      "langues": [
+        {
+          "libelle": "Anglais",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "commentaire": "selon expérience et CCN"
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail selon un rythme irrégulier et des pics d'activité",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "Agence France Travail Spécialisée SCENES ET IMAGES",
+        "coordonnees1": "41 RUE COLIN",
+        "coordonnees2": "69100 Villeurbanne",
+        "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/214FRLF"
+      },
+      "agence": {
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/214FRLF"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "90.01Z",
+      "secteurActivite": "90",
+      "secteurActiviteLibelle": "Arts du spectacle vivant",
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214FRLF"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail selon un rythme irrégulier et des pics d'activité"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "213ZPXJ",
       "intitule": "Directeur/directrice d'Agence (H/F)",
       "description": "Dans le cadre de sa croissance, REMAKS recrute un(e) Directeur / Directrice d'Agence.\n\nMissions principales :\nRattaché(e) à la Direction Générale du groupe, vous assurez la direction opérationnelle de la filiale espagnole dédiée aux projets :\n- Déployer localement la stratégie de développement définie au siège\n- Mettre en place les premières équipes techniques et commerciales à Barcelone\n- Gérer l'ensemble de l'activité : suivi de projets, gestion budgétaire\n- Développer un portefeuille de partenaires (fabricants, distributeurs, etc)\n- Adapter les processus et solutions techniques aux normes et attentes du marché \n- Représenter REMAKS auprès des acteurs institutionnels et économiques de la région\n- Assurer le reporting à la direction générale et participer aux comités stratégiques du groupe\n\nProfil recherché :\n- Expérience significative en direction d'agence, direction de projet ou direction commerciale dans le secteur du bâtiment ou de la construction\n- Connaissance du marché espagnol du bâtiment et des circuits de décision (douane, réglementation, sous-traitance)\n- Compétences éprouvées en management, pilotage de centre de profit et développement commercial\n- Esprit entrepreneurial, autonomie, capacité à structurer une activité locale\n- Excellente maîtrise du castillan, bon niveau de français requis, l'anglais est un plus\n- Goût pour l'innovation constructive et les environnements internationaux\n\nConditions proposées :\n- Contrat à durée indéterminée\n- Statut cadre\n- Poste basé à Barcelone, avec déplacements ponctuels en France\n- Rémunération attractive selon expérience + variable de performance\n- Accompagnement au lancement de l'agence par la direction française\n- Perspectives d'évolution rapide au sein du groupe\n\nPour postuler :\nMerci d'envoyer votre CV et lettre de motivation par mail",
@@ -3792,129 +3767,6 @@
       "origineOffre": {
         "origine": "1",
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213CPNT"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "39H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "212PLWL",
-      "intitule": "GENERAL MANAGER SINGAPOUR (H/F)",
-      "description": "Manager confirmé, vous possédez un important réseau dans le Retail de Singapour. Bilingue Français + Anglais, le chinois mandarin et/ou le malais serait un plus, basé à Singapour, vous êtes chargé de développer le chiffre d'affaires et le réseau de vente. Responsable de la performance, vous êtes le garant des actions commerciales préconisées et des objectifs définis. Vous négociez avec des décideurs stratégiques en veillant à fidéliser les clients et conclure avec les prospects.\nProspection, Négociation, KPI, Plan d'action commerciale, Objectifs de vente font partie de votre quotidien\nActivités principales\nDéfinir avec la Présidence et le Marketing Groupe le plan annuel d'action commerciale, la politique tarifaire, les objectifs de vente qualitatifs et quantitatifs et les niveaux de marge individuels, les prévisionnels de vente mensuels et trimestriels, les cibles commerciales prioritaires, les incentives ainsi que le budget commercial prévisionnel.\nAnalyser les données spécifiques du marché local à Singapour\nIdentifier et proposer les solutions pour optimiser la gamme commerciale et les processus de vente\nEnfin et surtout, vous connaissez et/ou êtes introduits dans la grande distribution de Singapour afin de permettre le développement des comptes clés.\n\nPROFIL\nBasé à Singapour\nFormation de niveau Bac +5\nMaster dans les domaines commercial, marketing (négociation relation client, commerce, techniques de commercialisation )\nBilingue Français + Anglais, le chinois mandarin et/ou le malais serait un plus, vous êtes diplômé d'école de commerce avec une expérience de 5 ans minimum.  \nCompétences requises:\nMaîtrise des techniques de vente, de négociation, de prospection\nBonne pratique du management\nBonnes connaissances en gestion (budget, comptabilité)\nMaîtrise des outils bureautiques et d'un logiciel de relation client (CRM)\nBonne culture d'Internet et ses outils\nManager confirmé, vous possédez idéalement un important réseau dans le Retail local de Singapour afin de permettre le développement des comptes clés.\nAptitudes professionnelles\n- Aptitudes commerciales\n- Goût pour le travail sur le terrain\n- Réactivité\n- Disponibilité et adaptabilité\n- Ténacité\n- Qualités relationnelles \n- Pédagogie\n- Sens de l'argumentation\n- Dynamisme\n- Force de proposition et de conviction\n- Sens du service\n- Capacité à animer des équipes transverses\n- Capacités managériales\n- Esprit d'équipe\n- Organisation et méthode",
-      "dateCreation": "2026-08-18T11:23:36.239Z",
-      "dateActualisation": "2026-08-24T09:18:31.959Z",
-      "lieuTravail": {
-        "libelle": "SINGAPOUR"
-      },
-      "romeCode": "M1303",
-      "romeLibelle": "Directeur / Directrice de filiale",
-      "appellationlibelle": "Directeur / Directrice de filiale",
-      "entreprise": {
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "10 An(s)",
-      "formations": [
-        {
-          "codeFormation": "34554",
-          "domaineLibelle": "Commerce",
-          "niveauLibelle": "Bac+5 et plus ou équivalents",
-          "exigence": "E"
-        }
-      ],
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "E"
-        },
-        {
-          "libelle": "Chinois (Mandarin)",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "code": "300009",
-          "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
-          "exigence": "E"
-        },
-        {
-          "code": "300337",
-          "libelle": "Définir la stratégie financière d'une structure",
-          "exigence": "E"
-        },
-        {
-          "code": "300391",
-          "libelle": "Elaborer une stratégie de développement d'activité",
-          "exigence": "E"
-        }
-      ],
-      "salaire": {
-        "libelle": "Annuel de 140000.0 Euros à 160000.0 Euros sur 12 mois",
-        "complement1": "Primes",
-        "complement2": "Intéressement / participation",
-        "listeComplements": [
-          {
-            "code": "1",
-            "libelle": "Primes"
-          },
-          {
-            "code": "10",
-            "libelle": "Intéressement / participation"
-          },
-          {
-            "code": "2",
-            "libelle": "Véhicule"
-          },
-          {
-            "code": "3",
-            "libelle": "Téléphone mobile"
-          },
-          {
-            "code": "4",
-            "libelle": "Ordinateur portable"
-          }
-        ]
-      },
-      "dureeTravailLibelle": "39H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {},
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "70.22Z",
-      "secteurActivite": "70",
-      "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Organiser son travail selon les priorités et les objectifs",
-          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
-        },
-        {
-          "libelle": "Faire preuve de leadership",
-          "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
-        },
-        {
-          "libelle": "Faire preuve de rigueur et de précision",
-          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
-        }
-      ],
-      "trancheEffectifEtab": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212PLWL"
       },
       "offresManqueCandidats": false,
       "contexteTravail": {
@@ -4685,6 +4537,165 @@
       "employeurHandiEngage": false
     },
     {
+      "id": "213RXPX",
+      "intitule": "PRÉSIDENT(E) DE SAS // DÉVELOPPEMENT D'ACTIVITÉ (H/F)",
+      "description": "QUI SOMMES-NOUS ?\nGroupe Étoile (SIRET 91742530800017) est une société et école préparatoire à taille humaine, engagée dans l'accompagnement et la réussite des étudiants. Dans le cadre d'un changement de direction, nous recherchons notre futur(e) Président(e) pour piloter la structure et poursuivre son développement.\n\nVOS MISSIONS\nEn tant que Président(e) de la SAS, vous aurez la responsabilité pleine et entière de la société :\n- Représenter la société auprès des tiers, partenaires et administrations\n- Développer les partenariats auprès d'écoles d'ingénieurs, écoles de commerce et autres structures\n- Echanger puis définir et mettre en œuvre la stratégie de développement de l'école\n- Superviser la gestion administrative\n- Veiller à la conformité réglementaire de l'établissement\n\nPROFIL RECHERCHÉ\n- Expérience souhaitée en direction d'entreprise ou d'établissement d'enseignement\n- Sens des responsabilités, autonomie et leadership\n- Bonne connaissance du secteur éducatif appréciée\n- Capacité à porter un projet de développement sur le long terme\n- Rigueur dans la gestion administrative et financière\n\nCONDITIONS\n- Statut : mandat social de Président(e) de SAS (les modalités contractuelles seront définies conjointement)\n- Rémunération : 2 200 € bruts/mois - A discuter\n- Prise de poste : dès que possible",
+      "dateCreation": "2026-09-10T14:57:38.538Z",
+      "dateActualisation": "2026-09-10T14:57:39.033Z",
+      "lieuTravail": {
+        "libelle": "69 - Lyon 1er Arrondissement",
+        "latitude": 45.769506,
+        "longitude": 4.830081,
+        "codePostal": "69001",
+        "commune": "69381"
+      },
+      "romeCode": "M1301",
+      "romeLibelle": "Dirigeant / Dirigeante d'entreprise privée",
+      "appellationlibelle": "Président(e) Directeur(trice) Général(e)",
+      "entreprise": {
+        "nom": "GROUPE ETOILE",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "competences": [
+        {
+          "code": "300067",
+          "libelle": "Analyser, exploiter, structurer des données",
+          "exigence": "S"
+        },
+        {
+          "code": "300009",
+          "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
+          "exigence": "S"
+        },
+        {
+          "code": "300337",
+          "libelle": "Définir la stratégie financière d'une structure",
+          "exigence": "S"
+        },
+        {
+          "code": "300401",
+          "libelle": "Diriger et gérer un ensemble, une structure, une organisation",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "libelle": "Mensuel de 2200.0 Euros"
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {},
+      "agence": {},
+      "nombrePostes": 1,
+      "deplacementCode": "1",
+      "deplacementLibelle": "Jamais",
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "85.59A",
+      "secteurActivite": "85",
+      "secteurActiviteLibelle": "Formation continue d'adultes",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Etre force de proposition",
+          "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        }
+      ],
+      "trancheEffectifEtab": "1 ou 2 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213RXPX"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "214FNFF",
+      "intitule": "RESPONSABLE BUSINESS UNIT INDUSTRIE - ÎLE-DE-FRANCE (H/F)",
+      "description": "Rattaché(e) au Directeur de l'Activité Industrie Groupe, vous prenez la responsabilité du développement, du pilotage et de la performance de l'activité Industrie en Île-de-France.\n\nVéritable relais de la Direction de l'Activité, vous pilotez votre Business Unit comme un centre de profit et contribuez activement à son développement.\n\nVos principales missions :\n\nDévelopper l'activité et le portefeuille clients\n\n * Définir et déployer la stratégie de développement de la BU en cohérence avec les orientations du Groupe ;\n * Identifier de nouvelles opportunités et développer durablement le portefeuille clients ;\n * Développer et entretenir un réseau auprès des décideurs et acteurs industriels franciliens ;\n * Participer aux démarches commerciales, appels d'offres et négociations stratégiques ;\n * Représenter PROJEX auprès de nos clients et partenaires.\n\nPiloter la performance de la Business Unit\n\n * Piloter l'activité comme un véritable centre de profit ;\n * Suivre le chiffre d'affaires, la rentabilité, les budgets et les principaux indicateurs de performance ;\n * Construire et piloter les objectifs de développement de la BU ;\n * Garantir la performance opérationnelle et financière de l'activité.\n\nManager et structurer les équipes\n\n * Manager, accompagner et faire grandir les équipes ;\n * Identifier les besoins en recrutement et participer activement au développement de l'équipe ;\n * Fédérer les collaborateurs autour d'objectifs communs et d'une vision partagée ;\n * Construire une organisation performante, responsabilisante et durable.\n\nGarantir la réussite des projets\n\n * Superviser le portefeuille de projets de la Business Unit ;\n * Garantir la qualité d'exécution, le respect des engagements contractuels et la satisfaction de nos clients ;\n * Anticiper les risques et accompagner les équipes dans les enjeux stratégiques ou opérationnels des projets.\n\nDe formation Ingénieur, vous justifiez d'une expérience d'environ 10 à 15 ans dans l'ingénierie industrielle, avec une expérience confirmée dans le pilotage d'activité et le management d'équipes.\n\nAu-delà de votre expertise technique, vous disposez d'une solide culture du développement commercial et êtes à l'aise dans la relation avec des interlocuteurs décisionnaires.\n\nVotre connaissance du marché industriel francilien et de ses acteurs vous permet d'identifier rapidement les opportunités de développement.\n\nVous êtes reconnu(e) pour votre leadership, votre autonomie, votre sens des responsabilités et votre capacité à fédérer.\n\nNous recherchons avant tout une personnalité capable d'incarner la stratégie et les valeurs du Groupe, de développer durablement l'activité et d'accompagner les équipes dans leur réussite.\n\nPourquoi nous rejoindre ?\n * 1 journée d'intégration au siège + accompagnement métier adapté \n * Suivi régulier et perspectives d'évolution au sein du Groupe \n * Programme de formation personnalisé et professionnalisant \n * Prime annuelle soumise à objectifs individuels \n * Prime de participation et d'intéressement + PEE \n * Prime vacances \n * Titres Restaurant dématérialisés \n * Mutuelle prise en charge à 88 % par l'employeur \n * Actionnariat salarié \n * Télétravail possible selon les modalités applicables au poste\n\nPackage de rémunération : la rémunération sera définie selon le profil, l'expérience et le niveau de responsabilités du candidat.\n\nCette annonce est également ouverte aux personnes en situation de handicap à compétences égales.",
+      "dateCreation": "2026-09-22T10:25:14.054Z",
+      "dateActualisation": "2026-09-22T10:25:14.792Z",
+      "lieuTravail": {
+        "libelle": "92 - Bois-Colombes",
+        "latitude": 48.908769,
+        "longitude": 2.261878,
+        "codePostal": "92270",
+        "commune": "92009"
+      },
+      "romeCode": "H1206",
+      "romeLibelle": "Ingénieur / Ingénieure R&D en industrie",
+      "appellationlibelle": "Responsable de projet industriel",
+      "entreprise": {
+        "nom": "PROJEX",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "1 An(s)",
+      "competences": [
+        {
+          "code": "300488",
+          "libelle": "Concevoir et gérer un projet",
+          "exigence": "S"
+        },
+        {
+          "code": "124529",
+          "libelle": "Déterminer des axes d'évolution technologiques",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 55000.0 Euros à 75000.0 Euros"
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "coordonnees1": "https://taleez.com/apply/responsable-business-unit-industrie-ile-de-france-h-f-bois-colombes-projex-cdi/applying",
+        "urlPostulation": "https://taleez.com/apply/responsable-business-unit-industrie-ile-de-france-h-f-bois-colombes-projex-cdi/applying"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "71.12B",
+      "secteurActivite": "71",
+      "secteurActiviteLibelle": "Ingénierie,études techniques",
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214FNFF"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "6987594",
       "intitule": "Directeur de Business Unit (F/H) - Marketplace",
       "description": "Notre client est un acteur reconnu dans la ventes aux enchères en ligne. En pleine phase d'accélération, et dans le cadre de son développement, il recherche un-e Directeur/Directrice de Business Unit afin de piloter une activité à fort potentiel de croissance.Rattaché-e à la Direction Générale, le/la Directeur/Directrice de Business Unit Équipements assure la responsabilité globale de son activité, tant sur les dimensions opérationnelles que commerciales.\nÀ ce titre, ses principales missions sont les suivantes :\n\n\nDéfinir et déployer la stratégie de développement de la Business Unit.\nPiloter l'activité commerciale et garantir l'atteinte des objectifs de croissance.\nIdentifier, ouvrir et développer de nouveaux marchés et segments d'activité.\nStructurer et optimiser les processus commerciaux et opérationnels.\nManager, accompagner et faire grandir une équipe d'environ 40 collaborateur-rice-s.\nAnimer les managers et développer une culture de performance collective.\nDévelopper les relations avec les principaux clients et partenaires de la plateforme\nAnalyser les performances de l'activité et mettre en œuvre les plans d'action adaptés.\nGarantir la rentabilité, la qualité de service et la satisfaction client au sein de la Business Unit.\n\n\n\nLa répartition du poste s'articule autour de trois dimensions majeures : environ 50 % de direction commerciale, 25 % de management et 25 % de stratégie commerciale.NA",
@@ -4803,44 +4814,6 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "5851822",
-      "intitule": "Responsable HSE Business Unit Combustible F/H",
-      "description": "S'appuyant sur plus de 40 années de savoir-faire, et les compétences de collaborateurs à travers le monde, la Business Unit (BU) Combustible développe, conçoit, fabrique et commercialise des assemblages de combustible ainsi que des services associés au combustible, pour les centrales de production d'électricité de type réacteur à eau légère (REP pour les réacteurs à eau sous pression et REB pour les réacteurs à eau bouillante) et les réacteurs de recherche.La BU Fuel est également en charge de l'élaboration du zirconium et de ses alliages et commercialise aussi des services d'ingénierie et des services sur site associés au combustible.Le/la Responsable HSE de la BU Combustible est rattaché.e au Directeur QHSEP de la BU. Il/Elle aura en charge le pilotage transverse des actions d'amélioration HSE au sein de la BU (10 sites industriels en France, Allemagne et US), notamment concernant la mise en œuvre des exigences Top Killers, y compris les risques feux de métaux.Il/Elle sera référent.e dans ce domaine pour la BU.Il/Elle sera en charge de définir les standards ou guides méthodologiques et opérationnels applicables sur la BU.Ce poste nécessite une présence sur le terrain importante pour être en capacité d'assurer un support opérationnel.Le/la Responsable HSE de la BU est également le correspondant HSE de la BU pour le site de Lyon Gerland. A ce titre, il/elle assure les interfaces avec la direction du site de Lyon et pilote les actions pour les entités lyonnaises.Suivant le profil du candidat, il pourra être amené à piloter la gestion de crise pour la BU, ainsi qu'à prendre en charge des actions en matière de sûreté nucléaire pour apporter un support aux INB de la BU Combustible.",
-      "dateCreation": "2026-08-08T11:50:17.816Z",
-      "dateActualisation": "2026-08-08T11:50:17.816Z",
-      "lieuTravail": {
-        "libelle": "69 - Lyon",
-        "commune": "69123"
-      },
-      "romeCode": "H1109",
-      "romeLibelle": "Chargé / Chargée d'affaires nucléaire",
-      "appellationlibelle": "Chargé / Chargée d'Affaires Logistique combustible Nucléaire",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5851822",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/55957541?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "5666097",
       "intitule": "Senior Business Unit Manager - Gestion de projets - Qualité - Lyon, France (H/F)",
       "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. L'entreprise Astek recherche actuellement des profils : Et si vous rejoigniez la communauté Astek ?\nRattaché à la Direction Exécutive du Groupe Astek, vous rejoignez Emisys Lyon en tant que Senior Business Unit Manager, pour piloter et développer un périmètre stratégique en pleine expansion, au cœur des métiers de l'industrie et de la gestion de projet : pilotage de projets complexes, PMO, ingénierie, performance industrielle, transformation, gestion des risques, qualité, supply chain projet et conduite du changement.\nVéritable leader opérationnel et commercial, vous contribuez directement à la croissance du pôle tout en incarnant les valeurs fortes d'Emisys : excellence, exigence, esprit d'équipe et engagement projet.\nVotre mission (... si vous l'acceptezstrong>\nProspection commerciale\n- Développer de nouveaux comptes stratégiques des secteurs industriels (énergie, transport, pharma, défense, manufacturing.).- Réaliser prospection téléphonique, rendez-vous clients et actions terrain.- Identifier les opportunités de pilotage de projet, PMO, ingénierie ou transformation à fort potentiel.\nRecrutement\n- Sourcer, évaluer et recruter les meilleurs profils : PMO, chefs de projet, ingénieurs, consultants AMOA, qualité projet, supply chain, performance industrielle.- Contribuer à la stratégie de recrutement de la filiale.- Intégrer, engager et fidéliser vos consultants.\nTraitement de besoins\n- Qualifier les besoins clients et les transformer en missions opérationnelles.- Préparer les dossiers, structurer les propositions, négocier les conditions commerciales.- Assurer le closing et garantir une mise en place projet fluide et efficace.\nManagement des collaborateurs\n- Suivre vos consultants en mission : accompagnement, montée en compétence, entretiens annuels d'évaluation.- Garantir un management de proximité et un haut niveau de satisfaction.- Veiller à la qualité des prestations et à la performance projet.\nGestion de centre de profit\n- Piloter votre Business Unit : marge, rentabilité, prévisions, gestion de l'intercontrat.- Optimiser le staffing et la charge projet.- Contribuer au développement durable et performant du pôle parisien.\nCoaching BM / BUM\n- Accompagner les Business Managers dans leur montée en compétence.- Développer leurs compétences commerciales, relationnelles et managériales.- Participer à la structuration et à la croissance globale de la filiale Emisys Paris.\nVotre quotidien sera rythmé par :\n- L'analyse des enjeux projets des grands acteurs industriels et l'anticipation des évolutions du secteur.- La compréhension fine des contextes clients pour proposer des solutions pertinentes et à forte valeur ajoutée.- La construction de relations durables et stratégiques avec vos clients clés.- La structuration, l'animation et la montée en compétence de votre équipe.- Le pilotage de projets complexes en garantissant qualité, rigueur, performance et fiabilité. \n\n- Une équipe soudée et ultra-engagée, où l'entraide, la rigueur et la performance collective sont au cœur du quotidien.- Un onboarding premium grâce au programme Boost Manager, conçu pour sécuriser votre prise de poste et accélérer votre montée en puissance.- Un variable attractif et non plafonné, en lien direct avec votre performance.- Une évolution rapide, lisible et méritocratique, avec des perspectives telles que :→ Business Unit Director→ Directeur de Département- Des opportunités à l'international ou sur des postes stratégiques (Global Account Manager, Key Account Managerp>\n- Un vrai goût du challenge et de la performance, avec l'envie de dépasser les objectifs plutôt que de simplement les atteindre.\n- Un relationnel puissant et authentique : vous savez créer du lien, convaincre et embarquer vos interlocuteurs grâce à une communication fluide et impactante.\n- Une passion pour le développement commercial, où chaque nouveau client, chaque opportunité et chaque succès devient un véritable moteur.\n- Un mental de gagnant : persévérant, résilient, orienté résultats. vous transformez les obstacles en accélérateurs.\n- Un leadership naturel, capable de fédérer, inspirer et entraîner vos équipes vers des performances collectives d'un haut niveau.\n",
@@ -4916,6 +4889,48 @@
             "nom": "CADREMPLOI",
             "url": "https://www.cadremploi.fr/emploi/detail_offre?offreId=156504959508990796&provenance=pole_emploi&utm_source=pole_emploi&utm_medium=flux&utm_campaign=pole_emploi_agregateur__flux_offres",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/cadremploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7093908",
+      "intitule": "Business Unit Manager (H/F)",
+      "description": "Rejoindre B-HIVE Engineering , c'est?\nIntégrer une société d'ingénierie multi-spécialisée, qui place l'humain et l'innovation au coeur de ses projets.\n\nDepuis 2017, nous construisons avec nos collaborateurs une aventure fondée sur :\n- L'entraide et l'esprit d'équipe\n- La bienveillance et la stabilité\n- L'épanouissement et la progression professionnelle\n\nChez B-HIVE, nous croyons qu'un collaborateur épanoui est un collaborateur performant. C'est pourquoi nous offrons un environnement stimulant, des opportunités de formation et un accompagnement durable dans votre carrière.\n\nLe poste : \n\nVéritable responsable de votre périmètre, vous intervenez à la fois sur le développement commercial, le management des équipes et le pilotage de la performance de votre Business Unit.\n\n Développement commercial :\n\n-Développer et fidéliser un portefeuille de clients industriels.\n-Identifier de nouvelles opportunités commerciales et prospecter de nouveaux comptes.\n-Développer des relations durables avec les clients et partenaires.\n-Participer aux réponses aux appels d'offres et aux négociations commerciales.\n\n Management : \n\n-Manager et accompagner une équipe de Business Managers et/ou de consultants.\n-Suivre leur activité, leurs performances et leur évolution.\n-Fédérer les équipes autour des objectifs de la Business Unit.\n-Anticiper les besoins en recrutement et les fins de mission.\n\n Pilotage de la Business Unit\n\n-Définir et mettre en œuvre la stratégie de développement de votre périmètre.\n-Piloter le chiffre d'affaires, la rentabilité et les indicateurs de performance.\n-Garantir la satisfaction et la fidélisation des clients et consultants.\n-Participer activement à la croissance et à la structuration de l'activité.\n\nProfil recherché : \n\nFormation Bac+5, école d'ingénieur ou école de commerce.\nExpérience de 3 ans minimum dans le conseil en ingénierie / ESN industrielle.\nExpérience significative en tant que Business Manager, Responsable d'Activité ou Business Unit Manager.\nSolide fibre commerciale et goût du challenge.\nPremière expérience en management d'équipe.\nAutonomie, leadership et esprit entrepreneurial.\nSens du résultat et capacité à piloter une activité.",
+      "dateCreation": "2026-09-22T11:21:54.327Z",
+      "dateActualisation": "2026-09-22T11:21:54.327Z",
+      "lieuTravail": {
+        "libelle": "92 - Boulogne-Billancourt",
+        "codePostal": "92100",
+        "commune": "92012"
+      },
+      "romeCode": "M1706",
+      "romeLibelle": "Chef / Cheffe de promotion des ventes",
+      "appellationlibelle": "Responsable de la promotion des ventes",
+      "entreprise": {
+        "nom": "B-HIVE"
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "2 An(s)",
+      "salaire": {},
+      "complementExercice": "Temps plein",
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093908",
+        "partenaires": [
+          {
+            "nom": "PMEJOB",
+            "url": "https://www.jobposting.pro/emploi-2704429-120",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/pmejob80.png"
           }
         ]
       },
@@ -6181,55 +6196,6 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "7001133",
-      "intitule": "Directeur d'usine de production (H/F)",
-      "description": "Magalie, consultante pour le cabinet JL Executive, recrute pour son client un Directeur d'Usine (H/F) dans le cadre d'un départ à la retraite et d'un projet de continuité de développement industriel.\n\nVous souhaitez prendre la direction opérationnelle d'un site industriel à taille humaine tout en conservant une forte présence sur le terrain ? Vous aimez piloter la performance, accompagner les équipes et faire progresser les organisations dans un environnement de production exigeant ? Cette opportunité est faite pour vous.\n\nVotre mission\nRattaché(e) à la Direction Industrielle, vous prenez la responsabilité complète de plusieurs sites de production et d'une plateforme logistique.\nVéritable chef d'orchestre de l'activité industrielle, vous garantissez la performance globale des opérations dans le respect des exigences de qualité, sécurité, environnement, coûts et délais.\n\nAu quotidien, vous :\n- Pilotez l'ensemble des activités du site : production, maintenance, logistique, approvisionnements et qualité.\n- Animez et accompagnez les équipes de management afin de fédérer les collaborateurs autour d'objectifs communs.\n- Assurez le suivi et l'analyse des indicateurs de performance (KPI) afin d'optimiser la productivité, la rentabilité et le niveau de service.\n- Garantissez la bonne exécution des plans de production et la fluidité des flux logistiques.\n- Supervisez la gestion des stocks et l'ensemble de la supply chain.\n- Déployez la politique sécurité, qualité et environnement et veillez au respect des obligations réglementaires.\n- Pilotez les budgets de fonctionnement et les investissements industriels.\n- Contribuez aux projets stratégiques et aux démarches d'amélioration continue.\n- Entretenez des relations de qualité avec les fournisseurs, partenaires et clients du site.\n- Veillez au maintien d'un climat social constructif en collaboration avec les fonctions RH.\n\n\n  \n Je recherche avant tout un manager de terrain, capable d'être au plus près des équipes tout en\n conservant une vision stratégique de l'activité.\nVous disposez d'une solide formation technique et d'une expérience significative dans l'industrie manufacturière ou les environnements de production.\n\nVous maîtrisez :\n- Le fonctionnement global d'un site industriel.\n- Les processus de fabrication et les lignes de production.\n- Le pilotage d'indicateurs de performance industrielle.\n- Le management d'équipes pluridisciplinaires.\n- Les enjeux de sécurité, qualité et amélioration continue.\n- La gestion budgétaire et le suivi des investissements.\n- Les problématiques de supply chain, logistique et approvisionnement.\n\nVotre leadership naturel, votre capacité à prendre des décisions et votre sens de l'organisation vous permettent d'accompagner les équipes dans un environnement exigeant et en constante évolution.\n\nVous justifiez idéalement :\n- D'une formation supérieure technique ou industrielle.\n- D'au moins 5 années d'expérience sur des fonctions de management industriel.\n- D'une expérience significative dans la production et la gestion d'équipes opérationnelles.\n- D'une forte culture de la performance industrielle et de l'amélioration continue.\n\n\nChez Job Link Group, nous valorisons la diversité sous toutes ses formes.\nNous nous engageons à offrir un environnement de travail inclusif et respectueux, où chaque candidature est étudiée avec attention, indépendamment de l'âge, du genre, de l'origine, de la situation de handicap ou de tout autre critère de discrimination.",
-      "dateCreation": "2026-09-18T16:54:57.567Z",
-      "dateActualisation": "2026-09-18T16:54:57.567Z",
-      "lieuTravail": {
-        "libelle": "36 - Buzançais",
-        "codePostal": "36500",
-        "commune": "36031"
-      },
-      "romeCode": "H2510",
-      "romeLibelle": "Directeur / Directrice de production industrielle",
-      "appellationlibelle": "Directeur / Directrice d'unité de production",
-      "entreprise": {
-        "nom": "JL EXECUTIVE"
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "5 An(s)",
-      "salaire": {
-        "libelle": "Annuel de 70000.0 Euros à 90000.0 Euros - véhicule de fonction, mutuelle,CSE",
-        "commentaire": "véhicule de fonction, mutuelle,CSE"
-      },
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "64.20Z",
-      "secteurActivite": "64",
-      "secteurActiviteLibelle": "Activités des sociétés holding",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7001133",
-        "partenaires": [
-          {
-            "nom": "TALENTPLUG",
-            "url": "http://app.mytalentplug.com/description-offre.aspx?ojid=Y0p3e77QRLvFtKoOe+Noxg==",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "6929042",
       "intitule": "Directeur Usine H/F",
       "description": "Notre client est une entreprise spécialisée, reconnue pour son expertise technique et son engagement envers les clients. L'organisation met un point d'honneur à maintenir des standards élevés dans ses processus de production et à répondre efficacement aux besoins de ses partenaires.Dans un contexte de forte croissance et de transformation, nous recherchons un Directeur Usine pour piloter et structurer l'ensemble de la chaîne opérationnelle.\nRattaché(e) à la Direction Générale, le candidat prendra la responsabilité d'un périmètre d'environ 25 à 30 collaborateurs couvrant la production, la logistique, les approvisionnements & achats du périmètre et la maintenance.\nEn tant que Directeur Usine, il/elle sera en charge de :\n\n\nSuperviser l'ensemble des activités opérationnelles (production, logistique, approvisionnement & achats et maintenance)\nSécuriser les flux et optimiser la performance industrielle ainsi que le niveau de service\nStructurer et déployer les pratiques et outils de pilotage (planification, gestion des stocks, indicateurs de performance)\nManager et accompagner les équipes opérationnelles au quotidien\nMettre en œuvre des démarches d'amélioration continue et veiller au respect des standards qualité et sécurité\nAméliorer significativement la capacité de production et le taux de service\nFluidifier la supply chain pour préserver la réactivité de l'entreprise\nPoser un cadre structurant sans rigidifier la culture PME\nAccompagner une transformation opérationnelle pragmatique\n\n\n\nLa rémunération et les avantages sur ce poste sont :\n\n\nSalaire compris entre € et € brut annuel ;\nPoste basé près d' Armentières\nOpportunité d'évoluer dans un environnement technique stimulant.",
@@ -6438,99 +6404,6 @@
       "contexteTravail": {
         "horaires": [
           "35H/semaine"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "6074484",
-      "intitule": "Directeur adjoint d'usine/UVE H/F",
-      "description": "Rejoignez-nous dans une aventure extraordinaire au service de la planète !\nFondé en 1994, Paprec est en France le leader du recyclage et un des grands acteurs européens de la gestion des déchets et de la production d'énergies vertes. Le groupe est détenu majoritairement par la famille Petithuguenin qui a investi massivement en France et à l'international dans ses usines et outils technologiques. Notre raison d'être est d'oeuvrer pour une planète verte en faisant de nos déchets la matière première de notre siècle.\nDepuis fin 2025, PAPREC exploite l'Unité de Valorisation Énergétique (UVE) de Saint-Thibault-des-Vignes, un site industriel majeur au service de la transition énergétique du territoire. L'installation traite jusqu'à 155 000 tonnes de déchets ménagers et industriels banals (DIB) par an grâce à deux fours équipés de grilles à rouleaux. Les déchets de plus de 315 000 habitants issus de 31 communes y sont valorisés.\nLe site est doté de :\n\n2 chaudières produisant entre 25 et 35 tonnes de vapeur par heure ;\nUne turbine vapeur de 11,5 MW permettant la production d'électricité ;\nUn réseau contribuant à l'alimentation énergétique du territoire et à son réseau de chaleur urbain.\n\nDans le cadre de notre développement, nous recherchons un Directeur adjoint d'usine/UVE. Rattaché au Directeur d'Usine, vous pilotez l'exploitation et la maintenance des installations de valorisation énergétique. Vous managez les équipes, garantissez la sécurité des personnes et des installations, assurez la performance technique et énergétique du site et veillez au respect des exigences réglementaires. Vous coordonnez les opérations de maintenance, les arrêts techniques, les projets d'amélioration continue et entretenez les relations avec les autorités, les clients et les partenaires du site.\nMissions : Pilotage de la performance technique :\n\nGarantir l'identification et l'analyse des dysfonctionnements, définir les actions correctives et d'amélioration avec les directions industrielle et technique, puis s'assurer de leur mise en oeuvre.\nIdentifier et proposer, avec le service maintenance, les investissements et opérations de gros entretien nécessaires au bon fonctionnement des installations.\nProposer des projets d'amélioration de la performance des installations et assurer leur déploiement.\nFaire appliquer les standards du métier UVE et les principes d'excellence opérationnelle\n\nPilotage de la performance économique :\n\nGarantir l'optimisation de la production, du chiffre d'affaires et des coûts de détournement en pilotant la planification des réceptions de déchets.\nAssurer le suivi des dépenses d'exploitation et de maintenance et mettre en place des actions correctives en cas de dérive.\nValider les dépenses de gros entretien et renouvellement (GER) et suivre les écarts budgétaires.\nGérer les principaux contrats d'entretien, d'achat et de vente d'énergie avec les prestataires.\nProposer les conditions de remise en concurrence des contrats arrivant à échéance.\nVeiller au respect de la politique achats du Groupe.\n\nDéveloppement commercial\n\nSuperviser les projets d'investissement ou de maintenance.\nContribuer à la rédaction des cahiers des charges.\nParticiper à la sélection des fournisseurs en coordination avec les Achats et la Direction Technique\n\n ",
-      "dateCreation": "2026-08-18T09:00:41.197Z",
-      "dateActualisation": "2026-08-18T09:00:41.197Z",
-      "lieuTravail": {
-        "libelle": "77 - Saint-Thibault-des-Vignes",
-        "codePostal": "77400",
-        "commune": "77438"
-      },
-      "romeCode": "M1204",
-      "romeLibelle": "Contrôleur / Contrôleuse de gestion",
-      "appellationlibelle": "Contrôleur / Contrôleuse de gestion d'usine",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "5 An(s)",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6074484",
-        "partenaires": [
-          {
-            "nom": "EMPLOIENVIRONNEMENT",
-            "url": "https://www.emploi-environnement.com/fr/gestion_offre/visu_offre.php4?reference_offre=344710#xtor=AD-47",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/emploienvironnement80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "5118914",
-      "intitule": "Directeur(trice) d'Usine H/F",
-      "description": "- Définir l'organisation de l'usine,\n- Établir les budgets annuels, définir les objectifs de production\n- Réaliser des reportings réguliers, proposer des actions afin d'améliorer les performances et optimiser la production\n- En lien avec la direction industrielle, définir les investissements\n- Assurer le bon fonctionnement de l'outil de production et sa maintenance préventive et corrective. Agir de même pour les bâtiments\n- Optimiser l'approvisionnement et la disponibilité des matières et composants pour garantir la continuation du flux de production\n- Assurer la coordination de l'ensemble des services avec les directions de développement (R&D, Marketing & Ventes), les acheteurs, avec les services du groupe.\n- Assurer les relations avec les représentants du personnel\n\n\nActivités managériales :\n\n\n- Mettre en place l'organisation et les moyens matériels et humains adaptés\n- Assurer le maintien et le développement en compétences de son équipe\n- Animer et mobiliser son équipe\n- Conduire les entretiens individuels de son équipe\n- Être en appui technique auprès de son équipe\n- Evaluer les besoins en recrutement\n\n- Expérience en direction d'usine\n- Familiarité avec les exigences réglementaires relatives à l'exploitation des usines\n- Maîtrise du pack Office\n- Connaissance ERP Métier (si possible Sage X3)\n- Maîtrise des méthodologies d'amélioration continue\n- Connaissance des environnements qualité et réglementaire HSE\n- Maîtrise des principes de gestion et de contrôle budgétaire\n\n\nNous vous proposons :\n\n\n- Contrat à durée indéterminée (CDI)\n- Statut Cadre\n- Forfait jours\n- Rémunération : Selon profil\n- Intéressement\n- Prime sur variables\n- Prise de poste dès que possible\n- Poste basé à Gotein-Libarrenx\n\n\nPrêt à nous rejoindre ?\n\n\nRejoindre le Groupe Artzainak, c'est :\n\n\n- Faire le choix d'une entreprise indépendante, profondément ancrée dans son territoire, guidée par des valeurs fortes et portée par une véritable raison d'être\n- Vivre une expérience professionnelle riche et stimulante au sein d'un groupe ambitieux et en pleine croissance\n- Évoluer dans un environnement où la prise d'initiative et la responsabilité individuelle sont pleinement encouragées\n- Bénéficier de conditions de travail de qualité, d'une politique de rémunération équitable, ainsi que d'opportunités de formation, d'évolution et de mobilité interne",
-      "dateCreation": "2026-07-19T01:01:51.000Z",
-      "dateActualisation": "2026-07-26T01:01:58.000Z",
-      "lieuTravail": {
-        "libelle": "64 - Gotein-Libarrenx",
-        "latitude": 43.190907,
-        "longitude": -0.902561,
-        "codePostal": "64130",
-        "commune": "64247"
-      },
-      "romeCode": "M1301",
-      "romeLibelle": "Dirigeant / Dirigeante d'entreprise privée",
-      "appellationlibelle": "Dirigeant / Dirigeante d'entreprise privée",
-      "entreprise": {
-        "nom": "ARTZAINAK",
-        "description": "Fondé en 1985, ARTZAINAK est un groupe industriel basé au Pays Basque, à Mauléon-Licharre (64). Il conçoit, fabrique et commercialise une large gamme de solutions et de produits à destination de différents secteurs d'activités : l'aéronautique, le bâtiment et travaux publics, le nautisme, l'environnement, l'énergie et le service. Aujourd'hui, le Groupe Artzainak c'est 240 colla"
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "3 An(s)",
-      "salaire": {
-        "commentaire": "Selon profil"
-      },
-      "dureeTravailLibelle": "\nTravail en journée",
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "codeNAF": "70.10Z",
-      "secteurActivite": "70",
-      "secteurActiviteLibelle": "Activités des sièges sociaux",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5118914",
-        "partenaires": [
-          {
-            "nom": "LINDUSTRIE RECRUTE",
-            "url": "https://www.lindustrie-recrute.fr/candidat/offre/820712?utm_source=NQ==",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/uimm80.png"
-          }
-        ]
-      },
-      "contexteTravail": {
-        "horaires": [
-          "\nTravail en journée"
         ]
       },
       "entrepriseAdaptee": false,
@@ -6892,65 +6765,11 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "5118908",
-      "intitule": "Responsable Technique Pièces De Fonderie H/F",
-      "description": "Vos missions:\n\n\nRattaché(e) hiérarchiquement au Directeur de site, vos missions principales sont :\n\n\n-Réaliser les études d’industrialisation fonderie et usinage en collaboration avec les différents services (commerce, projet, méthode, qualité et production) ;\n\n\n-Conduire les projets industriels dans le respect des objectifs QCD (Qualité, Coûts et Délais), de la disponibilité des moyens industriels et des besoins clients ;\n\n\n-Maintenir une excellence opérationnelle sur le site en déployant les outils de l’amélioration continue.\n\n\nCes missions peuvent nécessiter des déplacements sur nos sites de Bilbao (Espagne) et Neuville Saint Amand (02), ainsi que la participation à des salons et à la réalisation de visites clients.\n\n\nSalaire: A partir de 55 000 € Brut annuel (évolutif selon expérience).\n\n\nAutres avantages :  intéressement, participation, PERCO, formations internes…\n\nVous disposez d’une expérience réussie d’au moins 7 ans dans un poste de Responsable technique ou de Responsable opérationnel.\n\n\nDe solides connaissances en fonderie aluminium, en particulier en sous-pression, sont attendues.\n\n\nUne expérience en moulage par gravité ou un parcours dans l’injection plastique sera apprécié.\n\n\nDes compétences avérées en gestion de projets et en amélioration continue seront nécessaires.\n\n\nRigoureux(se) et méthodique, vous savez organiser votre travail et résoudre les problèmes.\n\n\nCe poste nécessite  également d’être un(e) excellent(e) communicant(e), que ce soit en interne et à l’externe, et d’être accoutumé(e) aux  collaborations inter fonctionnelles.\n\n\nUn niveau d’anglais et d’espagnol professionnel serait un plus.",
-      "dateCreation": "2026-07-19T01:01:51.000Z",
-      "dateActualisation": "2026-07-20T01:01:55.000Z",
-      "lieuTravail": {
-        "libelle": "46 - Cavagnac",
-        "latitude": 45.007481,
-        "longitude": 1.643822,
-        "codePostal": "46110",
-        "commune": "46065"
-      },
-      "romeCode": "H2510",
-      "romeLibelle": "Directeur / Directrice de production industrielle",
-      "appellationlibelle": "Directeur / Directrice technique en production",
-      "entreprise": {
-        "nom": "Groupe MH Industries",
-        "description": "Intégrée au groupe MH Industries, Diace (46-Vayrac) fait partie de la Business Unit Fonderie avec les deux autres sites industriels que sont Fusiocast (02-Neuville Saint Amand) et Mzeta (Bilbao).\n\n\nEnsemble, ils couvrent un spectre complet et complémentaire de la transformation des métaux, avec une expertise pointue et reconnue dans la réalisation d’outillages, ainsi que dans"
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "1 An(s)",
-      "salaire": {
-        "commentaire": "Selon profil"
-      },
-      "dureeTravailLibelle": "\nTravail en journée",
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "codeNAF": "64.20Z",
-      "secteurActivite": "64",
-      "secteurActiviteLibelle": "Activités des sociétés holding",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/5118908",
-        "partenaires": [
-          {
-            "nom": "LINDUSTRIE RECRUTE",
-            "url": "https://www.lindustrie-recrute.fr/candidat/offre/820960?utm_source=NQ==",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/uimm80.png"
-          }
-        ]
-      },
-      "contexteTravail": {
-        "horaires": [
-          "\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "6722712",
       "intitule": "Responsable Méthodes et Industrialisation Fonderie (H/F)",
       "description": "Pivot technique entre le bureau d'études, le client et la production série, vous transformez une pièce (dessin et cahier des charges) en un procédé industriel stable, capable et rentable, sur la fonderie comme sur l'usinage.\nÉtudes d'industrialisation fonderie et usinage\n - Choisir le procédé (coulée gravité coquille ou sous pression HPDC) et concevoir le système de remplissage et d'alimentation\n - Dimensionner l'outillage, définir les gammes fonderie et usinage\n - Lancer et interpréter les simulations de remplissage et de solidification (type MAGMASOFT / ProCAST)\nConduite des projets industriels dans le respect du QCD\n - Piloter le passage du prototype à la série et tenir les jalons\n - Arbitrer entre coût-pièce, investissement outillage et délai de mise au point\n - Gérer les dossiers de validation (EI / PPAP)\nAmélioration continue de l'atelier\n - Déployer les outils Lean (5S, SMED) et la résolution de problèmes (8D, Ishikawa, 5 Pourquoi)\n - Réduire les rebuts et améliorer le TRS pour absorber la montée en cadence\nProfil recherché:\nVous justifiez d'au minimum 7 ans d'expérience en responsabilité technique ou opérationnelle dans la fonderie de métaux légers. Vous êtes idéalement issu d'une formation fonderie (ESFF, BTS Fonderie) ou technicien méthodes senior promu au fil de votre parcours.\nVotre valeur tient à votre double compétence : vous maîtrisez les procédés fonderie (sous pression HPDC et coulée gravité) ET l'usinage. Vous êtes à l'aise avec la simulation de coulée, l'AMDEC process, le plan de surveillance, la capabilité (Cp / Cpk), le PPAP, les tolérances géométriques (GD&T) et la métallurgie des alliages d'aluminium (norme EN 1706, alliages AlSi).\nCe qui fera la différence : une expérience sur des marchés exigeants (aéronautique, défense, automobile, ferroviaire), la connaissance du référentiel IATF 16949 et du contrôle non destructif (radioscopie, X-ray).\nEnfin, on vous reconnaît une posture de chef de projet transversal, autonome, pragmatique et proche du terrain, capable de faire le lien entre les métiers (BE, production, qualité, client).",
       "dateCreation": "2026-09-08T08:06:32.281Z",
-      "dateActualisation": "2026-09-08T08:06:32.281Z",
+      "dateActualisation": "2026-09-22T08:06:32.439Z",
       "lieuTravail": {
         "libelle": "46 - Vayrac",
         "codePostal": "46110",
@@ -6984,48 +6803,6 @@
             "nom": "WINK",
             "url": "https://apply.wink-lab.com/apply/8bc81ed1-60f4-440e-b0b5-3d41f7d09120?utm_source=francetravailbasic",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/wink80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "6221789",
-      "intitule": "Opérateur de fonderie (H/F)",
-      "description": "Rejoignez l'aventure KUHN à Saverne !Nous recrutons pour notre client KUHN un(e) Opérateur(trice) de fonderie, prêt(e) à relever un défi ?Ce que vous ferez au quotidien :Participer au process de coulée continue et au tirage des barres de fonte.Entretenir et rénover les fours pour garantir une production sans accroc.Réaliser des opérations de cisaillage et d'usinage ponctuel de coques.Manipuler et déplacer des charges lourdes avec vigilance et précision.Ce poste est fait pour ceux qui aiment le travail concret, dynamique et stimulant, où chaque journée est différente.Horaires :2x8 avec possibilité ponctuelle de passage en 3x8.",
-      "dateCreation": "2026-08-23T11:51:46.858Z",
-      "dateActualisation": "2026-08-23T11:51:46.858Z",
-      "lieuTravail": {
-        "libelle": "67 - Saverne",
-        "codePostal": "67700",
-        "commune": "67437"
-      },
-      "romeCode": "H2510",
-      "romeLibelle": "Directeur / Directrice de production industrielle",
-      "appellationlibelle": "Responsable de fonderie",
-      "entreprise": {},
-      "typeContrat": "MIS",
-      "typeContratLibelle": "Intérim - 1 Mois",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "codeNAF": "78.10Z",
-      "secteurActivite": "78",
-      "secteurActiviteLibelle": "Activités des agences de placement de main-d'œuvre",
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6221789",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/56111493?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
           }
         ]
       },
@@ -7507,147 +7284,6 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "212RVNT",
-      "intitule": "Responsable d'usine - Fabrication et  impression de sacs papier (H/F)",
-      "description": "Afin d'accompagner notre développement et de\nrenforcer notre position sur le marché des emballages éco-responsables, nous avons\ncréé notre propre unité de fabrication de sacs papier.\nDans le cadre du développement de cette activité industrielle, nous recherchons un(e)\nResponsable d'usine expérimenté(e), véritable professionnel(le) de la fabrication de\nsacs papier à poignées plates et torsadées, capable d'assurer la performance\ntechnique, industrielle et économique de notre site de production.\nVous évoluerez dans une entreprise familiale à taille humaine où la réactivité,\nl'autonomie et la proximité avec la direction favorisent la prise d'initiative et la mise en\nœuvre rapide des projets.\nRattaché(e) à la Direction Générale et travaillant en étroite collaboration avec la \nDirection Financière, vous êtes responsable du bon fonctionnement de l'usine et de \nl'atteinte des objectifs de performance industrielle. \nVotre priorité est de garantir une production conforme aux exigences de qualité, de \nsécurité, de coûts et de délais tout en améliorant durablement la rentabilité du site. \nVous êtes un manager de terrain, présent au quotidien auprès des équipes de \nproduction.\nVos principales responsabilités :\n-Pilotage de la production\n-Performance industrielle\n-Maintenance et amélioration continue\n-Gestion des achats techniques et des \napprovisionnements\n-Management des équipes\n-Qualité, sécurité et environnement\n\nProfil recherché \nVous justifiez impérativement d'une expérience significative dans un environnement \nindustriel de fabrication de sacs papier petite contenance. \nUne expérience de l'impression flexographique constitue un véritable atout. \nVous maîtrisez : \n les procédés de fabrication des sacs papier à poignées ; \n les techniques d'impression industrielle ; \n l'organisation d'un atelier de production ; \n les méthodes d'amélioration continue (Lean, 5S, TPM.) ; \n les indicateurs de performance industrielle (KPI). \nVous êtes reconnu(e) pour : \n votre forte culture industrielle ; \n votre présence sur le terrain ; \n votre capacité à résoudre rapidement les problèmes techniques ; \n votre sens de l'organisation ; \n votre rigueur ; \n votre aptitude à fédérer les équipes autour d'objectifs communs ; \n votre orientation résultats. \nUne bonne maîtrise de l'anglais technique serait appréciée.",
-      "dateCreation": "2026-08-20T11:49:46.520Z",
-      "dateActualisation": "2026-09-21T08:43:17.880Z",
-      "lieuTravail": {
-        "libelle": "13 - ST REMY DE PROVENCE",
-        "latitude": 43.78871,
-        "longitude": 4.831645,
-        "codePostal": "13210",
-        "commune": "13100"
-      },
-      "romeCode": "H2515",
-      "romeLibelle": "Chef / Cheffe d'atelier en industrie de transformation",
-      "appellationlibelle": "Superviseur / Superviseuse en industrie de transformation",
-      "entreprise": {
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "5 An(s)",
-      "formations": [
-        {
-          "niveauLibelle": "Bac+3, Bac+4 ou équivalents",
-          "exigence": "E"
-        }
-      ],
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "S"
-        }
-      ],
-      "competences": [
-        {
-          "code": "300174",
-          "libelle": "Elaborer et planifier un programme de production, d'exploitation",
-          "exigence": "S"
-        },
-        {
-          "code": "300436",
-          "libelle": "Organiser le travail d'une équipe",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "commentaire": "selon profil",
-        "complement1": "Complémentaire santé",
-        "complement2": "Hébergement",
-        "listeComplements": [
-          {
-            "code": "7",
-            "libelle": "Complémentaire santé"
-          },
-          {
-            "code": "5",
-            "libelle": "Hébergement"
-          },
-          {
-            "code": "1",
-            "libelle": "Primes"
-          }
-        ]
-      },
-      "dureeTravailLibelle": "39H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "Agence France Travail CHATEAURENARD",
-        "coordonnees1": "LOT PARC LES BAUMES 638 AVENUE DE LA LIBERATION",
-        "coordonnees2": "13160 Châteaurenard",
-        "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212RVNT"
-      },
-      "agence": {
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212RVNT"
-      },
-      "nombrePostes": 1,
-      "accessibleTH": false,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels Zone départementale",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "17.21C",
-      "secteurActivite": "17",
-      "secteurActiviteLibelle": "Fabrication d'emballages en papier",
-      "trancheEffectifEtab": "1 ou 2 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212RVNT"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "39H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "6524932",
-      "intitule": "INSPECTEUR QUALITÉ USINE (F/H)",
-      "description": "descriptif du posteAu sein du service Qualité Usine, vous prenez en charge le suivi qualité de projets de modification et d'installation d'équipements électromécanique à destination de centrales nucléaires en exploitation (France, export) ainsi que des nouvelles constructions (EPR UK, EPR2 etc.). Vos responsabilités principales seront les suivantes :Effectuer les interventions d'inspection, de surveillance et de recette à l'atelierVeiller au respect de la",
-      "dateCreation": "2026-09-02T12:16:48.793Z",
-      "dateActualisation": "2026-09-11T12:17:30.660Z",
-      "lieuTravail": {
-        "libelle": "44 - Carquefou",
-        "codePostal": "44470",
-        "commune": "44026"
-      },
-      "romeCode": "H1524",
-      "romeLibelle": "Chef / Cheffe de projet contrôle qualité",
-      "appellationlibelle": "Responsable d'analyse et de contrôle qualité en industrie",
-      "entreprise": {},
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "D",
-      "experienceLibelle": "Débutant accepté",
-      "salaire": {},
-      "alternance": false,
-      "contact": {},
-      "nombrePostes": 1,
-      "origineOffre": {
-        "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6524932",
-        "partenaires": [
-          {
-            "nom": "DIRECTEMPLOI",
-            "url": "https://www.directemploi.com/candidatOffre/55475285?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
-          }
-        ]
-      },
-      "contexteTravail": {},
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "7054130",
       "intitule": "Responsable de projet usine réparation rennes - pilote mobiles hp leap (h/f) (H/F)",
       "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 110 000 collaborateurs pour un chiffre d'affaires de 31,3 milliards d'euros en 2025, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. \n\nSafran est la 2ème entreprise du secteur aéronautique et défense du classement « World's Best Companies 2025 » du magazine TIME.\n\n\n\nSafran Aircraft Engines conçoit, produit et commercialise, seul ou en coopération, des moteurs aéronautiques civils et militaires aux meilleurs niveaux de performance, fiabilité et respect de l'environnement. La société est notamment, à travers CFM International*, le leader mondial de la propulsion d'avions commerciaux courts et moyen-courriers.\n\n* CFM International est une société commune 50/50 de Safran Aircraft Engines et GE Aerospace.\n\n\n\nParce que nous sommes persuadés que chaque talent compte, nous valorisons et encourageons les candidatures de personnes en situation de handicap pour nos opportunités d'emploi.\n\n\nDescriptif missionVous souhaitez embarquer dans un projet passionnant et structurant : accompagner la création d'une nouvelle usine ? Rejoignez le projet Safran Turbine Airfoils !\n\nEn quelques mots, c'est :\n\n- La construction à Rennes (Bretagne) d'une nouvelle usine dédiée à la production et à la réparation d'aubages de turbine.\n\n- Une entrée en production en 2027 pour la montée en cadence du moteur militaire M88 (équipant le Rafale) et pour renforcer la chaîne d'approvisionnement du moteur civil LEAP en neuf et réparation.\n\n- La future vitrine pour le groupe Safran en matière d'innovation, d'efficacité industrielle et de conception écologique.\n\n- Un projet avec de forts enjeux et une forte visibilité\n\nConcrètement, si vous souhaitez participer à cette expérience humaine et industrielle unique, l'équipe projet est prête à vous accueillir ! Ce poste sera un réel atout pour vous faire connaitre au sein du projet et pouvoir, ensuite, prétendre à de nouvelles fonctions au sein de la future usine de Rennes lors de sa mise en service !\n\nEn tant que Responsable de Projet pour le Lot 2 dans le cadre de la création d'une nouvelle usine, vous aurez une opportunité exceptionnelle de piloter et contribuer activement à la structuration, au démarrage et à l'optimisation et à la réussite du projet de l'usine de Rennes. Vous pilotez l'ensemble des activités du lot 2, depuis la coordination des ressources et la planification jusqu'à l'atteinte des objectifs de coûts, qualité et délais. Vous assurez la gouvernance, le suivi de la performance, l'animation des équipes ainsi que la gestion proactive des risques et des évolutions de périmètre..",
@@ -8102,7 +7738,7 @@
       "intitule": "Opérateur usine eau potable (H/F)",
       "description": "Rejoignez une équipe dynamique au sein du leader mondial de la transformation écologique ! Veolia, un groupe international de 218 000 collaborateurs, vous offre une opportunité enrichissante en tant qu'Opérateur usine à Lisieux (Calvados).\n\nVous participez à l'exploitation courante des installations de production et de distribution d'eau potable du territoire, ainsi qu'à la gestion de 2 stations d'épuration.\n\nCe que vous ferez ?\n- Exploitation courante des installations du territoire dont vérification des instruments de mesure du réseau, câblage d'armoires électriques, .\n- Maintenance 1er niveau : localisation de panne, interventions sur des machines électriques et mécaniques, démontage de petites pièces\nCoordination et gestion des lavages de réservoirs\n- Astreinte, afin d'assurer la continuité de service.\nVous appliquez les règles en matière d'éthique et conformité, de qualité, sécurité et environnement.\n\nLe profil que nous recherchons :\n- De formation Bac pro MEI, bac pro MELEC ou équivalent\n- Des connaissances en métrologie ou en automatisme seront un plus.\n\nCe que l'on offre :\nSalaire compétitif, 36 jours de congés, tickets restaurant (60%), couverture santé solide, intéressement et participation, CSE actif (chèques vacances, voyages, locations, .), véhicule de service\n\nPostulez en 3 minutes : CV + lettre de motivation\nNotre promesse : une réponse sous 8 jours ouvrés.",
       "dateCreation": "2026-09-09T12:29:13.055Z",
-      "dateActualisation": "2026-09-18T10:15:18.677Z",
+      "dateActualisation": "2026-09-21T21:51:07.183Z",
       "lieuTravail": {
         "libelle": "14 - Lisieux",
         "latitude": 49.142289,
@@ -8203,6 +7839,521 @@
         "horaires": [
           "35H/semaine\nTravail en journée",
           " Travail en astreinte"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "210HJBB",
+      "intitule": "Opérateur usine eau potable (H/F)",
+      "description": "Rejoignez une équipe dynamique au sein du leader mondial de la transformation écologique ! Veolia, un groupe international de 218 000 collaborateurs, vous offre une opportunité enrichissante en tant qu'Opérateur usine à Lisieux (Calvados).\nVous participez à la gestion et l'optimisation d'installations complexes de traitement d'eau, en assurant leur bon fonctionnement et leur maintenance.\n\nCe que vous ferez ?\n- Pilotage d'une usine complexe de traitement d'eau\n- Maintenance corrective et dépannage sur divers équipements (pompes doseuses, .) \n- Contrôle de la métrologie, analyser les dysfonctionnements\n- Vérification et analyse quotidienne des volumes d'eau du secteur\n- Astreinte, afin d'assurer la continuité de service.\nVous appliquez les règles en matière d'éthique et conformité, de qualité, sécurité et environnement.\n\nLe profil que nous recherchons :\n- De formation BAC+2 Technicien métiers de l'eau ou Électrotechnique, avec expérience (alternance inclus)\n- Autonome, méthodique et rigoureux\n\nCe que l'on offre :\nSalaire compétitif, 36 jours de congés, tickets restaurant (60%), couverture santé solide, intéressement et participation, CSE actif (chèques vacances, voyages, locations, .)",
+      "dateCreation": "2026-06-25T08:30:01.603Z",
+      "dateActualisation": "2026-09-17T22:43:55.411Z",
+      "lieuTravail": {
+        "libelle": "14 - Lisieux",
+        "latitude": 49.142289,
+        "longitude": 0.240553,
+        "codePostal": "14100",
+        "commune": "14366"
+      },
+      "romeCode": "K2316",
+      "romeLibelle": "Responsable d'usine de production d'eau potable",
+      "appellationlibelle": "Responsable d'usine de production d'eau potable",
+      "entreprise": {
+        "nom": "VEOLIA EAU - COMPAGNIE GENERALE DES EAUX",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "2 An(s)",
+      "formations": [
+        {
+          "codeFormation": "12541",
+          "domaineLibelle": "Assainissement",
+          "niveauLibelle": "Bac+2 ou équivalents",
+          "commentaire": "métier du traitement de l'eau",
+          "exigence": "S"
+        },
+        {
+          "codeFormation": "24072",
+          "domaineLibelle": "Électrotechnique mise à niveau",
+          "niveauLibelle": "Bac+2 ou équivalents",
+          "commentaire": "électrotechnique",
+          "exigence": "S"
+        }
+      ],
+      "competences": [
+        {
+          "code": "100015",
+          "libelle": "Cadre réglementaire environnemental",
+          "exigence": "S"
+        },
+        {
+          "code": "300243",
+          "libelle": "Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+          "exigence": "S"
+        },
+        {
+          "code": "105456",
+          "libelle": "Identifier des non-conformités",
+          "exigence": "S"
+        },
+        {
+          "code": "108770",
+          "libelle": "Vérifier le fonctionnement des équipements et des installations, identifier les anomalies et les actions préventives ou correctives",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 26000.0 Euros à 29000.0 Euros",
+        "complement1": "Intéressement / participation",
+        "complement2": "CSE",
+        "listeComplements": [
+          {
+            "code": "10",
+            "libelle": "Intéressement / participation"
+          },
+          {
+            "code": "9",
+            "libelle": "CSE"
+          },
+          {
+            "code": "6",
+            "libelle": "Titres restaurant / Prime de panier"
+          }
+        ]
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée...",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "Agence France Travail MONDEVILLE",
+        "coordonnees1": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000133971199--operateur-usine-eau-potable-f-h-",
+        "coordonnees3": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210HJBB",
+        "urlPostulation": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000133971199--operateur-usine-eau-potable-f-h-"
+      },
+      "agence": {
+        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/210HJBB"
+      },
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "qualificationCode": "4",
+      "qualificationLibelle": "Ouvrier qualifié (P3,P4,OHQ)",
+      "codeNAF": "36.00Z",
+      "secteurActivite": "36",
+      "secteurActiviteLibelle": "Captage, traitement et distribution d'eau",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Avoir l'esprit d'équipe",
+          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        },
+        {
+          "libelle": "Faire preuve d'autonomie",
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+        }
+      ],
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/210HJBB"
+      },
+      "offresManqueCandidats": true,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée",
+          " Travail en astreinte"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "6522700",
+      "intitule": "Agent de fabrication en usine bois (H/F/D)",
+      "description": "Vous cherchez un contrat longue durée, et vous avez des compétences en menuiseries, ébénisterie, huisseries, usinage ou en tant qu'ouvrier en chaine d'assemblage ? SAMSIC EMPLOI Condom recherche un(e) Agent de fabrication pour une usine de menuiseries.MISSIONS - Participer à la chaîne de production de menuiseries,- Assurer le réglage de machines,- Participer au montage, usinage et vissage des différentes parties composants les huisseries, - Charger et décharger les matériaux et produits sur les lignes de production,- Veiller à la propreté et à l'organisation de l'aire de travail,- Collaborer avec les équipes de production pour garantir un flux de travail optimal.HORAIRES Du lundi au vendredi : horaires en 2x8 (5h/13h ET 13h/21h)LES + DE L'AGENCE D'INTERIM - CET à 5% : IFM/ICCP- Acompte hebdomadaire- Mutuelle entrepriseSAMSIC, société socialement responsable, s'engage au quotidien pour l'emploi des personnes en situation de handicap.",
+      "dateCreation": "2026-09-02T12:14:41.495Z",
+      "dateActualisation": "2026-09-02T12:14:41.495Z",
+      "lieuTravail": {
+        "libelle": "32 - Eauze",
+        "codePostal": "32800",
+        "commune": "32119"
+      },
+      "romeCode": "H2218",
+      "romeLibelle": "Responsable de production en industrie du bois",
+      "appellationlibelle": "Responsable de fabrication en industrie du bois",
+      "entreprise": {},
+      "typeContrat": "MIS",
+      "typeContratLibelle": "Intérim - 1 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "codeNAF": "78.10Z",
+      "secteurActivite": "78",
+      "secteurActiviteLibelle": "Activités des agences de placement de main-d'œuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6522700",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/56204268?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "214CKPV",
+      "intitule": "RESPONSABLE PRODUCTION (H/F)",
+      "description": "L'entreprise est spécialisée dans la découpe de viandes de volailles.\n\nVOS MISSIONS :\n- Manager et accompagner les équipes, assurer le suivi de la fabrication\n-Intervenir en renfort de votre équipe sur l'opérationnel en fonction des besoins.\n-Garantir le respect des impératifs de qualité, d'hygiène et de sécurité.\n-Réaliser et ajuster le planning de l'équipe et de l'atelier au quotidien.\n-Remonter les informations relatives à l'activité de l'entreprise.\n\nVOTRE PROFIL :\n- Formation en agroalimentaire ou expérience significative en production\n- Expérience en management d'équipe\n- Connaissance des normes d'hygiène et de sécurité\n- Sens de l'organisation, réactivité et leadership\n- Capacité à travailler sur le terrain\n\nAUTRE INFORMATION :\n- CDI après une période d'intérim.\n- Rémunération selon profil",
+      "dateCreation": "2026-09-18T16:00:57.950Z",
+      "dateActualisation": "2026-09-18T16:00:58.395Z",
+      "lieuTravail": {
+        "libelle": "32 - Seissan",
+        "latitude": 43.492716,
+        "longitude": 0.591933,
+        "codePostal": "32260",
+        "commune": "32426"
+      },
+      "romeCode": "K2316",
+      "romeLibelle": "Responsable d'usine de production d'eau potable",
+      "appellationlibelle": "Responsable d'usine de production d'eau potable",
+      "entreprise": {
+        "nom": "JOB & Vous",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "MIS",
+      "typeContratLibelle": "Intérim - 6 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "6 Mois",
+      "competences": [
+        {
+          "code": "100015",
+          "libelle": "Cadre réglementaire environnemental",
+          "exigence": "S"
+        },
+        {
+          "code": "300243",
+          "libelle": "Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)",
+          "exigence": "S"
+        },
+        {
+          "code": "105456",
+          "libelle": "Identifier des non-conformités",
+          "exigence": "S"
+        },
+        {
+          "code": "108770",
+          "libelle": "Vérifier le fonctionnement des équipements et des installations, identifier les anomalies et les actions préventives ou correctives",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Mensuel de 1900.0 Euros à 2700.0 Euros"
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {},
+      "agence": {},
+      "nombrePostes": 1,
+      "qualificationCode": "4",
+      "qualificationLibelle": "Ouvrier qualifié (P3,P4,OHQ)",
+      "codeNAF": "78.20Z",
+      "secteurActivite": "78",
+      "secteurActiviteLibelle": "Activités des agences de travail temporaire",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Faire preuve de leadership",
+          "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        }
+      ],
+      "trancheEffectifEtab": "50 à 99 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214CKPV"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "7093609",
+      "intitule": "Responsable Support Opération - Eaux Industrielles (H/F)",
+      "description": "L'enjeu\n\nLe traitement des eaux industrielles est un enjeu essentiel pour garantir la performance des procédés et préserver les ressources hydriques. La maîtrise des installations et leur maintenance sont indispensables pour assurer une exploitation fiable et continue.\n\nLe projet\n\nDans le cadre de l'exploitation d'usines de traitement des eaux industrielles, nous recherchons un Responsable Support Opération - Eaux Industrielles H/F.\nVous intervenez directement sur les installations afin d'assurer leur bon fonctionnement, d'optimiser les paramètres de traitement et d'apporter un support technique aux équipes d'exploitation.\n\nLe poste : \n\nLes missions du poste\n\n- Superviser et exploiter les installations de traitement des eaux\n- Contrôler les paramètres de fonctionnement et la qualité de l'eau\n- Analyser les résultats, identifier les dérives et diagnostiquer les dysfonctionnements\n- Ajuster et optimiser les paramètres du process\n- Réaliser la maintenance préventive et corrective de niveaux 1 et 2\n- Effectuer les contrôles, réglages, nettoyages et interventions courantes\n- Suivre les performances et anticiper les défaillances des équipements\n- Participer aux mises en service et aux phases de démarrage\n- Apporter un support technique terrain aux équipes d'exploitation\n- Assurer la traçabilité et le suivi des interventions\n\nProfil recherché : \n\nLes compétences recherchées\n\nVous justifiez d'au moins 1 an d'expérience en traitement des eaux, idéalement dans un environnement industriel.\nVous maîtrisez le suivi des équipements et l'utilisation d'une GMAO. Vous êtes capable de diagnostiquer les anomalies et de réaliser des opérations de maintenance de niveaux 1 et 2.",
+      "dateCreation": "2026-09-22T11:21:33.873Z",
+      "dateActualisation": "2026-09-22T11:21:33.873Z",
+      "lieuTravail": {
+        "libelle": "71 - Mâcon",
+        "codePostal": "71000",
+        "commune": "71270"
+      },
+      "romeCode": "K2306",
+      "romeLibelle": "Responsable de site éco-industriel",
+      "appellationlibelle": "Responsable d'usine d'épuration des eaux",
+      "entreprise": {
+        "nom": "ATYX"
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "2 An(s)",
+      "salaire": {},
+      "complementExercice": "Temps plein",
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/7093609",
+        "partenaires": [
+          {
+            "nom": "PMEJOB",
+            "url": "https://www.jobposting.pro/emploi-2705938-120",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/pmejob80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "6994463",
+      "intitule": "Responsable Réalisations Traitement d'Eau (H/F)",
+      "description": "Au sein de la Direction Commerciale et Opérationnelle et rattaché(e) au Responsable de Département Produit Traitement d'Eau, vous êtes garant(e) de la performance opérationnelle des projets industriels réalisés en France et à l'international.\n\nVous pilotez l'ensemble des affaires, de la commande jusqu'à la mise en service et la signature du procès-verbal de réception, dans le respect des engagements coûts, délais, qualité et marges.\n\nMissions\n\nPilotage des projets industriels :\n\n- Garantir la performance technico-économique et contractuelle des affaires.\n- Être l'interlocuteur principal du client de la commande à la réception finale.\n- Superviser des projets complexes clé en main impliquant plusieurs Business Units internes et/ou partenaires externes.\n- Veiller au respect des cahiers des charges, des offres techniques et commerciales, des budgets et des plannings.\n- Assurer le reporting technique et budgétaire régulier de l'avancement des affaires.\n\nManagement et coordination :\n\n- Encadrer les Chargés d'Affaires, les équipes Mise en Service et le Bureau d'Études en charge des réalisations.\n- Contribuer au développement et à la structuration des équipes au sein de la Business Unit Traitement d'Eau.\n- Collaborer étroitement avec les filiales et sociétés du Groupe.\n- Travailler en lien avec les équipes SAV Travaux, Achats, Logistique et Magasin.\n\nOptimisation et amélioration continue :\n\n- Veiller à la bonne application des processus SMQ et à la qualité d'exécution des affaires.\n- Optimiser les coûts liés aux consultations, achats et prestations de sous-traitance.\n- Vérifier les dimensionnements techniques des équipements et installations.\n- Capitaliser sur les retours d'expérience et assurer la transmission des enseignements au sein du service.\n  \n Formation\n\n- Diplôme d'ingénieur ou équivalent (Bac+5).\n\nExpérience\n\n- Minimum 10 ans d'expérience opérationnelle dans une fonction similaire.\n- Expérience confirmée en gestion de projets dans la construction de stations de traitement d'eau.\n- Connaissances en traitement des eaux de process et réutilisation des eaux.\nCompétences techniques\n\n- Conduite de projets industriels complexes.\n- Solides connaissances en environnement industriel : hydraulique, chimie, électricité basse tension, automatisme, chaudronnerie, chaufferie.\n- Maîtrise des outils bureautiques (Pack Office) et des progiciels de gestion intégrée (ERP, CRM).\n- Maîtrise de l'anglais.\n\nQualités attendues\n\n- Autonomie et rigueur technique.\n- Sens des responsabilités et engagement sur les délais, budgets et marges.\n- Capacité d'analyse et d'optimisation.\n- Persévérance, transparence et sens du service client.\n- Excellentes capacités d'écoute, de communication et de rédaction.\n\nRémunération attractive selon profil et expérience, incluant : 13éme mois, primes d'objectifs, prime de participation et d'intéressement, RTT.",
+      "dateCreation": "2026-09-18T16:46:07.403Z",
+      "dateActualisation": "2026-09-18T16:46:07.403Z",
+      "lieuTravail": {
+        "libelle": "94 - Chevilly-Larue",
+        "codePostal": "94550",
+        "commune": "94021"
+      },
+      "romeCode": "K2316",
+      "romeLibelle": "Responsable d'usine de production d'eau potable",
+      "appellationlibelle": "Responsable d'usine de production d'eau potable",
+      "entreprise": {
+        "nom": "BABCOCK WANSON"
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "10 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "71.12B",
+      "secteurActivite": "71",
+      "secteurActiviteLibelle": "Ingénierie,études techniques",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6994463",
+        "partenaires": [
+          {
+            "nom": "TALENTPLUG",
+            "url": "http://app.mytalentplug.com/description-offre.aspx?ojid=TPd33V5iIJ39vzSDaAUVWA==",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/talentplug80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "6747225",
+      "intitule": "Responsable d'une station de traitement ou d'épuration des eaux (H/F)",
+      "description": "Description du poste :\n\nDans le cadre du développement de son activité, nous recherchons pour notre client, un Gestionnaire station traitement (H/F) à CHAUMONT - 52000 en CDI.\n\n\nVos missions Conduite de la station de traitement suivant manuel constructeur et consigne environnement Tenue journalière des documents de suivi station Entretien et suivi du fonctionnement du séparateur à hydrocarbures et décanteurs Collecte des DIB devant les ateliers Collecte des DIS sur points de regroupements internes et élimination suivant législation en vigueur Assure les opérations de chargement/déchargement selon règlementation TMD Réalise les audits TMD (livraisons produits chimiques Respecte les règles de sécurité usine et règles spécifiques à l'environnement Interventions ponctuelles de débouchage sur réseaux d'égouts Vidange des fosses septiques Maintenance premier niveau sur réseaux d'eau potable et industrielle Participation active à l'optimisation de la gestion de l'eau dans l'entreprise Prélèvement, conditionnement et expédition d'échantillons, solides, liquides ou gazeux pour analyses Réalisation d'analyses de terrain Régénération de l'ensemble des échangeurs d'ions de l'entreprise\n\nDescription du profil Expérience de 1 à 2 ans dans le domaine du traitement des eaux Formation de niveau BAC+2 dans le domaine de la gestion de l'eau Connaissances des normes et réglementations en vigueur dans le traitement des eaux Capacité à travailler de manière autonome et en équipe Sens de l'organisation et rigueur dans l'exécution des tâches\n\n\nSi vous souhaitez mettre à profit votre expérience au sein d'une entreprise, n'hésitez pas à postuler pour ce poste de Gestionnaire station traitement (H/F) à CHAUMONT - 52000 en CDI.",
+      "dateCreation": "2026-09-09T03:34:49.968Z",
+      "dateActualisation": "2026-09-09T03:34:49.968Z",
+      "lieuTravail": {
+        "libelle": "52 - Chaumont",
+        "codePostal": "52000",
+        "commune": "52121"
+      },
+      "romeCode": "K2316",
+      "romeLibelle": "Responsable d'usine de production d'eau potable",
+      "appellationlibelle": "Responsable de station d'épuration",
+      "entreprise": {
+        "nom": "ENGINEERING CONCEPTION MAINTENANCE"
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "1 An(s)",
+      "salaire": {},
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/6747225",
+        "partenaires": [
+          {
+            "nom": "METEOJOB",
+            "url": "https://www.meteojob.com/jobs/56663139?utm_source=pole-emploi&utm_medium=aggregator-free",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/meteojob80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "4507362",
+      "intitule": "Responsable d'équipe usines eau et assainissement H/F",
+      "description": "Vos missions principales sont les suivantes :Piloter au quotidien les installations du périmètre,Prévoir les moyens techniques nécessaires pour mener à bien les contrats d'exploitation,Organiser et optimiser l'activité de l'équipe,Produire les données nécessaires au pilotage et aux reportings à destination des clients et des tiers,Contribuer à la démarche développement du territoire, Vous êtes le garant du respect des normes en termes qualité, sécurité et environnement.L'astreinte vous amènera à intervenir en cas d'urgence pour garantir la continuité du service.",
+      "dateCreation": "2026-07-02T20:54:25.000Z",
+      "dateActualisation": "2026-07-21T12:50:28.000Z",
+      "lieuTravail": {
+        "libelle": "61 - Domfront en Poiraie",
+        "latitude": 48.594246,
+        "longitude": -0.650418,
+        "codePostal": "61700",
+        "commune": "61145"
+      },
+      "romeCode": "K2306",
+      "romeLibelle": "Responsable de site éco-industriel",
+      "appellationlibelle": "Responsable d'usine d'épuration des eaux",
+      "entreprise": {
+        "description": "Veolia est une multinationale leader des services à l'environnement (eau, déchets, énergie), fondée en , basée à Paris et Aubervilliers, avec environ 218 000 employés et un CA de 45 milliardsen \nRejoignez Veolia et participez à la transformation écologique !\nApportez vos talents à une entreprise qui oeuvre pour le progrès humain,  qui travaille à décarboner le monde, à le dépolluer et à le ressourcer.En France, Veolia embauche un salarié en CDI toutes les 20 minutes, et offre à tous à travers..."
+      },
+      "typeContrat": "MIS",
+      "typeContratLibelle": "Intérim - 1 Mois",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {},
+      "dureeTravailLibelle": "\nTravail en journée",
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "codeNAF": "78.10Z",
+      "secteurActivite": "78",
+      "secteurActiviteLibelle": "Activités des agences de placement de main-d'œuvre",
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/4507362",
+        "partenaires": [
+          {
+            "nom": "DIRECTEMPLOI",
+            "url": "https://www.directemploi.com/candidatOffre/51847807?utm_source=pole-emploi&utm_medium=referral&utm_campaign=Pôle-Emploi",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/directemploi80.png"
+          }
+        ]
+      },
+      "contexteTravail": {
+        "horaires": [
+          "\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "214FLNG",
+      "intitule": "Directeur de site industriel (H/F)",
+      "description": "PARTNAIRE recrute un ADJOINT RESPONSABLE DE SITE H/F pour l'un de ses clients, expert Français de la logistique in situ, qui accompagne ses clients dans l'optimisation de leur supply chain.\n\nVos missions :\nManagement et organisation\n- Encadrement et animation des équipes opérationnelles\n- Répartition et suivi des tâches quotidiennes\n- Gestion des absences et des besoins en personnel\n- Accompagnement et intégration des nouveaux collaborateurs\n- Contrôle du respect des consignes de sécurité, qualité et procédures\n- Relais du Responsable de Site en son absence\n\nGestion opérationnelle et WMS\n- Utilisation et suivi quotidien du WMS PIXI Pro\n- Suivi des entrées, sorties et mouvements de stocks\n- Contrôle des opérations et traitement des anomalies\n- Suivi de l'activité et des volumes\n- Participation au suivi des indicateurs de performance\n- Vérification de la cohérence entre les opérations physiques et les données informatiques\n\nAdministratif\n- Suivi des heures et des présences\n- Mise à jour des tableaux de suivi\n- Préparation des reportings et comptes rendus\n- Suivi des données d'activité\n- Utilisation quotidienne des outils bureautiques (Excel / Google Sheets...)\n\nRelation client\n- Réception et traitement des demandes clients\n- Suivi des demandes jusqu'à leur résolution\n- Communication avec les différents interlocuteurs du client\n- Gestion des problématiques opérationnelles\n- Remontée des sujets nécessitant un arbitrage au Responsable de Site\n\nVos horaires : 08h 12h / 13h30 16h30 du lundi au vendredi (variables)\n Nous recherchons une personne polyvalente, organisée, rigoureuse et réactive, disposant idéalement d'une première\nexpérience en :\n- Management ou animation d'équipe\n- Logistique, entrepôt ou environnement industriel\n- Utilisation d'un WMS\n- Gestion administrative et suivi d'activité\n- Relation client\nLa connaissance de PIXI Pro est un réel plus.\n\nVous devrez être à l'aise avec l'informatique, avoir un bon relationnel et être capable de gérer plusieurs sujets\nsimultanément. Une expérience en tant que Chef d'équipe, Coordinateur logistique, Adjoint Responsable ou fonction\nsimilaire serait appréciée.",
+      "dateCreation": "2026-09-22T09:56:11.225Z",
+      "dateActualisation": "2026-09-22T12:28:09.626Z",
+      "lieuTravail": {
+        "libelle": "45 - Briare",
+        "latitude": 47.639561,
+        "longitude": 2.740831,
+        "codePostal": "45250",
+        "commune": "45053"
+      },
+      "romeCode": "H1401",
+      "romeLibelle": "Responsable ordonnancement-lancement-planification en industrie",
+      "appellationlibelle": "Responsable gestion industrielle et logistique",
+      "entreprise": {
+        "nom": "PARTNAIRE",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "2 An(s)",
+      "competences": [
+        {
+          "code": "100015",
+          "libelle": "Cadre réglementaire environnemental",
+          "exigence": "S"
+        },
+        {
+          "code": "122606",
+          "libelle": "Organiser le flux des produits sur une ligne de production",
+          "exigence": "S"
+        },
+        {
+          "code": "122607",
+          "libelle": "Définir un dispositif de suivi de production",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Annuel de 22405.0 Euros à 150000.0 Euros"
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "coordonnees1": "https://job.mytalentplug.com/api/JobOffer/redirect/?id=c0b94d8f-6669-4402-afda-fe4e96727ec1",
+        "urlPostulation": "https://job.mytalentplug.com/api/JobOffer/redirect/?id=c0b94d8f-6669-4402-afda-fe4e96727ec1"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "78.20Z",
+      "secteurActivite": "78",
+      "secteurActiviteLibelle": "Activités des agences de travail temporaire",
+      "trancheEffectifEtab": "50 à 99 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214FLNG"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée"
         ]
       },
       "entrepriseAdaptee": false,
@@ -9900,6 +10051,65 @@
       "employeurHandiEngage": false
     },
     {
+      "id": "214FSFL",
+      "intitule": "Directeur de Maintenance Technique (h/f) (H/F)",
+      "description": "LHH Recruitment Solutions, cabinet de conseil en recrutement, intérim spécialisé, management de transition, et évaluation d'expert.e.s, cadres et dirigeant.es recrute pour son client, entreprise international,  1 Directeur Technique FM (H/F) basé à Paris en CDI.\n\nDans le cadre du développement des activités de Facility Management, mon client souhaite développer ses opérations de maintenance technique en interne (selfperform) sur ses sites clients. \nLe/la Directeur(trice) Technique pilote ce développement de bout en bout : il/elle définit la stratégie de bascule, construit les process et outils nécessaires, puis assure, en collaboration avec les Responsables de comptes, le management pérenne de l'activité de maintenance en propre. \n\n\nPilotage du développement des opérations selfperform. -     Piloter opérationnellement la bascule de la maintenance externalisée vers une maintenance internalisée\n-     Définir une stratégie de selfperform en s'appuyant sur les process et outils déjà en place au niveau européen, en les adaptant au contexte local\n-     Définir les gammes de maintenance préventive pour l'ensemble des équipements repris en interne et ajuster les frontières entre sous-traitance et selfperform\n-     Piloter le paramétrage de l'outil de GMAO\n-     Coordonner, par projet, avec le management de transition et les équipes commerciales, la mise en place des opérations\n\nManagement opérationnel et technique du selfperform. -     Assurer, en collaboration avec les Responsables de comptes, le suivi des opérations selfperform : management de l'équipe de maintenance, organisation des plannings d'astreinte, animation et formation continue des techniciens, contrôle qualité des interventions\n-     Superviser la maintenance préventive et corrective des équipements, faire évoluer les gammes de maintenance dans le temps\n-     Arbitrer le recours ponctuel à des prestataires spécialisés pour les interventions hors compétences internes\n-     Assurer le suivi de la GMAO, garantir la traçabilité des interventions et la remontée des indicateurs de performance (taux de disponibilité, respect des gammes, délais d'intervention) auprès de la direction et des clients\n\n. Contrat : CDI\nStatut : Cadre \n\nPackage rémunération : \n\n - Fixe : 70k€ à 80k€\n - Bonus : 15%\n - Véhicule de fonction \nPrise de poste : Janvier 2027 \n\n\nFormation & expérience. -     Formation technique de niveau Bac+4 à Bac+5 (licence professionnelle ou école d'ingénieur) en génie technique, maintenance industrielle, CVC ou électricité\n-     Au moins 10 ans d'expérience en maintenance multitechnique, dont une expérience significative en pilotage de projet et en management d'équipe\n-     Réelles compétences dans les domaines CVC / Électricité / GTB\n\nCertifications & habilitations. -     Habilitations électriques requises pour l'encadrement d'équipes techniques (BR/B2V/BC selon le périmètre)\n-     Connaissances réglementaires solides en sécurité incendie et ERP\n-     Certification ou sensibilisation QHSE (type MASE) appréciée\n\nCompétences techniques. -     Maîtrise de la construction de plans de maintenance préventive\n-     Maîtrise d'un ou plusieurs outils de GMAO/CMMS (paramétrage et exploitation)\n-     Compétences en gestion de projet, en gestion budgétaire et en pilotage de la performance\n-     Compétences informatiques avancées : Microsoft Office, Power BI, SharePoint, outils d'IA\n\nCompétences comportementales. -     Leadership affirmé pour recruter et fédérer une équipe naissante\n-     Excellent sens du service client et de la communication\n-     Capacité à accompagner les équipes commerciales dans leurs démarches\n-     Rigueur, autonomie et capacité à structurer une activité nouvelle\n-     Anglais professionnel requis\n",
+      "dateCreation": "2026-09-22T11:32:46.451Z",
+      "dateActualisation": "2026-09-22T11:32:46.764Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris 8e Arrondissement",
+        "latitude": 48.877495,
+        "longitude": 2.317589,
+        "codePostal": "75008",
+        "commune": "75108"
+      },
+      "romeCode": "I1102",
+      "romeLibelle": "Ingénieur / Ingénieure de maintenance industrielle",
+      "appellationlibelle": "Responsable technique maintenance et travaux neufs en ind",
+      "entreprise": {
+        "nom": "ADECCO",
+        "description": "LHH Recruitment Solutions, cabinet spécialisé en recrutement et évaluation d'experts, cadres et dirigeants, vous accompagne tout au long de votre parcours professionnel pour bâtir un  Beautiful Working World.  À l'écoute de vos ambitions, nos spécialistes en recrutement vous conseillent et vous guident afin de vous épanouir et d'atteindre la prochaine étape de votre carrière dans un environnement de travail inspirant et harmonieux.",
+        "logo": "https://api.francetravail.fr/exp-rechercheoffre/v1/logo-entreprise/ZAhXOVNnbb3PUCQmzCFTgFt25FcDo1mJ",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "5 An(s)",
+      "salaire": {
+        "libelle": "Annuel de 70000.0 Euros à 75000.0 Euros"
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {
+        "nom": "ADECCO - M. MATHIEU LOUPS ",
+        "coordonnees1": "https://tnl2.jometer.com/v2/job?jz=5slp6717c61456bfe30f11828f84bf21a2cc1AEADECAAAADAAAAAAAAAAAAAAAAGXFI5CI&utm_source=FranceTravail&utm_medium=jobboard&utm_campaign=LHH_Organic&Source=30",
+        "urlPostulation": "https://tnl2.jometer.com/v2/job?jz=5slp6717c61456bfe30f11828f84bf21a2cc1AEADECAAAADAAAAAAAAAAAAAAAAGXFI5CI&utm_source=FranceTravail&utm_medium=jobboard&utm_campaign=LHH_Organic&Source=30"
+      },
+      "agence": {},
+      "nombrePostes": 1,
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "78.20Z",
+      "secteurActivite": "78",
+      "secteurActiviteLibelle": "Activités des agences de travail temporaire",
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214FSFL"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "214CDDW",
       "intitule": "Directeur Etudes F/H (H/F)",
       "description": "Dans le cadre de notre structuration et pour supporter notre croissance, nous recherchons, un(e) Directeur/trice d'Études (F/H), au sein de notre agence de Villeurbanne (69). \n\nEn tant que garant de l'ensemble de la phase de conception sur nos projets Clés en Mains de bâtiments complexes, vous pilotez la conception technique TCE en lien avec l'ensemble des équipes Etudes associées. Travaillant en en étroite collaboration avec les Directeurs de Projets et les équipes Travaux, vous assurez la bonne interface entre les attentes du client et la réalité technique du projet.\n\nImpliqué(e) de la phase de conception à la réalisation, vos missions seront de :\n\n * Participer aux phases montages d'offres et de chiffrage des projets,\n * Définir, avec une équipe de spécialistes, les orientations techniques du projet,\n * Piloter la conception et définir un référentiel technique commun,\n\n * Identifier, évaluer et piloter les risques techniques liés aux études, avec le soutien du PMO régional,\n * Coordonner les interlocuteurs internes et externes et assurer le suivi des livrables (qualité/coût/délais),\n * Garantir la continuité entre conception et exécution jusqu'à la livraison du projet et s'assurer du respect des normes et des objectifs de performance,\n * Capitaliser les retours d'expérience et proposer des solutions innovantes dans une logique de veille technologique continue.\n\n\nIngénieur(e) de formation (Bac+5), vous justifiez d'au moins 10 ans d'expérience en ingénierie ou en entreprise générale, avec une solide maîtrise du pilotage d'études techniques pluridisciplinaires sur des projets de bâtiments avec des lots techniques complexes. \n\nVotre leadership, votre rigueur et votre sens du collectif font de vous un pilier pour structurer et animer les équipes projet. La connaissance des environnements TCE, la pratique de la gestion analytique, ainsi qu'un bon niveau d'anglais sont des atouts pour réussir à ce poste.",
@@ -11374,194 +11584,6 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "213BLXP",
-      "intitule": "DIRECTEUR BUREAU D'ÉTUDES MÉCANIQUE (H/F)",
-      "description": "Poste à pourvoir dès que possible\n\nVos missions :\n\nSupervision d'une équipe de techniciens et ingénieurs\nAssurer le suivi des plannings de conception\nAccompagner les équipes dans la résolution des problématiques techniques\nPiloter la résolution des problématiques transverses avec l'ensemble des départements\nDéfinir et formaliser les besoins clients pour le développement de nouveaux équipements\nGarantir la conformité des développements aux normes et exigences réglementaires en vigueur\nPiloter la réalisation, les essais et la validation des échantillons\nPiloter l'industrialisation et le lancement en production série des nouveaux produits\nCollaborer avec les services Qualité et Production pour analyser et résoudre les dysfonctionnements\nRéaliser des plans sur SolidWorks\nLivrer le dossier crédit impot recherche et innovation\n\nVotre profil :\n\nEtre inventif\nPassionné par la mécanique\nMaitrise de SolidWorks ou équivalent\nSavoir élaborer et suivre des plannings de plusieurs projets parallèles\nExpérience en développement au sein d'un bureau d'études dans le secteur de l'industrie mécanique\nConnaissances solides en mécaniques des fluides, automatismes, sciences des matériaux, techniques de fabrication\nConnaissances en électronique\nNiveau de français et anglais courant exigé (parlé et écrit)\n\nVos avantages :\n\nRémunération fixe : à négocier selon le profil\nPrime sur objectif si applicable\nPrime à la signature si applicable\nPrime Early bird si applicable\nWelcome pack\nAccord de participation aux bénéfices\nComité d'entreprise - achats à prix réduit\nParticipation à la complémentaire santé\nPrime de présence\nPrime de cooptation\nParticipation au transport domicile/travail à partir de 10km jusqu'à 55km pour un trajet par jour (soit 110 km l'aller-retour)\nPrise en charge du transport en commun domicile/travail à 100% jusqu'à 55km pour un trajet par jour (soit 110 km l'aller-retour)\nChargement gratuit à des bornes pour vélo électrique, moto électrique et voiture électrique\nConvention de la métallurgie (prime d'ancienneté, jours d'ancienneté)\nUne prévoyance dont 43% de la cotisation est prise en charge par l'employeur\nEpargne salariale\nAide à la mobilité (action logement)\nDu lundi au vendredi, repos le weekend\nProcessus d'intégration\nFormation continue\nFormation interne et externe\nAccompagnement vers la polyvalence\nInteraction avec de nombreux services\nPromotion interne\nPossibilité d'évolution (direction)\n\nAutres informations :\n\nDépartement : Recherche et Développement produits\nType de contrat : Contrat à durée indéterminée (CDI), Temps plein\nDurée du contrat : indéterminée\nDate de début : dès que possible\nHoraire : 8H00-12H00 et de 12H50-16H50 du lundi au jeudi et 8H00-12H00 et de 12H50-15H50 le vendredi (soit un total de 39H par semaine)\nDéplacement : à Nogent-sur-Seine\nTélétravail : non\nPoste ouvert aux personnes en situation de handicap",
-      "dateCreation": "2026-08-28T10:40:33.352Z",
-      "dateActualisation": "2026-08-28T10:40:33.923Z",
-      "lieuTravail": {
-        "libelle": "10 - Nogent-sur-Seine",
-        "latitude": 48.492518,
-        "longitude": 3.498124,
-        "codePostal": "10400",
-        "commune": "10268"
-      },
-      "romeCode": "H1206",
-      "romeLibelle": "Ingénieur / Ingénieure R&D en industrie",
-      "appellationlibelle": "Directeur / Directrice de bureau d'études en industrie",
-      "entreprise": {
-        "nom": "CRAN",
-        "description": "Rejoignez-nous pour accompagner notre croissance, relever de grands défis, découvrir une structure internationale et apprendre aux côtés de collaborateurs passionnés. Nous sommes engagés et nous soutenons l'égalité. Nous respectons les différences et nous sommes en faveur de la diversité. Le premier entretien sera fait par téléphone en anglais. \nToutes les mesures d'hygiène et de sécurité préconisées par le gouvernement sont mises en place et évaluées régulièrement.",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "3 An(s)",
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "code": "300488",
-          "libelle": "Concevoir et gérer un projet",
-          "exigence": "S"
-        },
-        {
-          "code": "124529",
-          "libelle": "Déterminer des axes d'évolution technologiques",
-          "exigence": "S"
-        },
-        {
-          "libelle": "Maîtrise d'Excel",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "commentaire": "à négocier selon le profil"
-      },
-      "dureeTravailLibelle": "39H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "CRAN - Mme Alexandra GRANDPIERRE",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213BLXP",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213BLXP"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "qualificationCode": "6",
-      "qualificationLibelle": "Employé qualifié",
-      "codeNAF": "72.19Z",
-      "secteurActivite": "72",
-      "secteurActiviteLibelle": "Recherche-développement en autres sciences physiques et naturelles",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Faire preuve de rigueur et de précision",
-          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
-        },
-        {
-          "libelle": "Faire preuve d'autonomie",
-          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
-        },
-        {
-          "libelle": "Faire preuve de réactivité",
-          "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance."
-        }
-      ],
-      "trancheEffectifEtab": "20 à 49 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213BLXP"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "39H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "213BLRL",
-      "intitule": "ADJOINT DIRECTEUR R&D MÉCANIQUE ET ÉLECTRONIQUE (H/F)",
-      "description": "Dans le cadre du développement de la société CRAN, vous assisterez le directeur du bureau d'études dans ses activités.\n\nPoste à pourvoir dès que possible\n\nVos missions :\nRéaliser le cahier des charges des appareils à créer avec les clients\nRéaliser les plans sur SolidWorks\nConcevoir et faire fabriquer les prototypes puis les tester\nRéaliser les essais d'appareils pour études ou pour la clientèle\nSuivre les plannings des projets en cours et la communication avec le client\nProposer des améliorations\n\nVotre profil :\nEtre inventif\nPassionné par la mécanique\nSavoir élaborer et suivre des plannings de plusieurs projets parallèles\nExpérience en développement au sein d'un bureau d'études dans le secteur de l'industrie mécanique\nConnaissances solides en mécaniques des fluides, automatismes, sciences des matériaux, techniques de fabrication\nConnaissances solides en électronique\n\nVos avantages :\nPrimes (sur objectif si applicable, à la signature si applicable, présence, cooptation)\nWelcome pack\nAccord de participation aux bénéfices\nComité d'entreprise - achats à prix réduit\nParticipation à la complémentaire santé\nParticipation au transport domicile/travail à partir de 10km jusqu'à 55km pour un trajet par jour\nPrise en charge du transport en commun domicile/travail à 100% jusqu'à 55km pour un trajet par jour\nChargement gratuit à des bornes pour vélo électrique, moto électrique et voiture électrique\nConvention de la métallurgie (prime d'ancienneté, jours d'ancienneté)\nUne prévoyance dont 43% de la cotisation est prise en charge par l'employeur\nEpargne salariale\nAide à la mobilité (action logement)\nProcessus d'intégration\nFormation interne et externe, continue\nAccompagnement vers la polyvalence\nInteraction avec de nombreux services\nPromotion interne\nPossibilité d'évolution (junior, confirmé, sénior, adjointe / adjoint responsable, responsable, direction)\n\nAutres informations :\nDépartement : Recherche et Développement produits\nHoraire : 8H00-12H00 et de 12H50-16H50 du lundi au jeudi et 8H00-12H00 et de 12H50-15H50 le vendredi (soit un total de 39H par semaine)\nTélétravail : non\nPoste ouvert aux personnes en situation de handicap",
-      "dateCreation": "2026-08-28T10:35:07.328Z",
-      "dateActualisation": "2026-08-28T10:35:07.888Z",
-      "lieuTravail": {
-        "libelle": "10 - NOGENT SUR SEINE",
-        "latitude": 48.492518,
-        "longitude": 3.498124,
-        "codePostal": "10400",
-        "commune": "10268"
-      },
-      "romeCode": "H1206",
-      "romeLibelle": "Ingénieur / Ingénieure R&D en industrie",
-      "appellationlibelle": "Ingénieur / Ingénieure R&D en industrie",
-      "entreprise": {
-        "nom": "CRAN",
-        "description": "Rejoignez-nous pour accompagner notre croissance, relever de grands défis, découvrir une structure internationale et apprendre aux côtés de collaborateurs passionnés. Nous sommes engagés et nous soutenons l'égalité. Nous respectons les différences et nous sommes en faveur de la diversité. Le premier entretien sera fait par téléphone en anglais. \nToutes les mesures d'hygiène et de sécurité préconisées par le gouvernement sont mises en place et évaluées régulièrement.",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "1 An(s)",
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "code": "300488",
-          "libelle": "Concevoir et gérer un projet",
-          "exigence": "S"
-        },
-        {
-          "code": "124529",
-          "libelle": "Déterminer des axes d'évolution technologiques",
-          "exigence": "S"
-        },
-        {
-          "libelle": "Maitrise de SolidWorks ou équivalent",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "commentaire": "à négocier selon le profil"
-      },
-      "dureeTravailLibelle": "39H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "CRAN - Mme Alexandra GRANDPIERRE",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213BLRL",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213BLRL"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "qualificationCode": "5",
-      "qualificationLibelle": "Employé non qualifié",
-      "codeNAF": "72.19Z",
-      "secteurActivite": "72",
-      "secteurActiviteLibelle": "Recherche-développement en autres sciences physiques et naturelles",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Faire preuve de rigueur et de précision",
-          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
-        },
-        {
-          "libelle": "Faire preuve d'autonomie",
-          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
-        },
-        {
-          "libelle": "Faire preuve de réactivité",
-          "description": "Capacité à réagir rapidement face à des évènements et à des imprévus, en hiérarchisant les actions, en fonction de leur degré d'urgence / d'importance."
-        }
-      ],
-      "trancheEffectifEtab": "20 à 49 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213BLRL"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "39H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
       "id": "212YGXF",
       "intitule": "Directeur / Directrice des études et du développement en industri (H/F)",
       "description": "CDI, à temps plein, Grade E\nBasé à Tours (Indre-et-Loire, 37), France\nDès que possible\nDoctorat ou Diplôme scientifique équivalent en sciences végétales, agronomie ou disciplines liées à l'agriculture\nCompétences avérées en leadership et en management d'équipe\nDéplacements professionnels : 20 % du temps environ\n \nVous serez chargé d'apporter une orientation stratégique aux initiatives de recherche en sciences végétales, en tant que Responsable du Département Sciences Végétales. Votre rôle est essentiel pour soutenir l'approvisionnement durable et la différenciation des matières premières clés, ainsi que pour répondre aux enjeux globaux et régionaux impactant les systèmes de production agricole et l'approvisionnement en ingrédients.\n\nVous piloterez le portefeuille de projets en sciences végétales, avec un fort accent sur la préservation de l'environnement, l'assurance qualité, la robustesse des chaînes d'approvisionnement et l'innovation. Votre leadership et votre expertise seront déterminants pour faire progresser la recherche et garantir l'alignement entre les initiatives du département, les objectifs de l'entreprise et les priorités globales. \n\nVos missions au quotidien :\nDiriger, coacher et responsabiliser les collaborateurs, en développant leur potentiel non seulement au sein des Sciences Végétales, mais plus largement au sein de l'Institut NIAS\nDévelopper et renforcer l'expertise scientifique et le savoir-faire technique en sciences végétales, systèmes de production agricole et chaînes d'approvisionnement en ingrédients, notamment via la conception de projets de recherche translationnelle inter-départements soutenant directement la qualité et la différenciation des produits\nMettre en place et renforcer des collaborations externes avec des scientifiques de renom en sciences végétales et agronomie, ainsi que des partenariats stratégiques avec des acteurs industriels et des organismes publics\nAssurer une veille active sur les technologies émergentes en sciences végétales et évaluer leur potentiel d'application au sein des chaînes d'approvisionnement Nestlé\nFavoriser la collaboration transverse et pluridisciplinaire autour d'objectifs communs, afin de construire un portefeuille Sciences Végétales compétitif, innovant et soutenu par le business\nGarantir la réalisation des projets, des délais et du budget, incluant une documentation et des publications efficaces, ainsi que la gestion de la propriété intellectuelle lorsque pertinent\nEntretenir des relations étroites avec la R&D et les Opérations et être une voix crédible et reconnue au sein et en dehors de Nestlé, notamment auprès des autorités externes et leaders d'opinion\nVeiller à la conformité juridique du département, dans le respect de la législation et des politiques de Nestlé en France\nDéfinir, sécuriser et piloter les ressources financières en cohérence avec les priorités R&D de Nestlé\nEncourager l'engagement et le respect des valeurs et politiques de Nestlé, en renforçant notre exigence d'excellence et d'intégrité.\n \nA PROPOS DE VOUS\nDoctorat ou Diplôme scientifique équivalent en sciences végétales, agronomie ou disciplines liées à l'agriculture\nCompétences solides en leadership et management d'équipe, avec une expérience confirmée dans la création et l'animation d'équipes pluridisciplinaires\nExpérience réussie à un niveau senior au sein d'organisations matricielles, avec d'excellentes compétences en gestion des parties prenantes\nExcellente connaissance des plateformes technologiques établies et émergentes en sélection végétale, avec une expérience avérée dans la mise en place et la gestion de collaborations externes\nConnaissance actualisée de l'agriculture régénératrice\nExpérience reconnue dans l'utilisation de la data science et des nouvelles technologies\n\nNestlé Research est basé à Lausanne, en Suisse, emploie environ 1000 personnes et est composé de cinq instituts.",
@@ -11691,140 +11713,6 @@
       },
       "entrepriseAdaptee": false,
       "employeurHandiEngage": true
-    },
-    {
-      "id": "212XFKM",
-      "intitule": "Directeur de Production (H/F)",
-      "description": "Donnez un nouvel élan à une entreprise en pleine transformation\nNotre client est un acteur reconnu de la formation professionnelle dédié aux entreprises industrielles. Engagé dans une dynamique de développement et d'innovation, il accompagne les industriels dans la montée en compétences de leurs collaborateurs grâce à une offre à forte valeur ajoutée.\nDans le cadre de sa stratégie de développement et de la transformation en cours, nous recrutons un(e) Directeur de Production H/F capable de définir la feuille de route de son département, de fédérer les équipes, d'accélérer le développement de l'activité et d'assurer la production des différents sites.\nVotre mission\nMembre du comité de direction et rattaché(e) à la Direction Générale, vous définissez, pilotez et optimisez l'ensemble des activités de production des prestations de formation afin de garantir leur qualité, leur rentabilité et leur conformité réglementaire. Vous traduisez la stratégie en organisation opérationnelle performante et accompagnez sa transformation et son développement.\nVos principales missions stratégiques\n1. Décliner la stratégie \n- Décliner les orientations définies par le codir en plans d'action opérationnels. \n- Adapter les capacités de production aux objectifs de développement. \n- Intégrer les évolutions du marché de la formation \n- Définir et déployer la politique d'investissements\n2. Piloter la performance opérationnelle\n- Optimiser les processus de production des formations. \n- Garantir le respect des budgets, des délais, de la qualité et de la sécurité. \n- Définir et suivre les indicateurs de performance (KPI) \n3. Garantir la qualité et la conformité\n- Assurer le respect des exigences réglementaires (notamment Qualiopi). \n- Veiller à l'amélioration continue des processus et piloter les plans d'amélioration de son périmètre. \n4. Manager les ressources\n- Accompagner les managers des équipes de production (Une trentaine de personnes)\n- Développer un management favorisant l'autonomie des collaborateurs, le développement de leurs compétences et leur implication\n- Optimiser la gestion des formateurs internes et externes. \n5. Optimiser la rentabilité\n- Arbitrer les moyens humains, matériels et financiers. \n- Optimiser les coûts de production et améliorer la marge des prestations sans dégrader la qualité. \n- Digitaliser les processus. \n- Développer l'utilisation des ressources communes du réseau. \n- Déployer des outils de pilotage (tableaux de bord). \n6. Contribuer au développement de l'organisme\n- Accompagner la transformation en cours \n- Participer à la création de nouvelles offres de formation. \n- Contribuer à l'animation et au développement des partenariats \n\nLe profil recherché\nVous êtes un véritable manager de production, doté d'une forte culture du résultat et d'une vision stratégique.\nIssu(e) d'une formation supérieure, vous justifiez d'une expérience de 10 ans dans une fonction de management d'équipes de production acquise dans un environnement industriel vous a permis de développer votre esprit d'entreprise, votre sens du service client et votre capacité à respecter les engagements en termes de sécurité, qualité, coût et délai.\n\n\nVous êtes reconnu(e) pour :\n- Votre leadership et votre capacité à manager/ fédérer les équipes ;\n- Votre aptitude à piloter la performance par des indicateurs dans une logique d'optimisation ;\n- Votre connaissance des enjeux du monde industriel et des entreprises ;\n- Votre capacité à créer des partenariats de confiance sur le long terme ;\n- Votre autonomie, votre esprit d'initiative et votre capacité à conduire le changement.\nAu-delà de votre parcours, nous recherchons un manager de terrain, capable d'allier vision stratégique et déploiement opérationnel.",
-      "dateCreation": "2026-08-25T15:48:27.900Z",
-      "dateActualisation": "2026-09-16T16:02:23.099Z",
-      "lieuTravail": {
-        "libelle": "64 - Pau",
-        "latitude": 43.294675,
-        "longitude": -0.370792,
-        "codePostal": "64000",
-        "commune": "64445"
-      },
-      "romeCode": "H2507",
-      "romeLibelle": "Responsable de ligne de production industrielle",
-      "appellationlibelle": "Manager de production",
-      "entreprise": {
-        "nom": "SAS TALENTS & CARRIERE",
-        "description": "TALENTS & CARRIERE est spécialisé dans la gestion de carrière, la détection et le développement des talents, la transformation RH des organisations et l?accompagnement du dirigeant dans le pilotage de l?entreprise.Sous cette entité, un réseau de consultants expérimentés, présents en Aquitaine et en région Parisienne ont plaisir à partager 3 valeurs : la passion de l?humain, le respect des engagements et le bien vivre au travail.",
-        "url": "https://www.talents-carriere.fr/",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "10 An(s)",
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "S"
-        }
-      ],
-      "permis": [
-        {
-          "libelle": "B - Véhicule léger",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "code": "122112",
-          "libelle": "Analyse de données de production",
-          "exigence": "S"
-        },
-        {
-          "code": "402226",
-          "libelle": "Favoriser un environnement de travail collaboratif",
-          "exigence": "S"
-        },
-        {
-          "code": "402038",
-          "libelle": "Animer et diriger les équipes de production",
-          "exigence": "S"
-        },
-        {
-          "code": "300312",
-          "libelle": "Mettre en place des solutions d'amélioration de la performance",
-          "exigence": "S"
-        },
-        {
-          "code": "300175",
-          "libelle": "Piloter la gestion de la production, de l'exploitation",
-          "exigence": "S"
-        }
-      ],
-      "salaire": {
-        "libelle": "Annuel de 55000.0 Euros à 60000.0 Euros - Variable sur objectifs",
-        "commentaire": "Variable sur objectifs",
-        "complement1": "Véhicule",
-        "complement2": "Ordinateur portable",
-        "listeComplements": [
-          {
-            "code": "2",
-            "libelle": "Véhicule"
-          },
-          {
-            "code": "4",
-            "libelle": "Ordinateur portable"
-          },
-          {
-            "code": "7",
-            "libelle": "Complémentaire santé"
-          },
-          {
-            "code": "3",
-            "libelle": "Téléphone mobile"
-          }
-        ]
-      },
-      "dureeTravailLibelle": "37H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "SAS TALENTS & CARRIERE - Mme Sylvie DAVID",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212XFKM",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/212XFKM"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "deplacementCode": "2",
-      "deplacementLibelle": "Ponctuels Zone départementale",
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "96.09Z",
-      "secteurActivite": "96",
-      "secteurActiviteLibelle": "Autres services personnels n.c.a.",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Avoir le sens du service",
-          "description": "Capacité à identifier (voire anticiper) les besoins des usagers, clients (internes et externes) et à apporter une réponse adaptée afin de les satisfaire."
-        },
-        {
-          "libelle": "Organiser son travail selon les priorités et les objectifs",
-          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
-        },
-        {
-          "libelle": "Avoir l'esprit d'équipe",
-          "description": "Capacité à travailler et à se coordonner avec les autres au sein de l'entreprise pour réaliser les objectifs fixés."
-        }
-      ],
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/212XFKM"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "37H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
     },
     {
       "id": "211GMZZ",
@@ -12440,6 +12328,84 @@
       "origineOffre": {
         "origine": "1",
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213YQXJ"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "35H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "213XGBX",
+      "intitule": "Chef d'atelier (H/F)",
+      "description": "Faisons CONNAISSANCE !\nL'Œuvre Saint Léonard est une Association Reconnue d'utilité publique, qui agit en faveur de l'inclusion depuis 160 ans. Sa mission est d'accompagner des personnes adultes en situation de handicap (trouble de développement intellectuel et troubles psychiques), tout au long de leur parcours de vie. À ce jour, l'OSL gère un ESAT, un Foyer d'Hébergement, un Foyer de Vie, un Accueil de Jour, un Domicile Collectif et un SAVS, au sein desquels 140 salariés accompagnent 260 personnes. En intégrant le collectif de travail de l'OSL, vous contribuerez à la mise en œuvre du projet de vie des personnes que nous accompagnons. Votre mission repose sur des valeurs de bientraitance et de considération des usagers. Elle s'exerce dans le respect de la singularité de chaque personne, avec le souci permanent de reconnaître et valoriser son pouvoir d'agir. Lieu d'inclusion professionnelle, l'ESAT propose des activités variées et des conditions de travail adaptées à toutes les compétences dans les métiers du conditionnement, de la logistique, de l'électricité, de la mécanique, des espaces-verts.\n\nVotre rôle : Un poste clé entre production, management et accompagnement.\nRattaché.e à la direction, vous pilotez une activité de production en ESAT (principalement de la sous-traitance industrielle) en conciliant management d'équipe et accompagnement de personnes en situation de handicap. Grâce à votre expertise, vous adaptez l'organisation du travail pour créer un environnement sécurisant, structurant et inclusif, permettant à chacun de développer ses compétences. \n\nVos MISSIONS : \nVous fédérez et soutenez vos équipes dans leur mission d'accompagnement :\n- Vous animez une équipe d'environ 8 moniteur.trices d'atelier (4 ateliers avec 2 moniteur.trices) \n- Vous les aidez à prendre du recul sur les situations complexes de personnes accompagnées et êtes force de proposition pour y apporter des aménagements\n- Vous impulsez une culture commune conciliant exigence professionnelle, et bienveillance\n\nVous pilotez une activité de production adaptée :\n- Vous optimisez l'organisation et les flux de production tout en intégrant les enjeux d'adaptation individuelle des travailleurs\n- Vous mettez en œuvre les outils qualité en production pour renforcer la robustesse des processus\n- Vous veillez à maintenir un équilibre constant entre performance économique et mission sociale\n\nVous coordonnez les parcours avec les équipes pluridisciplinaires :\n- Vous travaillez en étroite collaboration avec les équipes sociales et médico-sociales\n- Vous contribuez à construire des parcours professionnels cohérents et évolutifs\n\nVous développez et adaptez les activités :\n- En lien avec le technico-commercial, les moniteurs.trices d'atelier et les équipes administratives, vous êtes un acteur central de la relation avec les clients (études de devis, industrialisation des productions, amélioration continue de la production.)\n- Vous êtes force de proposition dans le développement d'activités commerciales\n\nVotre PROFIL :\nCompétences métier : \n- Aptitudes managériales ; Connaissance du handicap ou sensibilité et expérience ; Compétences sur une partie des métiers de l'ESAT : sous-traitance industrielle principalement en montage conditionnement, usinage mécanique et métallerie, câblage électrique, logistique et entretien d'espaces verts ; Aptitudes relationnelles pour entretenir et développer les liens avec les partenaires de l'établissement \n- Maîtrise des outils informatiques ou capacité à s'approprier des outils spécifiques (Pack office, dossier de gestion de l'usager, GPAO, outil qualité des accompagnements.)     \n- Permis B fortement apprécié\n\nSavoir être : \n- Aptitudes à fédérer et impliquer une équipe de terrain dans la double mission d'un ESAT ; Capacité de communication ; Initiative et autonomie, dont capacité à rendre compte ; Capacité d'organisation et rigueur",
+      "dateCreation": "2026-09-15T14:51:19.933Z",
+      "dateActualisation": "2026-09-15T14:51:19.933Z",
+      "lieuTravail": {
+        "libelle": "69 - COUZON AU MONT D OR",
+        "latitude": 45.845515,
+        "longitude": 4.831275,
+        "codePostal": "69270",
+        "commune": "69068"
+      },
+      "romeCode": "H2510",
+      "romeLibelle": "Directeur / Directrice de production industrielle",
+      "appellationlibelle": "Directeur / Directrice de production industrielle",
+      "entreprise": {
+        "nom": "OEUVRE SAINT LEONARD",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "48 Mois",
+      "competences": [
+        {
+          "code": "402127",
+          "libelle": "Diriger un service, une structure",
+          "exigence": "S"
+        },
+        {
+          "code": "504759",
+          "libelle": "Innover dans les processus de production pour rester compétitif",
+          "exigence": "S"
+        },
+        {
+          "code": "504750",
+          "libelle": "Implémenter des normes de sécurité strictes dans l'usine",
+          "exigence": "S"
+        },
+        {
+          "code": "402038",
+          "libelle": "Animer et diriger les équipes de production",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "libelle": "Mensuel de 2752.57 Euros"
+      },
+      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {},
+      "agence": {},
+      "nombrePostes": 1,
+      "accessibleTH": false,
+      "deplacementCode": "1",
+      "deplacementLibelle": "Jamais Zone départementale",
+      "qualificationCode": "9",
+      "qualificationLibelle": "Cadre",
+      "codeNAF": "87.20A",
+      "secteurActivite": "87",
+      "secteurActiviteLibelle": "Hébergement social pour handicapés mentaux et malades mentaux",
+      "trancheEffectifEtab": "100 à 199 salariés",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213XGBX"
       },
       "offresManqueCandidats": false,
       "contexteTravail": {
