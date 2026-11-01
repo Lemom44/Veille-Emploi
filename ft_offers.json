@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:48:46.304269+00:00",
+  "generated_at": "2026-11-01T12:48:01.260419+00:00",
   "queries": [
     "directeur général",
     "directeur de business unit",
@@ -2130,212 +2130,6 @@
         "conditionsExercice": [
           "Déplacements professionnels",
           "Travail en mode projet"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "214XNKP",
-      "intitule": "Président Directeur Général / Présidente Directrice Générale -PDG (H/F)",
-      "description": "Sous l'autorité du Conseil d'administration et en étroite collaboration avec la Présidence et le Bureau exécutif, le/la Directeur(trice) Général(e) porte la stratégie de l'ATIBT, fédère ses membres et ses équipes et assure le développement, la pérennité et le rayonnement international de l'Association.\nPrincipales missions :\n- Proposer et mettre en œuvre les orientations stratégiques de l'ATIBT ;\n- Préparer et animer les instances de gouvernance et assurer le suivi de leurs décisions ;\n- Développer et diversifier les ressources financières de l'Association, notamment auprès des bailleurs, institutions et partenaires ;\n- Représenter l'ATIBT auprès des institutions européennes, africaines et internationales, des États, entreprises, ONG et partenaires techniques et financiers ;\n- Renforcer l'influence et la visibilité de l'ATIBT et développer des partenariats stratégiques ;\n- Développer et fidéliser la communauté des membres de l'ATIBT ;\n- Superviser les programmes et projets internationaux de l'Association ;\n- Veiller à la qualité technique et scientifique des travaux menés ainsi qu'au respect des engagements vis-à-vis des partenaires et bailleurs ;\n- Manager et fédérer une équipe multiculturelle répartie entre l'Europe et l'Afrique ;\n- Accompagner l'évolution de l'organisation et garantir la bonne gestion de l'Association.\nLe poste s'inscrit dans un environnement international et multiculturel et nécessite une forte capacité de représentation, de négociation et de management. Des déplacements fréquents sont à prévoir en Afrique, en Europe et à l'international.",
-      "dateCreation": "2026-10-07T13:18:36.746Z",
-      "dateActualisation": "2026-10-09T15:18:14.773Z",
-      "lieuTravail": {
-        "libelle": "94 - NOGENT SUR MARNE",
-        "latitude": 48.83919,
-        "longitude": 2.491513,
-        "codePostal": "94130",
-        "commune": "94052"
-      },
-      "romeCode": "M1301",
-      "romeLibelle": "Dirigeant / Dirigeante d'entreprise privée",
-      "appellationlibelle": "Président(e) Directeur(trice) Général(e)",
-      "entreprise": {
-        "nom": "ASS TECHNIQ INTERNATIONAL BOIS TROPICAUX",
-        "url": "https://www.atibt.org/fr",
-        "entrepriseAdaptee": false
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "5 An(s)",
-      "formations": [
-        {
-          "niveauLibelle": "Bac+5 et plus ou équivalents",
-          "commentaire": "Commerce international",
-          "exigence": "S"
-        },
-        {
-          "niveauLibelle": "Bac+5 et plus ou équivalents",
-          "commentaire": "Gestion forestière durable",
-          "exigence": "S"
-        }
-      ],
-      "langues": [
-        {
-          "libelle": "Anglais",
-          "exigence": "E"
-        },
-        {
-          "libelle": "Français",
-          "exigence": "E"
-        }
-      ],
-      "competences": [
-        {
-          "code": "476785",
-          "libelle": "Développement de partenariats",
-          "exigence": "S"
-        },
-        {
-          "code": "119705",
-          "libelle": "Gouvernance d'entreprise",
-          "exigence": "S"
-        },
-        {
-          "code": "119494",
-          "libelle": "Management stratégique",
-          "exigence": "E"
-        },
-        {
-          "code": "300337",
-          "libelle": "Définir la stratégie financière d'une structure",
-          "exigence": "E"
-        },
-        {
-          "code": "300401",
-          "libelle": "Diriger et gérer un ensemble, une structure, une organisation",
-          "exigence": "E"
-        },
-        {
-          "code": "300440",
-          "libelle": "Animer, coordonner une équipe",
-          "exigence": "E"
-        },
-        {
-          "code": "122277",
-          "libelle": "Conduire un projet de développement",
-          "exigence": "S"
-        },
-        {
-          "code": "300357",
-          "libelle": "Développer et gérer les relations internationales",
-          "exigence": "E"
-        },
-        {
-          "code": "403788",
-          "libelle": "Mobiliser une vision stratégique et d'anticipation",
-          "exigence": "E"
-        },
-        {
-          "code": "404536",
-          "libelle": "Représenter sa structure ou son service lors d'un événement ou auprès d'instances de décision",
-          "exigence": "E"
-        },
-        {
-          "libelle": "Représentation institutionnelle internationale",
-          "exigence": "E"
-        },
-        {
-          "libelle": "Pilotage de projets internationaux",
-          "exigence": "E"
-        },
-        {
-          "libelle": "Une autre langue étrangère appréciée",
-          "exigence": "S"
-        },
-        {
-          "libelle": "Réglementation internationale du commerce du bois",
-          "exigence": "S"
-        },
-        {
-          "libelle": "Développement de marchés internationaux",
-          "exigence": "S"
-        },
-        {
-          "libelle": "Management d’équipes multiculturelles",
-          "exigence": "E"
-        },
-        {
-          "libelle": "Bois tropical et durabilité",
-          "exigence": "S"
-        },
-        {
-          "libelle": "Expérience de direction à l’international",
-          "exigence": "E"
-        },
-        {
-          "libelle": "Gestion contractuelle internationale",
-          "exigence": "S"
-        },
-        {
-          "libelle": "Relations bailleurs et institutions",
-          "exigence": "E"
-        }
-      ],
-      "salaire": {
-        "commentaire": "Rémunération selon profil et expérience",
-        "complement1": "Indemnité transports",
-        "complement2": "Complémentaire santé",
-        "listeComplements": [
-          {
-            "code": "14",
-            "libelle": "Indemnité transports"
-          },
-          {
-            "code": "7",
-            "libelle": "Complémentaire santé"
-          },
-          {
-            "code": "6",
-            "libelle": "Titres restaurant / Prime de panier"
-          }
-        ]
-      },
-      "dureeTravailLibelle": "38H/semaine\nTravail en journée...",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "ASS TECHNIQ INTERNATIONAL BOIS TROPICAUX - Mme Jessica DELEKIAN",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/214XNKP",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/214XNKP"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "94.99Z",
-      "secteurActivite": "94",
-      "secteurActiviteLibelle": "Autres organisations fonctionnant par adhésion volontaire",
-      "qualitesProfessionnelles": [
-        {
-          "libelle": "Faire preuve de leadership",
-          "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
-        },
-        {
-          "libelle": "Inspirer, donner du sens",
-          "description": "Capacité à transmettre un message afin de susciter la réflexion et guider l'action."
-        },
-        {
-          "libelle": "Etre force de proposition",
-          "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
-        }
-      ],
-      "trancheEffectifEtab": "6 à 9 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214XNKP"
-      },
-      "offresManqueCandidats": false,
-      "contexteTravail": {
-        "horaires": [
-          "38H/semaine\nTravail en journée",
-          " Travail selon un rythme irrégulier et des pics d'activité"
-        ],
-        "conditionsExercice": [
-          "Déplacements professionnels"
         ]
       },
       "entrepriseAdaptee": false,
@@ -4932,6 +4726,98 @@
       "employeurHandiEngage": false
     },
     {
+      "id": "215WRPZ",
+      "intitule": "PDG / DIRIGEANT DE GARAGE AUTOMOBILE H/F (H/F)",
+      "description": "PDG / DIRIGEANT DE GARAGE AUTOMOBILE H/F\n\nLieu : Paris\nStatut : Mandataire social - Président de SAS**  \nRémunération : 2 500 € net / mois + variable selon objectifs**\n\nÀ propos du poste\n\nDans le cadre du développement de notre activité automobile, nous recherchons notre futur **Président / Dirigeant de garage automobile H/F** pour piloter et développer notre activité à Cannes.\n\nNous recherchons en priorité un professionnel **déjà expérimenté dans le secteur automobile**, idéalement ayant déjà dirigé ou exploité sa propre activité automobile.\n\nVos principales missions\n\n- Piloter l'activité et développer le chiffre d'affaires.\n- Développer la clientèle et le réseau de partenaires automobiles.\n- Représenter l'entreprise auprès des clients et partenaires.\n- Superviser l'activité commerciale du site.\n- Veiller à la satisfaction client et à la qualité du service.\n- Développer et maintenir une **excellente e-réputation** de l'entreprise.\n- Suivre les avis clients et contribuer à l'amélioration de la visibilité locale.\n- Animer et accompagner les équipes commerciales.\n- Participer au développement de l'activité et du réseau.\n\nProfil recherché\n\nNous recherchons avant tout **un véritable professionnel de l'automobile et un profil entrepreneurial**.\n\nVous disposez idéalement de :\n\n- Une expérience confirmée dans le commerce automobile.\n- Une expérience de direction ou de gestion d'une entreprise automobile.\n- Une expérience dans la vente de véhicules neufs ou d'occasion.\n- Une connaissance du fonctionnement d'un garage, d'une concession ou d'une activité automobile.\n- Une expérience en management commercial.\n- Une bonne connaissance du marché automobile local.\n- Une excellente aisance relationnelle.\n- Un réel sens commercial et entrepreneurial.\n\nCe que nous recherchons\n\nNous ne recherchons pas simplement un responsable de site.\n\nNous recherchons un dirigeant automobile capable de prendre des responsabilités, de développer l'activité et de représenter l'entreprise localement.\n\nVotre expérience entrepreneuriale, votre réseau et votre connaissance du secteur automobile seront fortement valorisés.\n\nConditions\n\nLieu : Paris \nStatut : Président / Mandataire social - SAS**  \nRémunération fixe : 2 500 € net / mois**  \n+ variable selon les résultats et objectifs**  \nMandat : 1 an renouvelable**\n\nPoste à pourvoir rapidement.\n\nQuestion de présélection\n\nAvez-vous déjà dirigé ou détenu une entreprise dans le secteur automobile, notamment avec une activité APE 4511Z ?\n\nMerci de préciser votre expérience, votre rôle et, le cas échéant, votre ancien ou actuel SIRET.",
+      "dateCreation": "2026-10-30T16:04:14.017Z",
+      "dateActualisation": "2026-10-30T16:04:14.449Z",
+      "lieuTravail": {
+        "libelle": "75 - Paris"
+      },
+      "romeCode": "M1301",
+      "romeLibelle": "Dirigeant / Dirigeante d'entreprise privée",
+      "appellationlibelle": "Président(e) Directeur(trice) Général(e)",
+      "entreprise": {
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CCE",
+      "typeContratLibelle": "Profession commerciale",
+      "natureContrat": "Emploi non salarié",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "competences": [
+        {
+          "code": "300067",
+          "libelle": "Analyser, exploiter, structurer des données",
+          "exigence": "E"
+        },
+        {
+          "code": "300009",
+          "libelle": "Concevoir et piloter une politique de gestion des ressources humaines",
+          "exigence": "E"
+        },
+        {
+          "code": "300337",
+          "libelle": "Définir la stratégie financière d'une structure",
+          "exigence": "E"
+        },
+        {
+          "code": "300401",
+          "libelle": "Diriger et gérer un ensemble, une structure, une organisation",
+          "exigence": "E"
+        }
+      ],
+      "salaire": {
+        "commentaire": "PRIMES",
+        "complement1": "Primes",
+        "complement2": "Commissions",
+        "listeComplements": [
+          {
+            "code": "1",
+            "libelle": "Primes"
+          },
+          {
+            "code": "11",
+            "libelle": "Commissions"
+          }
+        ]
+      },
+      "alternance": false,
+      "contact": {},
+      "agence": {},
+      "nombrePostes": 1,
+      "deplacementCode": "1",
+      "deplacementLibelle": "Jamais Zone départementale",
+      "qualificationCode": "8",
+      "qualificationLibelle": "Agent de maîtrise",
+      "codeNAF": "45.11Z",
+      "secteurActivite": "45",
+      "secteurActiviteLibelle": "Commerce de voitures et de véhicules automobiles légers",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Etre force de proposition",
+          "description": "Capacité à initier, imaginer des propositions nouvelles pour résoudre les problèmes identifiés ou améliorer une situation. Être proactif."
+        },
+        {
+          "libelle": "Faire preuve d'autonomie",
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+        },
+        {
+          "libelle": "Organiser son travail selon les priorités et les objectifs",
+          "description": "Capacité à planifier, prioriser, anticiper des actions, en tenant compte des moyens, des ressources, des objectifs et du calendrier pour les réaliser."
+        }
+      ],
+      "trancheEffectifEtab": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/215WRPZ"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {},
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
       "id": "215VZLX",
       "intitule": "Directeur de Business Unit (BU) (H/F)",
       "description": "IGIENAIR est une PME dynamique offrant une large gamme de services liés à la qualité de l'air intérieur. Avec 600 collaborateurs répartis sur 30 agences à travers le pays, le groupe a généré un chiffre d'affaires de 84 millions d'euros en 2023. \nDans le cadre de notre développement, nous créons un poste de Responsable de Business Unit avec pour objectif de développer notre activité, avant d'accompagner la création et le déploiement d'une future agence qui rayonnera sur les départements 87, 36, 23 et 03.\n\n Pôle Commerce et Exploitation :\n- Assurer le développement commercial du secteur géographique de l'établissement\n- Assurer la revue de contrat \n- Assurer ou s'assurer du suivi des équipes techniques\n- Optimiser le planning d'intervention\n- S'assurer de la bonne exécution des prestations et leur rentabilité (suivi des déboursés - achats et \nheures, évaluations de prestations)\n- Contrôler la facturation\n- Valider les achats\n- Valider le reporting hebdomadaire à la direction\n- Préparation des comités de pilotage \n Pôle Ressources Humaines \n- Contrôler les états récapitulatif de paies mensuels \n- Réaliser le recrutement des équipes techniques\n- Assurer l'accueil et l'intégration des nouveaux collaborateurs\n- Assurer le suivi des habilitations et de la formation\n- Réaliser et suivre la bonne tenue des entretiens annuels individuels\n Pôle Qualité, Hygiène, Sécurité et Environnement \n- Signer les plans de prévention\n- Participer à la démarche d'amélioration continue de l'entreprise\n- Faire appliquer et appliquer les consignes et règles de sécurité sur son périmètre d'activité\n- Veiller à la remontée des bonnes pratiques et des dysfonctionnements (situations dangereuses, \npresqu'accident, etc.)\n- Participer selon le planning défini à l'animation de causerie et aux réunions Santé, Sécurité, \nEnvironnement (SSE)\nLa liste des activités exposées ci-dessus est non-exhaustive et susceptible d'évolution",
@@ -7404,20 +7290,22 @@
       "employeurHandiEngage": false
     },
     {
-      "id": "8425900",
-      "intitule": "Chef de Quart - Usine de Valorisation Énergétique (H/F)",
-      "description": "Dans le cadre d'un renforcement d'équipe sur un site industriel stratégique, nous recherchons un Chef de Quart (H/F) pour piloter une usine de valorisation énergétique (UVE) moderne et performante.\nVous jouerez un rôle essentiel dans la conduite des installations, la coordination d'équipe et le suivi des performances énergétiques.\n\nVos responsabilités :\n\n- Superviser la conduite des équipements : chaudières, turbines, lignes de traitement, supervision automatisée\n- Piloter les indicateurs de performance énergétique et optimiser la production\n- Encadrer les opérateurs de quart (2 à 4 personnes) : transmission des consignes, sécurité, priorisation des interventions\n- Garantir le respect des règles QHSE : sécurité du personnel, consignation, gestion des incidents\n- Effectuer la maintenance de premier niveau et signaler les dysfonctionnements\n- Assurer un reporting régulier : bilans de production, anomalies, propositions d'amélioration\n\nType d'emploi : CDI\n\nRémunération : 34 000,00€ à 45 910,89€ par an\n\nAvantages :\n* Intéressement et participation\n\nQuestion(s) de présélection:\n* Êtes-vous capable de lire et expliquer un schéma PID (plan de pilotage d'une installation industrielle)\n* Avez-vous déjà travaillé avec un système de supervision industrielle ?\n\nFormation:\n* Bac +2 (BTS, DUT, DEUG) (Requis)\n\nLieu du poste : En présentiel",
-      "dateCreation": "2026-10-30T21:32:06.024Z",
-      "dateActualisation": "2026-10-30T21:32:06.024Z",
+      "id": "8452158",
+      "intitule": "Chef de quart usine (H/F)",
+      "description": "Description de l'entreprise\nVeolia est leader mondial des services à l'environnement (eau, déchets, énergie) auprès des collectivités locales et des entreprises. Résolument optimistes et déterminés, nous œuvrons au service de la transformation écologique.\nRejoignez les 15 000 collaborateurs de Veolia Eau France qui s'engagent au quotidien auprès des collectivités et des industriels pour desservir 1 français sur 3 en eau potable, dépolluer les eaux usées, produire de l'énergie renouvelable et sensibiliser les consommateurs. Face aux impacts du changement climatique, nous proposons des solutions innovantes, locales et flexibles pour adapter la gestion de l'eau.\nEnsemble soyons acteurs de la transformation écologique !\nDescription du poste\nSous l'autorité du Responsable d'exploitation de la station d'épuration de Marquette-lez-Lille, vous intégrerez l'équipe exploitation en tant que Chef de Quart.\n\nCe poste implique des horaires en 3x8 continu, en rotation dans une équipe de 8 chef de quart, weekend et jours fériés inclus dans cette rotation. Ce qui donne droit à des primes et jours de repos supplémentaires.\nAprès une formation de 2 mois en journées sur les différents ateliers de la station, et l'obtention des habilitations nécessaires, Vous assurez l'ensemble des tâches d'exploitation courantes, du pilotage à la surveillance des différents process eaux et boues :\n- Vous pilotez, réglez et surveillez les paramètres process depuis les supervisions\n\n- Vous assurez le signalement des anomalies/incidents de fonctionnement ou de toute situation dangereuse et réalisez une remontée d'information auprès de votre responsable ou lors des réunions journalières dédiées\n\n- Vous renseignez les documents de suivi reliés à votre activité (tournées d'exploitation, cahier de quart, logiciel d'aide à l'exploitation, etc.) et rendez compte de votre activité auprès de votre responsable. Faisant ainsi remonter tout événement inhabituel.\n\n- Vous intervenez sur les opérations de maintenance de 1er niveau (réglage des installations, localisation, analyse des dysfonctionnements) et êtes à même de prendre en charge certaines opérations de 2ème niveau\n\n- Vous entreprenez vos missions dans le respect des consignes d'hygiène et de sécurité, en veillant à la bonne application des démarches qualiténvironnement\n\nQualifications\n- De formation Bac pro ou Bac +2 à dominance technique, vous justifiez idéalement d'une première expérience dans le traitement de l'eau.\n\n- Vous faites preuve de rigueur, d'autonomie, d'un esprit d'initiative aiguisé.\n\n- Vous connaissez les bases d'utilisation de logiciels bureautiques (Cf. : Excel, Sheets, Word, .)\n\nInformations supplémentaires\nREJOIGNEZ-NOUS!\nRejoindre Veolia, c'est intégrer une entreprise où le respect, la solidarité, et la responsabilité vis-à-vis des collaborateurs et des clients sont au coeur des valeurs. Rejoindre Veolia, c'est aussi bénéficier d'une politique de rémunération attractive et de multiples avantages s'inscrivant au coeur de la stratégie de l'entreprise : 13,5 mois, un nombre de congés avantageux, tickets restaurants, CSE, mutuelle avantageuse, participation et intéressement, prime d'indemnité eau. Ce poste implique également des primes de quart, jours de récupération et congés supplémentaires.\nEn tant qu'entreprise inclusive, Veolia s'engage pour la diversité et accorde la même considération à toutes les candidatures, sans discrimination.\n\nEn tant qu'entreprise inclusive, Veolia s'engage pour la diversité et accorde la même considération à toutes les candidatures, sans discrimination.",
+      "dateCreation": "2026-10-31T18:30:56.719Z",
+      "dateActualisation": "2026-10-31T18:30:56.719Z",
       "lieuTravail": {
-        "libelle": "83 - Brignoles",
-        "codePostal": "83170",
-        "commune": "83023"
+        "libelle": "59 - Marquette-lez-Lille",
+        "codePostal": "59520",
+        "commune": "59386"
       },
-      "romeCode": "H1501",
-      "romeLibelle": "Responsable de laboratoire d'analyse industrielle",
-      "appellationlibelle": "Chef / Cheffe de quart laboratoire d'analyse industrielle",
-      "entreprise": {},
+      "romeCode": "I1605",
+      "romeLibelle": "Mécanicien / Mécanicienne en mécanique marine ou navale",
+      "appellationlibelle": "Mécanicien / Mécanicienne de quart",
+      "entreprise": {
+        "nom": "Veolia Eau Hauts-de-France"
+      },
       "typeContrat": "CDI",
       "typeContratLibelle": "CDI",
       "natureContrat": "Contrat travail",
@@ -7427,14 +7315,18 @@
       "alternance": false,
       "contact": {},
       "nombrePostes": 1,
+      "codeNAF": "94.20Z",
+      "secteurActivite": "94",
+      "secteurActiviteLibelle": "Activités des syndicats de salariés",
+      "trancheEffectifEtab": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
       "origineOffre": {
         "origine": "2",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8425900",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8452158",
         "partenaires": [
           {
-            "nom": "INDEED",
-            "url": "https://fr.indeed.com/job/chef-de-quart-usine-de-valorisation-%C3%A9nerg%C3%A9tique-hf-3ef280525ed7f1d9?from=poleemploi",
-            "logo": "https://www.francetravail.fr/logos/img/partenaires/indeed80.png"
+            "nom": "JOBS THAT MAKE SENS",
+            "url": "https://jobs.makesense.org/fr/jobs/veolia-eau-hauts-de-france-chef-de-quart-usine-hf-MLXuvhLDCDMG0n2oB5NX?source=france_travail",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/jobthatmakesens80.png"
           }
         ]
       },
@@ -8200,7 +8092,7 @@
       "intitule": "Responsable du pilotage global projet de création d'usine mécanique, zone grand export f/h (H/F)",
       "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 110 000 collaborateurs pour un chiffre d'affaires de 31,3 milliards d'euros en 2025, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. \n\nSafran est la 2ème entreprise du secteur aéronautique et défense du classement « World's Best Companies 2025 » du magazine TIME.\n\n\n\nSafran Electronics & Defense est une entreprise internationale de plus de 19 000 collaboratrices et collaborateurs, qui mobilisent expertises et esprit de corps pour concevoir des solutions de haute technologie dans les domaines de l'aéronautique, de la défense et du spatial. En combinant intelligence humaine et technologique, l'entreprise développe des produits et services pour les acteurs du monde civil et militaires, sur terre, en mer, dans le ciel et dans l'espace.\n\n\n\nParce que nous sommes persuadés que chaque talent compte, nous valorisons et encourageons les candidatures de personnes en situation de handicap pour nos opportunités d'emploi.\n\n\nDescriptif missionPiloter la création complète d'une usine mécanique destinée à la production de pièces usinées CNC, depuis la phase de cadrage industriel jusqu'au démarrage opérationnel du site. L'usine sera intégrée avec des capacitaire usinage, traitement thermiques et traitements de surface.\n\nLa localisation de l'usine est en cours de détermination et devrait être en Inde (ou éventuellement en Asie).\n\n\n\nResponsabilités principales\n\no Structurer le projet, définir le périmètre, les jalons, le budget pour chaque étape, les risques et les livrables en développant un système de production 'state of the art' en termes de manufacturing 4.0, décarbonations, Lean permettant de doter SED d'un outil industriel compétitif pour les actionnements.\n\no Construire et tenir le master planning du projet, en intégrant les dépendances entre bâtiment, machines, utilités et organisation opérationnelle.\n\no Coordonner les responsables métiers et assurer la cohérence globale entre les lots techniques.\n\no Préparer les comités de pilotage, les arbitrages budgétaires et les décisions d'investissement.\n\no Suivre les risques couts, délais, qualité, sécurité, fournisseurs, ressources et autorisations.\n\no Organiser la transition entre la phase projet et la phase exploitation avec le General Manager local.\n\no Garantir que la vision industrielle initiale soit traduite en capacite de production réelle, exploitable et performante.\n\no Piloter le choix, la qualification et l'industrialisation des procédés de fabrication mécanique (usinage, formage, assemblage, traitement), en lien avec les exigences qualité et les volumes de production cibles.\n\no Superviser la réception, l'installation et la mise en service des équipements et lignes de production (machines-outils, moyens de contrôle, manutention), en garantissant le respect des spécifications techniques, des délais fournisseurs et des standards HSE.",
       "dateCreation": "2026-07-28T08:15:42.000Z",
-      "dateActualisation": "2026-09-30T08:15:45.650Z",
+      "dateActualisation": "2026-11-01T08:15:45.934Z",
       "lieuTravail": {
         "libelle": "92 - Malakoff",
         "codePostal": "92240",
@@ -8225,7 +8117,7 @@
         "partenaires": [
           {
             "nom": "AEROCONTACT",
-            "url": "https://www.aerocontact.com/emploi-aeronautique/responsable-du-pilotage-global-projet-de-creation-d-usine-mecanique-zone-grand-export-fh~1186654.html?fromref=poleemploi",
+            "url": "https://www.aerocontact.com/emploi-aeronautique/responsable-du-pilotage-global-projet-de-creation-d-usine-mecanique-zone-grand-export-fh~1202648.html?fromref=poleemploi",
             "logo": "https://www.francetravail.fr/logos/img/partenaires/aerocontact80.png"
           }
         ]
@@ -9236,62 +9128,6 @@
         "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/214JCXT"
       },
       "offresManqueCandidats": true,
-      "contexteTravail": {
-        "horaires": [
-          "35H/semaine\nTravail en journée"
-        ]
-      },
-      "entrepriseAdaptee": false,
-      "employeurHandiEngage": false
-    },
-    {
-      "id": "213QGPR",
-      "intitule": "DIRECTEUR DE SITE OPERATIONNEL - INDUSTRIE DU VERRE (H/F)",
-      "description": "Acteur majeur de la transformation du verre plat en France, notre Groupe réunit aujourd'hui six unités de production industrielles et plus de 800 collaborateurs autour d'une ambition commune : proposer des solutions verrières toujours plus performantes, innovantes et responsables. Spécialisé dans les vitrages isolants, techniques et décoratifs, nous associons savoir-faire industriel, automatisation et innovation pour répondre aux projets les plus exigeants du secteur du bâtiment.\n\nDans le cadre d'une succession, notre nouvelle entité haut marnaise recherche aujourd'hui son futur Directeur de Site Opérationnel - Industrie du Verre. \n\nRattaché(e) au Directeur Industriel Groupe, vous prenez la responsabilité globale du site et en assurez la performance opérationnelle, humaine et économique. Véritable chef(fe) d'orchestre, vous êtes présent(e) au quotidien auprès des équipes et des ateliers pour piloter l'activité, accompagner les responsables de services et garantir l'atteinte des objectifs en matière de sécurité, qualité, coûts, délais et performance industrielle.\n\nVos Missions :\n- Définir et mettre en œuvre les objectifs de production en lien avec la stratégie industrielle du Groupe\n- Piloter les plans de charge, les capacités de production, les délais et les priorités opérationnelles\n- Suivre les indicateurs de performance et identifier les leviers permettant d'améliorer productivité, efficience et rentabilité\n- Être présent(e) sur le terrain afin d'identifier les dysfonctionnements, apporter votre expertise et accompagner les équipes dans la recherche de solutions\n- Garantir la qualité des produits et le respect des délais de livraison clients\n- Piloter le budget du site et contribuer à l'identification des besoins d'investissements\n- Encadrer vos équipes Production, HSE, Qualité, Maintenance, Logistique, Process, RH, Projets et Amélioration Continue\n- Donner un cadre clair, fixer les priorités et responsabiliser les managers dans leurs périmètres\n- Être un véritable point d'appui pour les équipes et favoriser la circulation de l'information entre les différents services\n- Développer les compétences et l'autonomie des managers et accompagner la montée en puissance des équipes.\n- Maintenir un dialogue social constructif avec les représentants du personnel, en lien avec les RH\n- Travailler en proximité avec les équipes commerciales et les clients afin de garantir une bonne compréhension des besoins et la qualité du service apporté\n- Gérer le plan de progrès de votre site afin d'améliorer les performances\n- Accompagner l'évolution des gammes et le lancement de nouveaux produits à forte valeur ajoutée\n- Identifier et proposer les investissements permettant d'accroître les capacités et la performance du site\n- Participer au développement d'une activité reposant à la fois sur des productions récurrentes et sur des réalisations verrières techniques et exceptionnelles\n- Être le garant du respect des règles HSE et de la sécurité des collaborateurs\n- Veiller au respect des exigences qualité et des normes applicables\n- Assurer une communication transparente avec le Groupe et assurer le reporting auprès du Directeur Industriel\n\nDe formation supérieure, vous justifiez d'une expérience significative d'au moins 10 ans en management d'un site industriel ainsi qu'en management d'équipes et avez nécessairement évolué dans un environnement de transformation du verre ou en menuiserie industrielle.\n\nAu-delà de votre expertise industrielle, vous êtes avant tout un manager de terrain, capable de prendre de la hauteur tout en restant proche des opérations. Vous savez donner un cadre, prendre des décisions, assumer vos choix et mobiliser vos équipes autour d'objectifs communs.\n\nVotre capacité à analyser une situation, identifier les priorités et agir rapidement, associée à une réelle culture du résultat, sera essentielle pour réussir dans ce poste.",
-      "dateCreation": "2026-09-09T11:54:27.864Z",
-      "dateActualisation": "2026-10-01T16:59:32.938Z",
-      "lieuTravail": {
-        "libelle": "52 - SAINT-DIZIER",
-        "latitude": 48.637511,
-        "longitude": 4.947543,
-        "codePostal": "52100",
-        "commune": "52448"
-      },
-      "romeCode": "H2510",
-      "romeLibelle": "Directeur / Directrice de production industrielle",
-      "appellationlibelle": "Directeur / Directrice de production industrielle",
-      "entreprise": {
-        "nom": "BARAN RECRUTEMENT",
-        "description": "Installés depuis 25 ans au coeur de la région Grand Est, nous sommes aujourd'hui présents sur l'ensemble du territoire français, et accompagnons nos clients-partenaires (PME et grands comptes) dans le recrutement, l'évaluation, l'intégration et le développement de leurs collaborateurs et collaboratrices. Notre cabinet conjugue ressources humaines et psychologie du travail pour révéler des talents, développer des potentiels, accompagner des mutations, au service de la performance des entreprises."
-      },
-      "typeContrat": "CDI",
-      "typeContratLibelle": "CDI",
-      "natureContrat": "Contrat travail",
-      "experienceExige": "E",
-      "experienceLibelle": "10 An(s)",
-      "salaire": {
-        "commentaire": "A négocier"
-      },
-      "dureeTravailLibelle": "35H/semaine\nTravail en journée",
-      "dureeTravailLibelleConverti": "Temps plein",
-      "alternance": false,
-      "contact": {
-        "nom": "BARAN RECRUTEMENT - Mme Emilie CREPET",
-        "coordonnees1": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213QGPR",
-        "courriel": "Pour postuler, utiliser le lien suivant : https://candidat.francetravail.fr/offres/recherche/detail/213QGPR"
-      },
-      "agence": {},
-      "nombrePostes": 1,
-      "qualificationCode": "9",
-      "qualificationLibelle": "Cadre",
-      "codeNAF": "78.10Z",
-      "secteurActivite": "78",
-      "secteurActiviteLibelle": "Activités des agences de placement de main-d'œuvre",
-      "trancheEffectifEtab": "6 à 9 salariés",
-      "origineOffre": {
-        "origine": "1",
-        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/213QGPR"
-      },
       "contexteTravail": {
         "horaires": [
           "35H/semaine\nTravail en journée"
@@ -12776,6 +12612,135 @@
           "35H/semaine\nTravail en journée"
         ]
       },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "215LYLV",
+      "intitule": "Adjoint directeur R&D électronique (H/F)",
+      "description": "Vous êtes passionné par l'électronique et l'innovation technique ?\n\nVous avez envie de participer activement à la conception de produits électroniques, de l'idée à l'industrialisation ? En tant qu'adjoint au directeur R&D, vous jouerez un rôle clé dans le développement de solutions embarquées, en lien étroit avec les clients et les équipes internes. \nVous rédigerez des cahiers des charges clairs, concevrez des schémas électroniques précis, superviserez les prototypes et définirez les protocoles de test. Vous interviendrez aussi sur le chiffrage des projets et accompagnerez les lancements en production, tout en garantissant une documentation technique irréprochable.\n\nIngénieur expérimenté, vous êtes rigoureux, curieux et orienté résultats. Ce rôle vous permettra de valoriser pleinement votre expertise dans un environnement stimulant, où chaque idée compte.",
+      "dateCreation": "2026-10-21T08:25:54.520Z",
+      "dateActualisation": "2026-10-21T08:58:36.866Z",
+      "lieuTravail": {
+        "libelle": "10 - NOGENT SUR SEINE",
+        "latitude": 48.492518,
+        "longitude": 3.498124,
+        "codePostal": "10400",
+        "commune": "10268"
+      },
+      "romeCode": "H1206",
+      "romeLibelle": "Ingénieur / Ingénieure R&D en industrie",
+      "appellationlibelle": "Responsable recherche-développement en industrie",
+      "entreprise": {
+        "nom": "OUI",
+        "entrepriseAdaptee": false
+      },
+      "typeContrat": "CDI",
+      "typeContratLibelle": "CDI",
+      "natureContrat": "Contrat travail",
+      "experienceExige": "E",
+      "experienceLibelle": "5 An(s)",
+      "langues": [
+        {
+          "libelle": "Anglais",
+          "exigence": "S"
+        }
+      ],
+      "competences": [
+        {
+          "code": "124529",
+          "libelle": "Déterminer des axes d'évolution technologiques",
+          "exigence": "S"
+        },
+        {
+          "code": "300488",
+          "libelle": "Concevoir et gérer un projet",
+          "exigence": "S"
+        }
+      ],
+      "salaire": {
+        "commentaire": "suivant expérience"
+      },
+      "dureeTravailLibelle": "39H/semaine\nTravail en journée",
+      "dureeTravailLibelleConverti": "Temps plein",
+      "alternance": false,
+      "contact": {},
+      "agence": {},
+      "nombrePostes": 1,
+      "deplacementCode": "1",
+      "deplacementLibelle": "Jamais",
+      "qualificationCode": "6",
+      "qualificationLibelle": "Employé qualifié",
+      "codeNAF": "70.22Z",
+      "secteurActivite": "70",
+      "secteurActiviteLibelle": "Conseil pour les affaires et autres conseils de gestion",
+      "qualitesProfessionnelles": [
+        {
+          "libelle": "Faire preuve de leadership",
+          "description": "Capacité à mobiliser une équipe/des interlocuteurs et à les entraîner dans la poursuite d'un objectif partagé."
+        },
+        {
+          "libelle": "Faire preuve de rigueur et de précision",
+          "description": "Capacité à réaliser des tâches en suivant avec exactitude les règles, les procédures, les instructions qui ont été fournies, sans réaliser d'erreur et à transmettre clairement des informations. Se montrer ponctuel et respectueux des règles de savoir-vivre usuelles."
+        },
+        {
+          "libelle": "Faire preuve d'autonomie",
+          "description": "Capacité à prendre en charge son activité sans devoir être encadré de façon continue (le cas échéant, à solliciter les autres acteurs de l'entreprise)."
+        }
+      ],
+      "origineOffre": {
+        "origine": "1",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/215LYLV"
+      },
+      "offresManqueCandidats": false,
+      "contexteTravail": {
+        "horaires": [
+          "39H/semaine\nTravail en journée"
+        ]
+      },
+      "entrepriseAdaptee": false,
+      "employeurHandiEngage": false
+    },
+    {
+      "id": "8457673",
+      "intitule": "Manager de transition COO/CRO - Go to Market   - Freelance (H/F)",
+      "description": "Notre client - entreprise française de la tech spécialisée en Cybersécurité - cherche à se doter d'un expert, manager de transition - Directeur des Opérations / COO - pour accompagner sa nouvelle organisation.\nSon enjeu principal sera de structurer l'organisation, préserver la culture d'excellence (experts de très haut niveau) et d'aligner le pilotage opérationnel.\n\nIl interviendra notamment sur :\n\n * \n\n   A. Go-To-Market, structuration d'offres & performance Business\n\n   - Packaging et lisibilité d'offres : transformer les briques technologiques complexes et le savoir-faire des chercheurs en offres commercialisables, structurées et lisibles pour les grands comptes.\n\n   - Animation commerciale & alignment GTM : structurer la démarche commerciale, soutenir l'équipe Ventes/Avant-vente et aligner les priorités commerciales sur les capacités techniques de delivery.\n\n   - Pilotage du P&L et du BP : décliner les objectifs du DG en trajectoires opérationnelles et piloter la réalisation effective du chiffre d'affaires.\n\n   B. Coordination transverse et adhésion des experts\n\n   - Synchroniser les fonctions Tech/R&D, Sales/GTM et Opérations sans se substituer aux managers métiers.\n\n   - Arbitrer les priorités et les dépendances inter-équipes.\n\n   - Créer l'adhésion des ingénieurs/experts à la dynamique business par l'influence et la valeur métier\n\n   C. Intégration groupe & excellence opérationnelle\n\n   - Servir de passerelle pour l'adoption progressive des standards grand groupe (processus, reporting, gouvernance).\n\n   - Mettre en place la cadence de pilotage (KPI, business reviews, suivi des plans d'action).\n\n   - Fiabiliser le delivery, améliorer la scalabilité et réduire le s dépendances individuelles sur les projets critiques.\n\n6 mois - idéalement full-time\n\nExpérience : 15+ ans, issu(e) impérativement de la cybersécurité / du reverse engineering.\n\nParcours : expérience réussie en management de transition avec pilotage de P&L/BU ou directions opérationnelles.\n\nPostures & compétences : capacité d'entraînement par l'adhésion, rigueur d'exécution, excellente intelligence relationnelle.\n\nLangues : français / anglais",
+      "dateCreation": "2026-11-01T09:04:02.966Z",
+      "dateActualisation": "2026-11-01T09:04:02.966Z",
+      "lieuTravail": {
+        "libelle": "92 - Boulogne-Billancourt",
+        "codePostal": "92100",
+        "commune": "92012"
+      },
+      "romeCode": "K1732",
+      "romeLibelle": "Spécialiste des systèmes de communication opérationnels",
+      "appellationlibelle": "Conseiller emploi des forces & planif° opérat° milieu cyber",
+      "entreprise": {
+        "nom": "Collective.work"
+      },
+      "typeContrat": "LIB",
+      "typeContratLibelle": "Profession libérale",
+      "natureContrat": "Emploi non salarié",
+      "experienceExige": "D",
+      "experienceLibelle": "Débutant accepté",
+      "salaire": {
+        "commentaire": "-  /"
+      },
+      "alternance": false,
+      "contact": {},
+      "nombrePostes": 1,
+      "origineOffre": {
+        "origine": "2",
+        "urlOrigine": "https://candidat.francetravail.fr/offres/recherche/detail/8457673",
+        "partenaires": [
+          {
+            "nom": "XTRAMILE",
+            "url": "https://api-v2-multidiff.xtramile.io/collect/f2fad7390dbe0721079b631d13170af5",
+            "logo": "https://www.francetravail.fr/logos/img/partenaires/xtramile80.png"
+          }
+        ]
+      },
+      "contexteTravail": {},
       "entrepriseAdaptee": false,
       "employeurHandiEngage": false
     },
